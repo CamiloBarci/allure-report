@@ -1,0 +1,30 @@
+https://www.kokogenetics.com/en/item.breed.438.url generated an exception: Link https://www.kokogenetics.com/en/item.breed.438.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/en/item.breed.431.url generated an exception: Link https://www.kokogenetics.com/en/item.breed.431.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/en/item.traits.12.url generated an exception: Link https://www.kokogenetics.com/en/item.traits.12.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/en/item.breed.435.url generated an exception: Link https://www.kokogenetics.com/en/item.breed.435.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/en/results/cat-health-test/blood-group generated an exception: Link https://www.kokogenetics.com/en/results/cat-health-test/blood-group returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/en/results/cat-health-test/chediak-higashi-syndrome generated an exception: Link https://www.kokogenetics.com/en/results/cat-health-test/chediak-higashi-syndrome returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/en/results/cat-health-test/mucopolysaccharidosis-type-vi-variant-2 generated an exception: Link https://www.kokogenetics.com/en/results/cat-health-test/mucopolysaccharidosis-type-vi-variant-2 returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/en/results/cat-health-test/multiple-acyl-coa-dehydrogenase-deficiency generated an exception: Link https://www.kokogenetics.com/en/results/cat-health-test/multiple-acyl-coa-dehydrogenase-deficiency returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/en/results/cat-health-test/spinal-muscular-atrophy generated an exception: Link https://www.kokogenetics.com/en/results/cat-health-test/spinal-muscular-atrophy returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/en/results/cat-traits-test/dominant-white-coat generated an exception: Link https://www.kokogenetics.com/en/results/cat-traits-test/dominant-white-coat returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/en/results/cat-traits-test/curly-coat-gene-liph-ural-rex generated an exception: Link https://www.kokogenetics.com/en/results/cat-traits-test/curly-coat-gene-liph-ural-rex returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/en/results/cat-traits-test/polydactylism-uk2-variant-cats generated an exception: Link https://www.kokogenetics.com/en/results/cat-traits-test/polydactylism-uk2-variant-cats returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/en/results/cat-traits-test/polydactylism-hw-variant-cats generated an exception: Link https://www.kokogenetics.com/en/results/cat-traits-test/polydactylism-hw-variant-cats returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/en/results/cat-traits-test/long-hair-gene-fgf5-maine-coon-and-ragdoll generated an exception: Link https://www.kokogenetics.com/en/results/cat-traits-test/long-hair-gene-fgf5-maine-coon-and-ragdoll returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/en/results/cat-traits-test/polydactylism-uk1-variant-cats generated an exception: Link https://www.kokogenetics.com/en/results/cat-traits-test/polydactylism-uk1-variant-cats returned status code 500
+assert 500 not in (404, 500)
