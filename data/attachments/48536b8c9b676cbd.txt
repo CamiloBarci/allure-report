@@ -1,0 +1,2 @@
+https://www.tellmegen.com/sv/genetisk-predisposition-test generated an exception: Link https://www.tellmegen.com/sv/genetisk-predisposition-test returned status code 404
+assert 404 not in (404, 500)
