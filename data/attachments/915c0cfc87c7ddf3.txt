@@ -1,0 +1,24 @@
+https://www.kokogenetics.com/fr/item.breed.431.url generated an exception: Link https://www.kokogenetics.com/fr/item.breed.431.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/fr/item.breed.435.url generated an exception: Link https://www.kokogenetics.com/fr/item.breed.435.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/fr/item.breed.438.url generated an exception: Link https://www.kokogenetics.com/fr/item.breed.438.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/fr/item.traits.12.url generated an exception: Link https://www.kokogenetics.com/fr/item.traits.12.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/syndrome-persistance-canaux-müller generated an exception: Link https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/syndrome-persistance-canaux-müller returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/dysgénésie-cérébrale generated an exception: Link https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/dysgénésie-cérébrale returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/groupe-sanguin generated an exception: Link https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/groupe-sanguin returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/mucopolysaccharidose-type-vi-variante-2 generated an exception: Link https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/mucopolysaccharidose-type-vi-variante-2 returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/modele-tigré-blotched-2 generated an exception: Link https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/modele-tigré-blotched-2 returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/modele-tigré-blotched-1 generated an exception: Link https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/modele-tigré-blotched-1 returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/modele-tigré-blotched-3 generated an exception: Link https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/modele-tigré-blotched-3 returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/queue-courte-et-enroulée-gen-hes7 generated an exception: Link https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/queue-courte-et-enroulée-gen-hes7 returned status code 500
+assert 500 not in (404, 500)

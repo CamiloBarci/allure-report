@@ -1,0 +1,12 @@
+https://www.kokogenetics.com/en/item.breed.435.url generated an exception: Link https://www.kokogenetics.com/en/item.breed.435.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/en/item.breed.431.url generated an exception: Link https://www.kokogenetics.com/en/item.breed.431.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/en/item.breed.438.url generated an exception: Link https://www.kokogenetics.com/en/item.breed.438.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/en/item.traits.12.url generated an exception: Link https://www.kokogenetics.com/en/item.traits.12.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/en/results/cat-health-test/blood-group generated an exception: Link https://www.kokogenetics.com/en/results/cat-health-test/blood-group returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/en/results/cat-health-test/mucopolysaccharidosis-type-vi-variant-2 generated an exception: Link https://www.kokogenetics.com/en/results/cat-health-test/mucopolysaccharidosis-type-vi-variant-2 returned status code 500
+assert 500 not in (404, 500)
