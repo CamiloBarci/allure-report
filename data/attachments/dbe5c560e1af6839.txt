@@ -1,0 +1,30 @@
+https://www.kokogenetics.com/pt/item.breed.438.url generated an exception: Link https://www.kokogenetics.com/pt/item.breed.438.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/pt/item.breed.431.url generated an exception: Link https://www.kokogenetics.com/pt/item.breed.431.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/pt/item.breed.435.url generated an exception: Link https://www.kokogenetics.com/pt/item.breed.435.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/pt/item.traits.12.url generated an exception: Link https://www.kokogenetics.com/pt/item.traits.12.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/pt/resultados/doencas-geneticas-gatos/atrofia-muscular-espinhal generated an exception: Link https://www.kokogenetics.com/pt/resultados/doencas-geneticas-gatos/atrofia-muscular-espinhal returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/pt/resultados/doencas-geneticas-gatos/deficiencia-multipla-de-acil-coa-desidrogenase generated an exception: Link https://www.kokogenetics.com/pt/resultados/doencas-geneticas-gatos/deficiencia-multipla-de-acil-coa-desidrogenase returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/pt/resultados/doencas-geneticas-gatos/mucopolisacaridose-tipo-vi-variante-2 generated an exception: Link https://www.kokogenetics.com/pt/resultados/doencas-geneticas-gatos/mucopolisacaridose-tipo-vi-variante-2 returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/pt/resultados/doencas-geneticas-gatos/grupo-sanguineo generated an exception: Link https://www.kokogenetics.com/pt/resultados/doencas-geneticas-gatos/grupo-sanguineo returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/pt/resultados/doencas-geneticas-gatos/sindrome-de-chediak-higashi generated an exception: Link https://www.kokogenetics.com/pt/resultados/doencas-geneticas-gatos/sindrome-de-chediak-higashi returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/pelo-cacheado-gen-liph-ural-rex generated an exception: Link https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/pelo-cacheado-gen-liph-ural-rex returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/pelo-longo-gen-fgf5-maine-coon-e-ragdoll generated an exception: Link https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/pelo-longo-gen-fgf5-maine-coon-e-ragdoll returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/polidactilia-variante-hw-gatos generated an exception: Link https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/polidactilia-variante-hw-gatos returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/polidactilia-variante-uk2-gatos generated an exception: Link https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/polidactilia-variante-uk2-gatos returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/pelo-branco-dominante generated an exception: Link https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/pelo-branco-dominante returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/polidactilia-variante-uk1-gatos generated an exception: Link https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/polidactilia-variante-uk1-gatos returned status code 500
+assert 500 not in (404, 500)
