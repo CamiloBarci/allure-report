@@ -1,0 +1,30 @@
+https://www.kokogenetics.com/fr/item.breed.438.url generated an exception: Link https://www.kokogenetics.com/fr/item.breed.438.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/fr/item.breed.431.url generated an exception: Link https://www.kokogenetics.com/fr/item.breed.431.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/fr/item.breed.435.url generated an exception: Link https://www.kokogenetics.com/fr/item.breed.435.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/fr/item.traits.12.url generated an exception: Link https://www.kokogenetics.com/fr/item.traits.12.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/atrophie-musculaire-spinale generated an exception: Link https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/atrophie-musculaire-spinale returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/deficience-multiple-en-acyl-coa-deshydrogenase generated an exception: Link https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/deficience-multiple-en-acyl-coa-deshydrogenase returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/groupe-sanguin generated an exception: Link https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/groupe-sanguin returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/mucopolysaccharidose-type-vi-variante-2 generated an exception: Link https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/mucopolysaccharidose-type-vi-variante-2 returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/syndrome-de-chediak-higashi generated an exception: Link https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/syndrome-de-chediak-higashi returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/poil-boucle-gen-liph-ural-rex generated an exception: Link https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/poil-boucle-gen-liph-ural-rex returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/poil-blanc-dominant generated an exception: Link https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/poil-blanc-dominant returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/polydactylie-variante-uk1-chats generated an exception: Link https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/polydactylie-variante-uk1-chats returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/polydactylie-variante-uk2-chats generated an exception: Link https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/polydactylie-variante-uk2-chats returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/polydactylie-variante-hw-chats generated an exception: Link https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/polydactylie-variante-hw-chats returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/poil-long-gen-fgf5-maine-coon-et-ragdoll generated an exception: Link https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/poil-long-gen-fgf5-maine-coon-et-ragdoll returned status code 500
+assert 500 not in (404, 500)

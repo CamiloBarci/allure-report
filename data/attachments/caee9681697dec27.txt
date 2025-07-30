@@ -1,0 +1,30 @@
+https://www.kokogenetics.com/de/item.breed.438.url generated an exception: Link https://www.kokogenetics.com/de/item.breed.438.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/de/item.breed.435.url generated an exception: Link https://www.kokogenetics.com/de/item.breed.435.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/de/item.traits.12.url generated an exception: Link https://www.kokogenetics.com/de/item.traits.12.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/de/item.breed.431.url generated an exception: Link https://www.kokogenetics.com/de/item.breed.431.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/dominantes-weisses-fell generated an exception: Link https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/dominantes-weisses-fell returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/polydaktylie-variante-hw-katzen generated an exception: Link https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/polydaktylie-variante-hw-katzen returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/langhaar-gen-fgf5-maine-coon-und-ragdoll generated an exception: Link https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/langhaar-gen-fgf5-maine-coon-und-ragdoll returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/polydaktylie-variante-uk2-katzen generated an exception: Link https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/polydaktylie-variante-uk2-katzen returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/polydaktylie-variante-uk1-katzen generated an exception: Link https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/polydaktylie-variante-uk1-katzen returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/lockiges-fell-gen-liph-ural-rex generated an exception: Link https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/lockiges-fell-gen-liph-ural-rex returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-katzen/blutgruppe generated an exception: Link https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-katzen/blutgruppe returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-katzen/chediak-higashi-syndrom generated an exception: Link https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-katzen/chediak-higashi-syndrom returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-katzen/mukopolysaccharidose-typ-vi-variante-2 generated an exception: Link https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-katzen/mukopolysaccharidose-typ-vi-variante-2 returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-katzen/multipler-acyl-coa-dehydrogenase-mangel generated an exception: Link https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-katzen/multipler-acyl-coa-dehydrogenase-mangel returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-katzen/spinale-muskelatrophie generated an exception: Link https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-katzen/spinale-muskelatrophie returned status code 500
+assert 500 not in (404, 500)
