@@ -1,0 +1,30 @@
+https://www.kokogenetics.com/nl/item.traits.12.url generated an exception: Link https://www.kokogenetics.com/nl/item.traits.12.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/nl/item.breed.431.url generated an exception: Link https://www.kokogenetics.com/nl/item.breed.431.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/nl/item.breed.435.url generated an exception: Link https://www.kokogenetics.com/nl/item.breed.435.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/nl/item.breed.438.url generated an exception: Link https://www.kokogenetics.com/nl/item.breed.438.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/bloedgroep generated an exception: Link https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/bloedgroep returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/meervoudige-acyl-coa-dehydrogenase-deficientie generated an exception: Link https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/meervoudige-acyl-coa-dehydrogenase-deficientie returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/mucopolysaccharidose-type-vi-variant-2 generated an exception: Link https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/mucopolysaccharidose-type-vi-variant-2 returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/syndroom-van-chediak-higashi generated an exception: Link https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/syndroom-van-chediak-higashi returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/spinale-musculaire-atrofie generated an exception: Link https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/spinale-musculaire-atrofie returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/dominante-witte-vacht generated an exception: Link https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/dominante-witte-vacht returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/krullend-vacht-gen-liph-ural-rex generated an exception: Link https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/krullend-vacht-gen-liph-ural-rex returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/langhaar-gen-fgf5-maine-coon-en-ragdoll generated an exception: Link https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/langhaar-gen-fgf5-maine-coon-en-ragdoll returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/polidactylie-variant-hw-katten generated an exception: Link https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/polidactylie-variant-hw-katten returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/polidactylie-variant-uk2-katten generated an exception: Link https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/polidactylie-variant-uk2-katten returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/polidactylie-variant-uk1-katten generated an exception: Link https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/polidactylie-variant-uk1-katten returned status code 500
+assert 500 not in (404, 500)
