@@ -1,0 +1,30 @@
+https://www.kokogenetics.com/fi/item.traits.12.url generated an exception: Link https://www.kokogenetics.com/fi/item.traits.12.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/fi/item.breed.435.url generated an exception: Link https://www.kokogenetics.com/fi/item.breed.435.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/fi/item.breed.431.url generated an exception: Link https://www.kokogenetics.com/fi/item.breed.431.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/fi/item.breed.438.url generated an exception: Link https://www.kokogenetics.com/fi/item.breed.438.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-ominaisuudet/dominantti-valkoinen-turkki generated an exception: Link https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-ominaisuudet/dominantti-valkoinen-turkki returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-ominaisuudet/kiharaturkki-geeni-liph-ural-rex generated an exception: Link https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-ominaisuudet/kiharaturkki-geeni-liph-ural-rex returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-ominaisuudet/polidaktylia-variantti-hw-kissat generated an exception: Link https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-ominaisuudet/polidaktylia-variantti-hw-kissat returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-ominaisuudet/pitkaturkki-geeni-fgf5-maine-coon-ja-ragdoll generated an exception: Link https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-ominaisuudet/pitkaturkki-geeni-fgf5-maine-coon-ja-ragdoll returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-ominaisuudet/polidaktylia-variantti-uk1-kissat generated an exception: Link https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-ominaisuudet/polidaktylia-variantti-uk1-kissat returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-sairaudet/chediak-higashi-oireyhtyma generated an exception: Link https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-sairaudet/chediak-higashi-oireyhtyma returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-ominaisuudet/polidaktylia-variantti-uk2-kissat generated an exception: Link https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-ominaisuudet/polidaktylia-variantti-uk2-kissat returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-sairaudet/multiple-acyl-coa-dehydrogenase-puutos generated an exception: Link https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-sairaudet/multiple-acyl-coa-dehydrogenase-puutos returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-sairaudet/mukopolysackaridoosi-tyyppi-vi-variantti-2 generated an exception: Link https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-sairaudet/mukopolysackaridoosi-tyyppi-vi-variantti-2 returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-sairaudet/spinaali-lihasatrofia generated an exception: Link https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-sairaudet/spinaali-lihasatrofia returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-sairaudet/veriryhmat generated an exception: Link https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-sairaudet/veriryhmat returned status code 500
+assert 500 not in (404, 500)
