@@ -1,0 +1,30 @@
+https://www.kokogenetics.com/item.breed.435.url generated an exception: Link https://www.kokogenetics.com/item.breed.435.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/item.traits.12.url generated an exception: Link https://www.kokogenetics.com/item.traits.12.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/item.breed.438.url generated an exception: Link https://www.kokogenetics.com/item.breed.438.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/item.breed.431.url generated an exception: Link https://www.kokogenetics.com/item.breed.431.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/resultados/enfermedades-geneticas-gatos/atrofia-muscular-espinal generated an exception: Link https://www.kokogenetics.com/resultados/enfermedades-geneticas-gatos/atrofia-muscular-espinal returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/resultados/enfermedades-geneticas-gatos/deficiencia-multiple-de-acil-coa-deshidrogenasa generated an exception: Link https://www.kokogenetics.com/resultados/enfermedades-geneticas-gatos/deficiencia-multiple-de-acil-coa-deshidrogenasa returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/resultados/enfermedades-geneticas-gatos/grupo-sanguineo generated an exception: Link https://www.kokogenetics.com/resultados/enfermedades-geneticas-gatos/grupo-sanguineo returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/resultados/enfermedades-geneticas-gatos/hipotiroidismo-congenito-gen-tpo-varias-razas generated an exception: Link https://www.kokogenetics.com/resultados/enfermedades-geneticas-gatos/hipotiroidismo-congenito-gen-tpo-varias-razas returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/resultados/enfermedades-geneticas-gatos/sindrome-de-chediak-higashi generated an exception: Link https://www.kokogenetics.com/resultados/enfermedades-geneticas-gatos/sindrome-de-chediak-higashi returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/resultados/rasgos-geneticos-gatos/pelaje-rizado-gen-liph-ural-rex generated an exception: Link https://www.kokogenetics.com/resultados/rasgos-geneticos-gatos/pelaje-rizado-gen-liph-ural-rex returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/resultados/rasgos-geneticos-gatos/pelaje-blanco-dominante generated an exception: Link https://www.kokogenetics.com/resultados/rasgos-geneticos-gatos/pelaje-blanco-dominante returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/resultados/rasgos-geneticos-gatos/polidactilia-variante-uk1-gatos generated an exception: Link https://www.kokogenetics.com/resultados/rasgos-geneticos-gatos/polidactilia-variante-uk1-gatos returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/resultados/rasgos-geneticos-gatos/polidactilia-variante-uk2-gatos generated an exception: Link https://www.kokogenetics.com/resultados/rasgos-geneticos-gatos/polidactilia-variante-uk2-gatos returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/resultados/rasgos-geneticos-gatos/pelo-largo-gen-fgf5-maine-coon-y-ragdoll generated an exception: Link https://www.kokogenetics.com/resultados/rasgos-geneticos-gatos/pelo-largo-gen-fgf5-maine-coon-y-ragdoll returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/resultados/rasgos-geneticos-gatos/polidactilia-variante-hw-gatos generated an exception: Link https://www.kokogenetics.com/resultados/rasgos-geneticos-gatos/polidactilia-variante-hw-gatos returned status code 500
+assert 500 not in (404, 500)
