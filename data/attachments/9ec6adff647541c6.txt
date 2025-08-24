@@ -1,0 +1,5 @@
+Kit HJEEDCBA2447 preparado (owner_id = NULL).
+Mail recibido: Activar cuenta
+Mail recibido: Activar cuenta
+Activando cuenta con: https://genportal.tellmegen.eu/activate/kj4q1e5soutv7hvhi4j7j8qgo9
+Owner ID en base de datos luego del registro: 187693
