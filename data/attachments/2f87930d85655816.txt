@@ -1,0 +1,192 @@
+https://www.kokogenetics.com/sv/NOT_FOUND generated an exception: Link https://www.kokogenetics.com/sv/NOT_FOUND returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/sv/item.traits.12.url generated an exception: Link https://www.kokogenetics.com/sv/item.traits.12.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/sv/item.breed.435.url generated an exception: Link https://www.kokogenetics.com/sv/item.breed.435.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/sv/item.breed.431.url generated an exception: Link https://www.kokogenetics.com/sv/item.breed.431.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/sv/item.breed.438.url generated an exception: Link https://www.kokogenetics.com/sv/item.breed.438.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/chediak-higashi-syndrom generated an exception: Link https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/chediak-higashi-syndrom returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/blodgrupp generated an exception: Link https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/blodgrupp returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/mukopolysackaridos-typ-vi-variant-2 generated an exception: Link https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/mukopolysackaridos-typ-vi-variant-2 returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/spinal-muskelatrofi generated an exception: Link https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/spinal-muskelatrofi returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/multiple-acyl-coa-dehydrogenas-defekt generated an exception: Link https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/multiple-acyl-coa-dehydrogenas-defekt returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/dominant-vit-pal generated an exception: Link https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/dominant-vit-pal returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/lang-pals-gen-fgf5-maine-coon-och-ragdoll generated an exception: Link https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/lang-pals-gen-fgf5-maine-coon-och-ragdoll returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/polidactyli-variant-uk1-katter generated an exception: Link https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/polidactyli-variant-uk1-katter returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/polidactyli-variant-uk2-katter generated an exception: Link https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/polidactyli-variant-uk2-katter returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/rullat-pal-gen-liph-ural-rex generated an exception: Link https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/rullat-pal-gen-liph-ural-rex returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/polidactyli-variant-hw-katter generated an exception: Link https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/polidactyli-variant-hw-katter returned status code 500
+assert 500 not in (404, 500)
+
+Sitemap links with errors:
+https://www.kokogenetics.com/pt/resultados/doencas-geneticas-gatos/mucopolisacaridose-tipo-vi-variante-2 returned status code 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/mukopolysackaridos-typ-vi-variant-2 returned status code 500
+https://www.kokogenetics.com/en/item.breed.435.url returned status code 404
+https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/langhaar-gen-fgf5-maine-coon-und-ragdoll returned status code 500
+https://www.kokogenetics.com/fi/item.breed.438.url returned status code 404
+https://www.tellmegen.com/sv/resultat/farmakogenetik/risperidon-dosering returned status code Exceeded 30 redirects.
+https://www.tellmegen.com/sv/resultat/farmakogenetik/amitriptylin-dosering returned status code Exceeded 30 redirects.
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/polydactylie-variante-hw-chats returned status code 500
+https://www.kokogenetics.com/resultados/enfermedades-geneticas-gatos/atrofia-muscular-espinal returned status code 500
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-katzen/mukopolysaccharidose-typ-vi-variante-2 returned status code 500
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/spinale-musculaire-atrofie returned status code 500
+https://www.kokogenetics.com/it/item.breed.435.url returned status code 404
+https://www.kokogenetics.com/it/item.breed.431.url returned status code 404
+https://www.kokogenetics.com/pl/wyniki/cechy-genetyczne-kotow/polidaktylia-wariant-uk2-koty returned status code 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/multiple-acyl-coa-dehydrogenas-defekt returned status code 500
+https://www.kokogenetics.com/pl/wyniki/cechy-genetyczne-kotow/dlugie-wlosy-gene-fgf5-maine-coon-i-ragdoll returned status code 500
+https://www.kokogenetics.com/pl/item.breed.438.url returned status code 404
+https://www.kokogenetics.com/en/results/cat-traits-test/polydactylism-uk2-variant-cats returned status code 500
+https://www.kokogenetics.com/en/results/cat-traits-test/curly-coat-gene-liph-ural-rex returned status code 500
+https://www.tellmegen.com/fi/tulokset/farmakologinen-yhteensopivuus/amitriptyliini-annostus returned status code Exceeded 30 redirects.
+https://www.kokogenetics.com/pt/item.breed.438.url returned status code 404
+https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-ominaisuudet/polidaktylia-variantti-uk1-kissat returned status code 500
+https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-kotow/zespol-chediaka-higashiego returned status code 500
+https://www.kokogenetics.com/de/item.breed.431.url returned status code 404
+https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/polydaktylie-variante-hw-katzen returned status code 500
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-katzen/blutgruppe returned status code 500
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/pelliccia-bianca-dominante returned status code 500
+https://www.kokogenetics.com/pt/resultados/doencas-geneticas-gatos/deficiencia-multipla-de-acil-coa-desidrogenase returned status code 500
+https://www.kokogenetics.com/en/item.traits.12.url returned status code 404
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/mucopolysaccharidose-type-vi-variante-2 returned status code 500
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/polidattilia-variante-uk2-gatti returned status code 500
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/pelo-cacheado-gen-liph-ural-rex returned status code 500
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/pelo-longo-gen-fgf5-maine-coon-e-ragdoll returned status code 500
+https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-kotow/niedobor-wielu-dehydrogenaz-acyl-coa returned status code 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/chediak-higashi-syndrom returned status code 500
+https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-kotow/mukopolisacharydoza-typ-vi-wariant-2 returned status code 500
+https://www.kokogenetics.com/en/results/cat-health-test/spinal-muscular-atrophy returned status code 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/polidactyli-variant-uk2-katter returned status code 500
+https://www.kokogenetics.com/nl/item.traits.12.url returned status code 404
+https://www.kokogenetics.com/pt/resultados/doencas-geneticas-gatos/grupo-sanguineo returned status code 500
+https://www.kokogenetics.com/fi/item.breed.431.url returned status code 404
+https://www.kokogenetics.com/nl/item.breed.438.url returned status code 404
+https://www.tellmegen.com/pl/wyniki/farmakogenetyka/risperidon-dawkowanie returned status code Exceeded 30 redirects.
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-katzen/spinale-muskelatrophie returned status code 500
+https://www.kokogenetics.com/pt/item.breed.431.url returned status code 404
+https://www.kokogenetics.com/de/item.traits.12.url returned status code 404
+https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-sairaudet/chediak-higashi-oireyhtyma returned status code 500
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/pelo-branco-dominante returned status code 500
+https://www.kokogenetics.com/pl/item.breed.431.url returned status code 404
+https://www.kokogenetics.com/fr/item.breed.438.url returned status code 404
+https://www.kokogenetics.com/fi/item.traits.12.url returned status code 404
+https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-sairaudet/multiple-acyl-coa-dehydrogenase-puutos returned status code 500
+https://www.kokogenetics.com/resultados/rasgos-geneticos-gatos/polidactilia-variante-uk1-gatos returned status code 500
+https://www.kokogenetics.com/it/risultati/malattie-genetiche-gatti/mucopolisaccaridosi-tipo-vi-variante-2 returned status code 500
+https://www.kokogenetics.com/resultados/enfermedades-geneticas-gatos/grupo-sanguineo returned status code 500
+https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-kotow/rdzeniowy-zanik-miesni returned status code 500
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/polidactylie-variant-hw-katten returned status code 500
+https://www.kokogenetics.com/pl/wyniki/cechy-genetyczne-kotow/dominujacy-bialy-sierc returned status code 500
+https://www.kokogenetics.com/en/item.breed.431.url returned status code 404
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/spinal-muskelatrofi returned status code 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/dominant-vit-pal returned status code 500
+https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/polydaktylie-variante-uk2-katzen returned status code 500
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/syndrome-de-chediak-higashi returned status code 500
+https://www.kokogenetics.com/nl/item.breed.435.url returned status code 404
+https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-ominaisuudet/polidaktylia-variantti-uk2-kissat returned status code 500
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/syndroom-van-chediak-higashi returned status code 500
+https://www.kokogenetics.com/pl/wyniki/cechy-genetyczne-kotow/polidaktylia-wariant-uk1-koty returned status code 500
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/polydactylie-variante-uk2-chats returned status code 500
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/polidactilia-variante-hw-gatos returned status code 500
+https://www.kokogenetics.com/en/results/cat-traits-test/dominant-white-coat returned status code 500
+https://www.kokogenetics.com/it/item.breed.438.url returned status code 404
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/mucopolysaccharidose-type-vi-variant-2 returned status code 500
+https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-ominaisuudet/pitkaturkki-geeni-fgf5-maine-coon-ja-ragdoll returned status code 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/polidactyli-variant-hw-katter returned status code 500
+https://www.kokogenetics.com/pt/resultados/doencas-geneticas-gatos/sindrome-de-chediak-higashi returned status code 500
+https://www.kokogenetics.com/sv/item.breed.438.url returned status code 404
+https://www.kokogenetics.com/sv/NOT_FOUND returned status code 404
+https://www.kokogenetics.com/resultados/rasgos-geneticos-gatos/pelaje-blanco-dominante returned status code 500
+https://www.kokogenetics.com/en/item.breed.438.url returned status code 404
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/langhaar-gen-fgf5-maine-coon-en-ragdoll returned status code 500
+https://www.kokogenetics.com/pl/wyniki/cechy-genetyczne-kotow/sierc-krecony-gene-liph-ural-rex returned status code 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/rullat-pal-gen-liph-ural-rex returned status code 500
+https://www.kokogenetics.com/item.breed.435.url returned status code 404
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/pelo-lungo-gene-fgf5-maine-coon-e-ragdoll returned status code 500
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/bloedgroep returned status code 500
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/krullend-vacht-gen-liph-ural-rex returned status code 500
+https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-ominaisuudet/dominantti-valkoinen-turkki returned status code 500
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/dominante-witte-vacht returned status code 500
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/polydactylie-variante-uk1-chats returned status code 500
+https://www.kokogenetics.com/sv/item.breed.435.url returned status code 404
+https://www.kokogenetics.com/item.traits.12.url returned status code 404
+https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-sairaudet/spinaali-lihasatrofia returned status code 500
+https://www.kokogenetics.com/nl/item.breed.431.url returned status code 404
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/blodgrupp returned status code 500
+https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-kotow/grupa-krwi returned status code 500
+https://www.kokogenetics.com/en/results/cat-health-test/blood-group returned status code 500
+https://www.tellmegen.com/fi/tulokset/test-adn-terveys returned status code 404
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/poil-blanc-dominant returned status code 500
+https://www.kokogenetics.com/fr/item.breed.431.url returned status code 404
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/polidactylie-variant-uk1-katten returned status code 500
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/deficience-multiple-en-acyl-coa-deshydrogenase returned status code 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/lang-pals-gen-fgf5-maine-coon-och-ragdoll returned status code 500
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/pelliccia-riccioluta-gene-liph-ural-rex returned status code 500
+https://www.kokogenetics.com/item.breed.438.url returned status code 404
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/polidattilia-variante-uk1-gatti returned status code 500
+https://www.kokogenetics.com/en/results/cat-traits-test/long-hair-gene-fgf5-maine-coon-and-ragdoll returned status code 500
+https://www.kokogenetics.com/en/results/cat-health-test/chediak-higashi-syndrome returned status code 500
+https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-ominaisuudet/kiharaturkki-geeni-liph-ural-rex returned status code 500
+https://www.kokogenetics.com/fr/item.breed.435.url returned status code 404
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/atrophie-musculaire-spinale returned status code 500
+https://www.tellmegen.com/fi/tulokset/farmakologinen-yhteensopivuus/risperidoni-annostus returned status code Exceeded 30 redirects.
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/polidactilia-variante-uk2-gatos returned status code 500
+https://www.kokogenetics.com/it/risultati/malattie-genetiche-gatti/sindrome-di-chediak-higashi returned status code 500
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/meervoudige-acyl-coa-dehydrogenase-deficientie returned status code 500
+https://www.kokogenetics.com/pt/item.traits.12.url returned status code 404
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/poil-long-gen-fgf5-maine-coon-et-ragdoll returned status code 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/polidactyli-variant-uk1-katter returned status code 500
+https://www.kokogenetics.com/fr/item.traits.12.url returned status code 404
+https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/dominantes-weisses-fell returned status code 500
+https://www.kokogenetics.com/resultados/enfermedades-geneticas-gatos/sindrome-de-chediak-higashi returned status code 500
+https://www.kokogenetics.com/pl/item.traits.12.url returned status code 404
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-katzen/chediak-higashi-syndrom returned status code 500
+https://www.kokogenetics.com/en/results/cat-health-test/multiple-acyl-coa-dehydrogenase-deficiency returned status code 500
+https://www.kokogenetics.com/pl/wyniki/cechy-genetyczne-kotow/polidaktylia-wariant-hw-koty returned status code 500
+https://www.kokogenetics.com/sv/item.breed.431.url returned status code 404
+https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-ominaisuudet/polidaktylia-variantti-hw-kissat returned status code 500
+https://www.kokogenetics.com/resultados/rasgos-geneticos-gatos/pelo-largo-gen-fgf5-maine-coon-y-ragdoll returned status code 500
+https://www.kokogenetics.com/it/item.traits.12.url returned status code 404
+https://www.kokogenetics.com/pt/resultados/doencas-geneticas-gatos/atrofia-muscular-espinhal returned status code 500
+https://www.kokogenetics.com/sv/item.traits.12.url returned status code 404
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/polidactylie-variant-uk2-katten returned status code 500
+https://www.tellmegen.com/sv/genetisk-predisposition-test returned status code 404
+https://www.kokogenetics.com/de/item.breed.438.url returned status code 404
+https://www.kokogenetics.com/fi/item.breed.435.url returned status code 404
+https://www.kokogenetics.com/resultados/rasgos-geneticos-gatos/pelaje-rizado-gen-liph-ural-rex returned status code 500
+https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-sairaudet/mukopolysackaridoosi-tyyppi-vi-variantti-2 returned status code 500
+https://www.kokogenetics.com/de/item.breed.435.url returned status code 404
+https://www.kokogenetics.com/it/risultati/malattie-genetiche-gatti/atrofia-muscolare-spinale returned status code 500
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/polidattilia-variante-hw-gatti returned status code 500
+https://www.kokogenetics.com/pt/item.breed.435.url returned status code 404
+https://www.kokogenetics.com/resultados/enfermedades-geneticas-gatos/hipotiroidismo-congenito-gen-tpo-varias-razas returned status code 500
+https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-sairaudet/veriryhmat returned status code 500
+https://www.kokogenetics.com/pl/item.breed.435.url returned status code 404
+https://www.kokogenetics.com/en/results/cat-traits-test/polydactylism-uk1-variant-cats returned status code 500
+https://www.kokogenetics.com/resultados/rasgos-geneticos-gatos/polidactilia-variante-hw-gatos returned status code 500
+https://www.kokogenetics.com/it/risultati/malattie-genetiche-gatti/gruppo-sanguigno returned status code 500
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-katzen/multipler-acyl-coa-dehydrogenase-mangel returned status code 500
+https://www.kokogenetics.com/resultados/rasgos-geneticos-gatos/polidactilia-variante-uk2-gatos returned status code 500
+https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/polydaktylie-variante-uk1-katzen returned status code 500
+https://www.kokogenetics.com/resultados/enfermedades-geneticas-gatos/deficiencia-multiple-de-acil-coa-deshidrogenasa returned status code 500
+https://www.kokogenetics.com/en/results/cat-health-test/mucopolysaccharidosis-type-vi-variant-2 returned status code 500
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/poil-boucle-gen-liph-ural-rex returned status code 500
+https://www.kokogenetics.com/en/results/cat-traits-test/polydactylism-hw-variant-cats returned status code 500
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/groupe-sanguin returned status code 500
+https://www.kokogenetics.com/item.breed.431.url returned status code 404
+https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/lockiges-fell-gen-liph-ural-rex returned status code 500
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/polidactilia-variante-uk1-gatos returned status code 500
+https://www.kokogenetics.com/it/risultati/malattie-genetiche-gatti/deficit-multiplo-di-acil-coa-deidrogenasi returned status code 500
