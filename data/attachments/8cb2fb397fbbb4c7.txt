@@ -1,0 +1,30 @@
+https://www.kokogenetics.com/pl/item.traits.12.url generated an exception: Link https://www.kokogenetics.com/pl/item.traits.12.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/pl/item.breed.438.url generated an exception: Link https://www.kokogenetics.com/pl/item.breed.438.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/pl/item.breed.435.url generated an exception: Link https://www.kokogenetics.com/pl/item.breed.435.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/pl/wyniki/cechy-genetyczne-kotow/dominujacy-bialy-sierc generated an exception: Link https://www.kokogenetics.com/pl/wyniki/cechy-genetyczne-kotow/dominujacy-bialy-sierc returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/pl/item.breed.431.url generated an exception: Link https://www.kokogenetics.com/pl/item.breed.431.url returned status code 404
+assert 404 not in (404, 500)
+https://www.kokogenetics.com/pl/wyniki/cechy-genetyczne-kotow/dlugie-wlosy-gene-fgf5-maine-coon-i-ragdoll generated an exception: Link https://www.kokogenetics.com/pl/wyniki/cechy-genetyczne-kotow/dlugie-wlosy-gene-fgf5-maine-coon-i-ragdoll returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/pl/wyniki/cechy-genetyczne-kotow/polidaktylia-wariant-hw-koty generated an exception: Link https://www.kokogenetics.com/pl/wyniki/cechy-genetyczne-kotow/polidaktylia-wariant-hw-koty returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/pl/wyniki/cechy-genetyczne-kotow/polidaktylia-wariant-uk2-koty generated an exception: Link https://www.kokogenetics.com/pl/wyniki/cechy-genetyczne-kotow/polidaktylia-wariant-uk2-koty returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/pl/wyniki/cechy-genetyczne-kotow/polidaktylia-wariant-uk1-koty generated an exception: Link https://www.kokogenetics.com/pl/wyniki/cechy-genetyczne-kotow/polidaktylia-wariant-uk1-koty returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/pl/wyniki/cechy-genetyczne-kotow/sierc-krecony-gene-liph-ural-rex generated an exception: Link https://www.kokogenetics.com/pl/wyniki/cechy-genetyczne-kotow/sierc-krecony-gene-liph-ural-rex returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-kotow/grupa-krwi generated an exception: Link https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-kotow/grupa-krwi returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-kotow/mukopolisacharydoza-typ-vi-wariant-2 generated an exception: Link https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-kotow/mukopolisacharydoza-typ-vi-wariant-2 returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-kotow/niedobor-wielu-dehydrogenaz-acyl-coa generated an exception: Link https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-kotow/niedobor-wielu-dehydrogenaz-acyl-coa returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-kotow/zespol-chediaka-higashiego generated an exception: Link https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-kotow/zespol-chediaka-higashiego returned status code 500
+assert 500 not in (404, 500)
+https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-kotow/rdzeniowy-zanik-miesni generated an exception: Link https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-kotow/rdzeniowy-zanik-miesni returned status code 500
+assert 500 not in (404, 500)
