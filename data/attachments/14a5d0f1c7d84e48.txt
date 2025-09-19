@@ -1,0 +1,5 @@
+Kit ULLEDCBA2329 preparado (owner_id = NULL).
+Mail recibido: Activar cuenta
+Mail recibido: Activar cuenta
+Activando cuenta con: https://genportal.tellmegen.eu/activate/8okvm3g3sbbkjdfu9fipkueu6t
+Owner ID en base de datos luego del registro (ULTRA): 190381
