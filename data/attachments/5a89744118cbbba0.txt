@@ -1,0 +1,12 @@
+Se detectaron 11 enlaces con error en https://www.kokogenetics.com/de_sitemap.xml:
+https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/langhaar-gen-fgf5-maine-coon-und-ragdoll -> 500
+https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/lockiges-fell-gen-liph-ural-rex -> 500
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-haustiere/thrombopathie-landseer -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-haustiere/thrombozytopenie -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-haustiere/vitamin-d-abhaengige-rachitis-typ-ii -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-haustiere/von-gierke-krankheit-maltese -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-haustiere/von-willebrand-krankheit-2-pointer -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-haustiere/zerebellare-ataxie -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-katzen/chediak-higashi-syndrom -> 500
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-katzen/mukopolysaccharidose-typ-vii-variante-1 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-katzen/spinale-muskelatrophie -> 500

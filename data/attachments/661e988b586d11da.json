@@ -1,0 +1,116 @@
+{
+  "test": "tests/test_grupo4_precios.py::test_precios_koko[es-https://www.kokogenetics.com/-https://shop.kokogenetics.com/es/]",
+  "phase": "call",
+  "session_id": "3f2113793b286b97d7488e5086a1e011",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "normal",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://shop.kokogenetics.com/",
+  "browser_log": [
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 7:319197 \"[Termly] Using standard GCM opt-in defaults\"",
+      "source": "console-api",
+      "timestamp": 1789593206309
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:68286 \"[Termly] AutoBlocker is enabled for this website\"",
+      "source": "console-api",
+      "timestamp": 1789593206310
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:68352 \"[Termly] Installing AutoBlocker overrides\"",
+      "source": "console-api",
+      "timestamp": 1789593206310
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:13982 \"[Termly] Region %o has consent_mode set to %o\" \"virginia\" \"opt_in\"",
+      "source": "console-api",
+      "timestamp": 1789593206931
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 7:240837 \"[Termly] No GVL found for this website. TCFProvider is providing noop functions.\"",
+      "source": "console-api",
+      "timestamp": 1789593207983
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:64131 \"[Termly] A script from %o %cmight%c not be categorized correctly because we could not tell which script added it to the page. %cIf your application is behaving properly, you may safely ignore this message%c. Otherwise, you might need to set custom domain rules in the dashboard. See %s for help.\\n\\nScript URL: %o\" \"www.googletagmanager.com\" \"font-style: italic\" \"font-style: normal\" \"font-weight: bold\" \"font-weight: normal\" \"https://support.termly.io/hc/en-us/articles/32848083153169-How-to-use-Domain-Rules-to-change-Auto-Blocker-s-blocking-behavior\" https://www.googletagmanager.com/gtag/js?id=G-W6VLP5DTFQ&cx=c&gtm=4e69f3h1",
+      "source": "console-api",
+      "timestamp": 1789593208172
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147 177:66247 Uncaught Error: Termly resource blocker has already been loaded on this page. Check your markup for duplicate <script> tags including https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147",
+      "source": "javascript",
+      "timestamp": 1789593208507
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/ - Failed to load resource: the server responded with a status of 503 ()",
+      "source": "network",
+      "timestamp": 1789593209558
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/favicon.ico - Failed to load resource: the server responded with a status of 404 ()",
+      "source": "network",
+      "timestamp": 1789593209720
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.kokogenetics.com/ - The resource https://shop.kokogenetics.com/cdn/shop/t/2/assets/base.css?v=53903350991350579731756293244 (as=style) was preloaded using link preload in Early Hints but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value, a correct `crossorigin` value and it is preloaded intentionally.",
+      "source": "javascript",
+      "timestamp": 1789593212950
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.kokogenetics.com/ - The resource https://shop.kokogenetics.com/cdn/shop/t/2/assets/section-reviews.css?v=72226543856494302981756293245 (as=style) was preloaded using link preload in Early Hints but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value, a correct `crossorigin` value and it is preloaded intentionally.",
+      "source": "javascript",
+      "timestamp": 1789593212950
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.kokogenetics.com/ - The resource https://cdn.shopify.com/extensions/01a0a067-6458-7bc2-a6f4-2dc335f5e567/ez-product-image-translate-405/assets/algo_translation_3.js?v=shop.kokogenetics.com (as=script) was preloaded using link preload in Early Hints but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value, a correct `crossorigin` value and it is preloaded intentionally.",
+      "source": "javascript",
+      "timestamp": 1789593212950
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.kokogenetics.com/ - The resource https://eu.fw-cdn.com/12906606/867866.js (as=script) was preloaded using link preload in Early Hints but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value, a correct `crossorigin` value and it is preloaded intentionally.",
+      "source": "javascript",
+      "timestamp": 1789593212950
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.kokogenetics.com/ - The resource https://shop.kokogenetics.com/cdn/shop/t/2/assets/swiper-bundle.min.css?v=149615574624520220531756293245 (as=style) was preloaded using link preload in Early Hints but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value, a correct `crossorigin` value and it is preloaded intentionally.",
+      "source": "javascript",
+      "timestamp": 1789593212950
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.kokogenetics.com/ - The resource https://shop.kokogenetics.com/cdn/shop/t/2/assets/odometer-theme-default.css?v=61708369350246774011756293245 (as=style) was preloaded using link preload in Early Hints but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value, a correct `crossorigin` value and it is preloaded intentionally.",
+      "source": "javascript",
+      "timestamp": 1789593212950
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.kokogenetics.com/ - The resource https://shop.kokogenetics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css (as=style crossorigin=anonymous) was preloaded using link preload in Early Hints but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value, a correct `crossorigin` value and it is preloaded intentionally.",
+      "source": "javascript",
+      "timestamp": 1789593212950
+    }
+  ]
+}
