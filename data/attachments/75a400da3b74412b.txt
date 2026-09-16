@@ -1,0 +1,23 @@
+Se detectaron 22 enlaces con error en https://www.kokogenetics.com/nl_sitemap.xml:
+https://www.kokogenetics.com/nl/resultaten/dna-test-hond-ras/franse-poedel -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/dna-test-hond-ras/golden-retriever -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/dna-test-hond-ras/irish-doodle -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/dna-test-hond-ras/slovensky-hrubosrsty-stavac -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/dna-test-hond-ras/tibetaanse-spaniel -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/dna-test-kat-ras/american-curl -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/dna-test-kat-ras/chartreux -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/dna-test-kat-ras/cornish-rex -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/dna-test-kat-ras/korat -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-huisdieren/l-2-hydroxyglutaric-acidurie -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-huisdieren/mucopolysacharidosen-type-vii-duitse-herder -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-huisdieren/narcolepsie-teckel -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/gevoeligheid-voor-bepaalde-geneesmiddelen -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/intermitterende-acute-porfyrie-variant-2 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/intermitterende-acute-porfyrie-variant-4 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/spinale-musculaire-atrofie -> 500
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/syndroom-van-chediak-higashi -> 500
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-huisdieren/chocoladekleurige-vacht -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/albinisme-oog-huid-gen-hps5-donskoy -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/bloedgroep-ab-variant-2 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/krullend-vacht-gen-liph-ural-rex -> 500
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/langhaar-gen-fgf5-maine-coon-en-ragdoll -> 500

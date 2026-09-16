@@ -1,0 +1,12 @@
+
+[SITEMAP AVISO] Se detectaron 9 enlaces con error en https://www.kokogenetics.com/de_sitemap.xml:
+https://www.kokogenetics.com/de/testergebnisse -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/de/testergebnisse/dna-test-hunderasse/affenpinscher -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/de/testergebnisse/dna-test-hunderasse/alpenlaendische-dachsbracke -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/de/testergebnisse/dna-test-hunderasse/argentinische-dogge -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/de/testergebnisse/dna-test-hunderasse/do-khyi -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/langhaar-gen-fgf5-maine-coon-und-ragdoll -> 500
+https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/lockiges-fell-gen-liph-ural-rex -> 500
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-katzen/chediak-higashi-syndrom -> 500
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-katzen/spinale-muskelatrophie -> 500
+

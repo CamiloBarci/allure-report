@@ -1,0 +1,22 @@
+
+[SITEMAP AVISO] Se detectaron 19 enlaces con error en https://www.tellmegen.com/es_sitemap.xml:
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/acidemia-glutarica-tipo-2 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/enfermedad-refsum -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/glucogenosis-tipo-v -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/hemocromatosis-hereditaria-tipo-3-gen-tfr2 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/hemofilia-a -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/hiperinsulinismo-familiar-relacionado-abcc8 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/hiperoxaluria-primaria-tipo-1-ph1 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/hipertermia-maligna -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/hipoplasia-pontocerebelosa-tipo-8-gen-chmp1a -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/lipofuscinosis-ceroide-neuronal-tipo-10-gen-ctsd -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/lipofuscinosis-ceroide-neuronal-tipo-11-gen-grn -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/sindrome-paraganglioma-feocromocitoma-hereditario -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/rasgos-personalidad-genetica/intensidad-picor-picadura-mosquito -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/test-adn-salud/bocio-multinodular-no-toxico -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/test-adn-salud/calculos-biliares -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/test-adn-salud/cancer-endometrio -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/test-adn-salud/cancer-prostata -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/test-adn-salud/carcinoma-cutaneo-celulas-escamosas -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/test-adn-salud/enfermedad-crohn -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+

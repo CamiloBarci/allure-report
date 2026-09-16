@@ -1,0 +1,4 @@
+Se detectaron 3 enlaces con error en https://www.tellmegen.com/sv_sitemap.xml:
+https://www.tellmegen.com/sv/genetisk-predisposition-test -> 404
+https://www.tellmegen.com/sv/resultat/farmakogenetik/amitriptylin-dosering -> TooManyRedirects: Exceeded 30 redirects.
+https://www.tellmegen.com/sv/resultat/farmakogenetik/risperidon-dosering -> TooManyRedirects: Exceeded 30 redirects.

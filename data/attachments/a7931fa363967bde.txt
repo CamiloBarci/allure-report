@@ -1,0 +1,13 @@
+
+[SITEMAP AVISO] Se detectaron 10 enlaces con error en https://www.kokogenetics.com/pt_sitemap.xml:
+https://www.kokogenetics.com/pt/ -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pt/resultados/doencas-geneticas-animais-estimacao/atrofia-progressiva-retina-2-ligada-cromossomo-x -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pt/resultados/doencas-geneticas-animais-estimacao/cegueira-noturna-estacionaria-congenita -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pt/resultados/doencas-geneticas-gatos/atrofia-muscular-espinhal -> 500
+https://www.kokogenetics.com/pt/resultados/doencas-geneticas-gatos/sindrome-de-chediak-higashi -> 500
+https://www.kokogenetics.com/pt/resultados/teste-dna-raca-caes/dachshund -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pt/resultados/teste-dna-raca-caes/dingo -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pt/resultados/teste-dna-raca-caes/dogo-argentino -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/pelo-cacheado-gen-liph-ural-rex -> 500
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/pelo-longo-gen-fgf5-maine-coon-e-ragdoll -> 500
+

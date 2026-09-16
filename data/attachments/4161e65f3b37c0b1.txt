@@ -1,0 +1,10 @@
+
+[SITEMAP AVISO] Se detectaron 7 enlaces con error en https://www.tellmegen.com/de_sitemap.xml:
+https://www.tellmegen.com/de/testergebnisse/pharmakologie/imipramin-dosierung -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/de/testergebnisse/pharmakologie/olanzapin-wirksamkeit -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/de/testergebnisse/pharmakologie/pantoprazol-wirksamkeit -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/de/testergebnisse/pharmakologie/pimozid-dosierung -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/de/testergebnisse/pharmakologie/pravastatin-wirksamkeit -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/de/testergebnisse/pharmakologie/selektive-serotonin-wiederaufnahmehemmer-ssris-nebenwirkungen -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/de/testergebnisse/pharmakologie/sertralin-dosierung -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+

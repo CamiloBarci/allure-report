@@ -1,0 +1,18 @@
+
+[SITEMAP AVISO] Se detectaron 15 enlaces con error en https://www.kokogenetics.com/sv_sitemap.xml:
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/alaskan-husky-encefalopati -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/arftlig-njursjukdom-kopplad-x-kromosomet -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/epidermolysis-bullosa-dystrophica -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/trombopati-american-eskimo-dog -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/acrodermatitis-enteropathica -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/chediak-higashi-syndrom -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/gangliosidos-gm2-typ-2-gen-hexb-burmese -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/spinal-muskelatrofi -> 500
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/biewer-terrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/bouvier-flandres -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/braque-francais-type-pyrenees -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/breton -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/byhund-fiji -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/lang-pals-gen-fgf5-maine-coon-och-ragdoll -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/rullat-pal-gen-liph-ural-rex -> 500
+

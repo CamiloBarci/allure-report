@@ -1,0 +1,20 @@
+
+[SITEMAP AVISO] Se detectaron 17 enlaces con error en https://www.tellmegen.com/fi_sitemap.xml:
+https://www.tellmegen.com/fi/miten-dna-testit-toimivat -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fi/tulokset/farmakologinen-yhteensopivuus/amitriptyliini-annostus -> TooManyRedirects: Exceeded 30 redirects.
+https://www.tellmegen.com/fi/tulokset/farmakologinen-yhteensopivuus/risperidoni-annostus -> TooManyRedirects: Exceeded 30 redirects.
+https://www.tellmegen.com/fi/tulokset/geneettinen-alttius-sairauksille/gastroesofageaalinen-refluksitauti-gerd -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fi/tulokset/geneettinen-alttius-sairauksille/ikaan-liittyva-makulan-rappeuma -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fi/tulokset/geneettinen-alttius-sairauksille/kohdun-limakalvon-syopa -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fi/tulokset/geneettinen-alttius-sairauksille/kohonnut-verenpaine -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fi/tulokset/geneettinen-alttius-sairauksille/krooninen-lymfaattinen-leukemia -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fi/tulokset/geneettinen-alttius-sairauksille/krooninen-obstruktiivinen-keuhkosairaus-koks -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fi/tulokset/geneettinen-alttius-sairauksille/sarkoidoosi -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fi/tulokset/geneettinen-alttius-sairauksille/skitsofrenia -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fi/tulokset/periytyvat-monogeeniset-sairaudet/familiaalinen-adenomatoottinen-polypoosi -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fi/tulokset/periytyvat-monogeeniset-sairaudet/fenyyliketonuria -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fi/tulokset/periytyvat-monogeeniset-sairaudet/neuronaalinen-ceroidilipofuskinoosi-tyyppi-3-cln3-assosioitu -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fi/tulokset/periytyvat-monogeeniset-sairaudet/perheellinen-aortan-aneurysma-ja-dissektio-geeni-myh11 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fi/tulokset/periytyvat-monogeeniset-sairaudet/perheellinen-dysautonomia-riley-dayn-oireyhtyma -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fi/tulokset/periytyvat-monogeeniset-sairaudet/perheellinen-rintasyopa -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+

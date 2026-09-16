@@ -1,0 +1,13 @@
+Se detectaron 12 enlaces con error en https://www.tellmegen.com/pt_sitemap.xml:
+https://www.tellmegen.com/pt/pesquisa-tellmegen -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/doencas-hereditarias/doenca-armazenamento-glicogenio-tipo-v -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/doencas-hereditarias/hipoplasia-pontocerebelosa-tipo-2b-gene-tsen2 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/doencas-hereditarias/hipoplasia-pontocerebelosa-tipo-2d-gene-sepsecs -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/doencas-hereditarias/homocistinuria-deficiencia-mthfr -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/doencas-hereditarias/lipofuscinoses-ceroIdes-neuronais-tipo-6-associadas-cln6 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/doencas-hereditarias/lipofuscinoses-ceroIdes-neuronais-tipo-7-associadas-mfsd8 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/doencas-hereditarias/mucolipidoses-tipo-iii-gama-gene-gnptg -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/doencas-hereditarias/neoplasia-endocrina-multipla-2b -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/tracos-personalidade-genetica/producao-de-calor-em-resposta-ao-frio -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/tracos-personalidade-genetica/reflexo-espirro-fotico -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/tracos-personalidade-genetica/sombra-cabelo -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)

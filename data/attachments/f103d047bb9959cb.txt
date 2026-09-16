@@ -1,0 +1,25 @@
+Se detectaron 24 enlaces con error en https://www.kokogenetics.com/pl_sitemap.xml:
+https://www.kokogenetics.com/pl/wyniki/cechy-genetyczne-kotow/dlugie-wlosy-gene-fgf5-maine-coon-i-ragdoll -> 500
+https://www.kokogenetics.com/pl/wyniki/cechy-genetyczne-kotow/sierc-krecony-gene-liph-ural-rex -> 500
+https://www.kokogenetics.com/pl/wyniki/cechy-genetyczne-kotow/wzor-tabby-blotched-3 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-kotow/choroba-niemanna-picka-typ-c1 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-kotow/dysplazja-czolowo-nosowa -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-kotow/gangliozydoza-gm2-typ-2-gen-hexb-burmese -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-kotow/hemofilia-b-wariant-1 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-kotow/hiperlipoproteinemia -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-kotow/krzywica-zalezna-od-witaminy-d-typ-ia -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-kotow/niedobor-czynnika-xi -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-kotow/rdzeniowy-zanik-miesni -> 500
+https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-kotow/zespol-chediaka-higashiego -> 500
+https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-zwierzat-domowych/dystroficzna-pecherzowa-lamliwosc-naskorka -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-zwierzat-domowych/dziedziczne-rogowacenie-opuszkow-lap -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-zwierzat-domowych/wieloogniskowa-retinopatia-psow-1 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-zwierzat-domowych/wrodzona-niedoczynnosc-tarczycy-hiszpanski-pies-dowodny -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-zwierzat-domowych/x-linked-miotubularna-miopatia -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-zwierzat-domowych/zespol-przetrwalego-przewodu-mullera -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pl/wyniki/test-dna-rasa-kot -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pl/wyniki/test-dna-rasa-kotow/abyssinium -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pl/wyniki/test-dna-rasa-kotow/kot-burmski -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pl/wyniki/test-dna-rasa-kotow/kot-lykoi -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pl/wyniki/test-dna-rasa-kotow/kot-rosyjski-niebieski -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pl/wyniki/test-dna-rasa-kotow/szkocki-zwisłouchy -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)

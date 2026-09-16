@@ -1,0 +1,4 @@
+Se detectaron 3 enlaces con error en https://www.tellmegen.com/nl_sitemap.xml:
+https://www.tellmegen.com/nl/resultaten/dna-test-gezondheid/reumatoide-artritis -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/nl/resultaten/erfelijke-ziekten/bloom-syndroom -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/nl/resultaten/erfelijke-ziekten/brugada-syndroom -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
