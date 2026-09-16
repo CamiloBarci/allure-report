@@ -1,0 +1,21 @@
+
+[SITEMAP AVISO] Se detectaron 18 enlaces con error en https://www.tellmegen.com/es_sitemap.xml:
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/aciduria-metilmalonica-homocistinuria-tipo-cblf -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/albinismo-oculocutaneo-gen-slc45a2 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/amiloidosis-tipo-finlandes-gen-gsn -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/amiloidosis-transtirretina-familiar -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/aneurisma-diseccion-aortica-familiar-gen-myh11 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/ataxia-espastica-autosomica-recesiva-charlevoix-saguenay-arsacs -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/beta-talasemia -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/cancer-hereditario-gen-palb2 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/cardiomiopatia-dilatada-1g-gen-ttn -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/cardiomiopatia-dilatada-1i-gen-des -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/cardiomiopatia-dilatada-1p-gen-pln -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/cardiomiopatia-dilatada-1s-gen-myh7 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/deficiencia-acil-coa-deshidrogenasa-cadena-media-mcadd -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/lipofuscinosis-ceroide-neuronal-tipo-13-gen-ctsf -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/lipofuscinosis-ceroide-neuronal-tipo-2-gen-tpp1 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/lipofuscinosis-ceroide-neuronal-tipo-5-asociada-cln5 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/neoplasia-endocrina-multiple-2b -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/retinosis-pigmentaria-con-o-sin-anomalias-esqueleticas -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+

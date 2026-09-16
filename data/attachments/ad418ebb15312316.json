@@ -1,0 +1,92 @@
+{
+  "test": "tests/test_grupo2_funcionales.py::test_registracionprofesional",
+  "phase": "call",
+  "session_id": "53dfd5d4c2b10a40d4b8a65042f515d1",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "normal",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://app.v1.tellmegen.com/registryaccount/USER?lang=en",
+  "browser_log": [
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:319197 \"[Termly] Using standard GCM opt-in defaults\"",
+      "source": "console-api",
+      "timestamp": 1789588251294
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 177:13982 \"[Termly] Region %o has consent_mode set to %o\" \"virginia\" \"opt_in\"",
+      "source": "console-api",
+      "timestamp": 1789588251297
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:240837 \"[Termly] No GVL found for this website. TCFProvider is providing noop functions.\"",
+      "source": "console-api",
+      "timestamp": 1789588251358
+    },
+    {
+      "level": "SEVERE",
+      "message": "javascript 1:0 Uncaught ReferenceError: analytics is not defined",
+      "source": "javascript",
+      "timestamp": 1789588255084
+    },
+    {
+      "level": "SEVERE",
+      "message": "javascript 1:0 Uncaught ReferenceError: analytics is not defined",
+      "source": "javascript",
+      "timestamp": 1789588255104
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:319197 \"[Termly] Using standard GCM opt-in defaults\"",
+      "source": "console-api",
+      "timestamp": 1789588257050
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 177:13982 \"[Termly] Region %o has consent_mode set to %o\" \"virginia\" \"opt_in\"",
+      "source": "console-api",
+      "timestamp": 1789588257880
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:240837 \"[Termly] No GVL found for this website. TCFProvider is providing noop functions.\"",
+      "source": "console-api",
+      "timestamp": 1789588257950
+    },
+    {
+      "level": "SEVERE",
+      "message": "javascript 1:0 Uncaught ReferenceError: analytics is not defined",
+      "source": "javascript",
+      "timestamp": 1789588268317
+    },
+    {
+      "level": "SEVERE",
+      "message": "javascript 1:0 Uncaught ReferenceError: analytics is not defined",
+      "source": "javascript",
+      "timestamp": 1789588268333
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.v1.tellmegen.com/registryaccount/USER?lang=en - [DOM] Input elements should have autocomplete attributes (suggested: \"new-password\"): (More info: https://goo.gl/9p2vKq) %o",
+      "source": "recommendation",
+      "timestamp": 1789588268408
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.v1.tellmegen.com/registryaccount/USER?lang=en - [DOM] Input elements should have autocomplete attributes (suggested: \"new-password\"): (More info: https://goo.gl/9p2vKq) %o",
+      "source": "recommendation",
+      "timestamp": 1789588268408
+    }
+  ]
+}
