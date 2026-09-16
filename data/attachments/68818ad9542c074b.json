@@ -1,0 +1,18 @@
+{
+  "test": "tests/test_grupo1_compras.py::test_PruebadeCompraKOKO",
+  "phase": "call",
+  "session_id": "547d25f96e53f5cba6ee2768b9106975",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "eager",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "capture_error": "TimeoutException: Message: timeout: Timed out receiving message from renderer: 70.000\n  (Session info: chrome=152.0.7977.82)\nStacktrace:\n#0 0x56276a32803a <unknown>\n#1 0x562769c904c9 <unknown>\n#2 0x562769c77f5b <unknown>\n#3 0x562769c77bd6 <unknown>\n#4 0x562769c757b8 <unknown>\n#5 0x562769c7613f <unknown>\n#6 0x562769c85200 <unknown>\n#7 0x562769c9f147 <unknown>\n#8 0x562769ca6b1b <unknown>\n#9 0x562769c76899 <unknown>\n#10 0x562769c9eea7 <unknown>\n#11 0x562769d2e900 <unknown>\n#12 0x562769cd983b <unknown>\n#13 0x562769cda621 <unknown>\n#14 0x56276a2ec5f0 <unknown>\n#15 0x56276a2eac6a <unknown>\n#16 0x56276a2d59f5 <unknown>\n#17 0x56276a2eb92a <unknown>\n#18 0x56276a2bed10 <unknown>\n#19 0x56276a313158 <unknown>\n#20 0x56276a3132f5 <unknown>\n#21 0x56276a326bc3 <unknown>\n#22 0x7f590bb54b84 <unknown>\n#23 0x7f590bbe1d6c <unknown>\n"
+}

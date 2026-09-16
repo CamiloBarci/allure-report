@@ -1,0 +1,38 @@
+{
+  "test": "tests/test_grupo2_funcionales.py::test_de_autodeteccionidiomatmg[-https://www.tellmegen.com/]",
+  "phase": "call",
+  "session_id": "26e7324eebccbc723023228097817f9f",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "eager",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://www.tellmegen.com/en",
+  "browser_log": [
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:319197 \"[Termly] Using standard GCM opt-in defaults\"",
+      "source": "console-api",
+      "timestamp": 1789576700227
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 177:13982 \"[Termly] Region %o has consent_mode set to %o\" \"virginia\" \"opt_in\"",
+      "source": "console-api",
+      "timestamp": 1789576700231
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:240837 \"[Termly] No GVL found for this website. TCFProvider is providing noop functions.\"",
+      "source": "console-api",
+      "timestamp": 1789576700284
+    }
+  ]
+}

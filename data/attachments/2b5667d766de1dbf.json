@@ -1,0 +1,74 @@
+{
+  "test": "tests/test_grupo2_funcionales.py::test_de_recuperodecontrasenakoko",
+  "phase": "call",
+  "session_id": "a9d8e78162e2a832b567fef9b55837fd",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "eager",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://genportal.kokogenetics.com/forgot-password",
+  "browser_log": [
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 7:319197 \"[Termly] Using standard GCM opt-in defaults\"",
+      "source": "console-api",
+      "timestamp": 1789576286655
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:68286 \"[Termly] AutoBlocker is enabled for this website\"",
+      "source": "console-api",
+      "timestamp": 1789576286659
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:68352 \"[Termly] Installing AutoBlocker overrides\"",
+      "source": "console-api",
+      "timestamp": 1789576286659
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:13982 \"[Termly] Region %o has consent_mode set to %o\" \"virginia\" \"opt_in\"",
+      "source": "console-api",
+      "timestamp": 1789576287337
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 7:240837 \"[Termly] No GVL found for this website. TCFProvider is providing noop functions.\"",
+      "source": "console-api",
+      "timestamp": 1789576288815
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:64131 \"[Termly] A script from %o %cmight%c not be categorized correctly because we could not tell which script added it to the page. %cIf your application is behaving properly, you may safely ignore this message%c. Otherwise, you might need to set custom domain rules in the dashboard. See %s for help.\\n\\nScript URL: %o\" \"www.googletagmanager.com\" \"font-style: italic\" \"font-style: normal\" \"font-weight: bold\" \"font-weight: normal\" \"https://support.termly.io/hc/en-us/articles/32848083153169-How-to-use-Domain-Rules-to-change-Auto-Blocker-s-blocking-behavior\" https://www.googletagmanager.com/gtag/js?id=G-W6VLP5DTFQ&cx=c&gtm=4e69e1",
+      "source": "console-api",
+      "timestamp": 1789576288877
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147 177:66247 Uncaught Error: Termly resource blocker has already been loaded on this page. Check your markup for duplicate <script> tags including https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147",
+      "source": "javascript",
+      "timestamp": 1789576289107
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal.kokogenetics.com/js/chunk-vendors.87976a56.js 11:20949 TypeError: Cannot read properties of undefined (reading 'includes')\n    at o.created (https://genportal.kokogenetics.com/js/app.cd3ada47.js:1:106967)\n    at Xe (https://genportal.kokogenetics.com/js/chunk-vendors.87976a56.js:12:20590)\n    at Li (https://genportal.kokogenetics.com/js/chunk-vendors.87976a56.js:12:28560)\n    at Un.t._init (https://genportal.kokogenetics.com/js/chunk-vendors.87976a56.js:12:38961)\n    at new o (https://genportal.kokogenetics.com/js/chunk-vendors.87976a56.js:12:40185)\n    at an (https://genportal.kokogenetics.com/js/chunk-vendors.87976a56.js:12:32894)\n    at init (https://genportal.kokogenetics.com/js/chunk-vendors.87976a56.js:12:31739)\n    at v (https://genportal.kokogenetics.com/js/chunk-vendors.87976a56.js:12:49199)\n    at f (https://genportal.kokogenetics.com/js/chunk-vendors.87976a56.js:12:48828)\n    at o.__patch__ (https://genportal.kokogenetics.com/js/chunk-vendors.87976a56.js:12:53297)",
+      "source": "console-api",
+      "timestamp": 1789576290289
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://genportal.kokogenetics.com/login/?lang=en - [DOM] Input elements should have autocomplete attributes (suggested: \"current-password\"): (More info: https://goo.gl/9p2vKq) %o",
+      "source": "recommendation",
+      "timestamp": 1789576290398
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "test": "tests/test_grupo2_funcionales.py::test_registracionusuarioTMGetiquetaESPANA",
+  "phase": "call",
+  "session_id": "f4309f505d15ecd91e081fa2c9388c60",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "eager",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "capture_omitted": "Sesión cerrada o sin respuesta; no enviar más comandos."
+}

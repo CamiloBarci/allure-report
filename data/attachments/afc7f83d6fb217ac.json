@@ -1,0 +1,18 @@
+{
+  "test": "tests/test_grupo4_precios.py::test_precios_tmg[ja-https://www.tellmegen.com/ja-https://shop.tellmegen.com/ja/]",
+  "phase": "call",
+  "session_id": "e971f1e69bf8b96d5de18415e60491b7",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "eager",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "capture_omitted": "Sesión cerrada o sin respuesta; no enviar más comandos."
+}

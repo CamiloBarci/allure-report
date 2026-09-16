@@ -1,0 +1,26 @@
+{
+  "test": "tests/test_grupo4_precios.py::test_precios_koko[fi-https://www.kokogenetics.com/fi/-https://shop.kokogenetics.com/fi/]",
+  "phase": "call",
+  "session_id": "77eaaceb407adcec3ed3b9b16c69071f",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "eager",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://www.kokogenetics.com/fi",
+  "browser_log": [
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/fi - Failed to load resource: the server responded with a status of 500 ()",
+      "source": "network",
+      "timestamp": 1789576512655
+    }
+  ]
+}

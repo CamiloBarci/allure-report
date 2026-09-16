@@ -1,0 +1,18 @@
+{
+  "test": "tests/test_grupo2_funcionales.py::test_de_autodeteccionidiomakoko[-https://www.kokogenetics.com/]",
+  "phase": "call",
+  "session_id": "0bdb0a383ffe43daf02db57551e29e9d",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "eager",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "capture_omitted": "Sesión cerrada o sin respuesta; no enviar más comandos."
+}

@@ -1,0 +1,212 @@
+{
+  "test": "tests/test_grupo2_funcionales.py::test_de_recuperodecontrasenatmg",
+  "phase": "call",
+  "session_id": "5f159b1d828d6ebdb5117b9433741137",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "eager",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://app.v1.tellmegen.com/forgotpassword",
+  "browser_log": [
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:319197 \"[Termly] Using standard GCM opt-in defaults\"",
+      "source": "console-api",
+      "timestamp": 1789576396471
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 177:13982 \"[Termly] Region %o has consent_mode set to %o\" \"virginia\" \"opt_in\"",
+      "source": "console-api",
+      "timestamp": 1789576396477
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:240837 \"[Termly] No GVL found for this website. TCFProvider is providing noop functions.\"",
+      "source": "console-api",
+      "timestamp": 1789576396545
+    },
+    {
+      "level": "SEVERE",
+      "message": "javascript 1:0 Uncaught ReferenceError: analytics is not defined",
+      "source": "javascript",
+      "timestamp": 1789576397548
+    },
+    {
+      "level": "SEVERE",
+      "message": "javascript 1:0 Uncaught ReferenceError: analytics is not defined",
+      "source": "javascript",
+      "timestamp": 1789576397569
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:319197 \"[Termly] Using standard GCM opt-in defaults\"",
+      "source": "console-api",
+      "timestamp": 1789576398369
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 177:13982 \"[Termly] Region %o has consent_mode set to %o\" \"virginia\" \"opt_in\"",
+      "source": "console-api",
+      "timestamp": 1789576399840
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.v1.tellmegen.com/init?lang=en - [DOM] Input elements should have autocomplete attributes (suggested: \"current-password\"): (More info: https://goo.gl/9p2vKq) %o",
+      "source": "recommendation",
+      "timestamp": 1789576400032
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:240837 \"[Termly] No GVL found for this website. TCFProvider is providing noop functions.\"",
+      "source": "console-api",
+      "timestamp": 1789576400032
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/items/sv - Failed to load resource: the server responded with a status of 500 ()",
+      "source": "network",
+      "timestamp": 1789576476634
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/byPattern/1176/NL/common - Failed to load resource: the server responded with a status of 500 ()",
+      "source": "network",
+      "timestamp": 1789576477045
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/byPattern/1176/SV/common - Failed to load resource: the server responded with a status of 500 ()",
+      "source": "network",
+      "timestamp": 1789576477047
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/byPattern/1176/FI/common - Failed to load resource: the server responded with a status of 500 ()",
+      "source": "network",
+      "timestamp": 1789576477633
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/chunk-vendors.ba05f1eb.js 65:63295 Uncaught L: Request failed with status code 500",
+      "source": "javascript",
+      "timestamp": 1789576477639
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/chunk-vendors.ba05f1eb.js 65:63295 Uncaught L: Request failed with status code 500",
+      "source": "javascript",
+      "timestamp": 1789576477934
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/chunk-vendors.ba05f1eb.js 65:63295 Uncaught L: Request failed with status code 500",
+      "source": "javascript",
+      "timestamp": 1789576477939
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/chunk-vendors.ba05f1eb.js 65:63295 Uncaught L: Request failed with status code 500",
+      "source": "javascript",
+      "timestamp": 1789576477939
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/items/fi - Failed to load resource: the server responded with a status of 500 ()",
+      "source": "network",
+      "timestamp": 1789576479637
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/items/nl - Failed to load resource: the server responded with a status of 500 ()",
+      "source": "network",
+      "timestamp": 1789576480234
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/chunk-vendors.ba05f1eb.js 65:63295 Uncaught L: Request failed with status code 500",
+      "source": "javascript",
+      "timestamp": 1789576480639
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/chunk-vendors.ba05f1eb.js 65:63295 Uncaught L: Request failed with status code 500",
+      "source": "javascript",
+      "timestamp": 1789576480836
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/byPattern/1171/fi/survey - Failed to load resource: the server responded with a status of 500 ()",
+      "source": "network",
+      "timestamp": 1789576523634
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/chunk-vendors.ba05f1eb.js 65:63295 Uncaught L: Request failed with status code 500",
+      "source": "javascript",
+      "timestamp": 1789576523833
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/byPattern/1176/ES/common - Failed to load resource: the server responded with a status of 500 ()",
+      "source": "network",
+      "timestamp": 1789576544535
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/chunk-vendors.ba05f1eb.js 65:63295 Uncaught L: Request failed with status code 500",
+      "source": "javascript",
+      "timestamp": 1789576545331
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/items/es - Failed to load resource: the server responded with a status of 500 ()",
+      "source": "network",
+      "timestamp": 1789576551635
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/chunk-vendors.ba05f1eb.js 65:63295 Uncaught L: Request failed with status code 500",
+      "source": "javascript",
+      "timestamp": 1789576554134
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/items/fr - Failed to load resource: the server responded with a status of 500 ()",
+      "source": "network",
+      "timestamp": 1789576576333
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/chunk-vendors.ba05f1eb.js 65:63295 Uncaught L: Request failed with status code 500",
+      "source": "javascript",
+      "timestamp": 1789576592535
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/byPattern/1171/es/survey - Failed to load resource: the server responded with a status of 500 ()",
+      "source": "network",
+      "timestamp": 1789576592535
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/chunk-vendors.ba05f1eb.js 65:63295 Uncaught L: Request failed with status code 500",
+      "source": "javascript",
+      "timestamp": 1789576597042
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://core.tellmegen.com/api/v1/public/forgotYourPassword/?email=pruebas.testing.tmg%40gmail.com - Failed to load resource: the server responded with a status of 500 ()",
+      "source": "network",
+      "timestamp": 1789576694618
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "test": "tests/test_grupo2_funcionales.py::test_registracionusuarioTMG",
+  "phase": "call",
+  "session_id": "afdb0203e297bedf850b76747f48f293",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "eager",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://app.v1.tellmegen.com/registryaccount/welcome/",
+  "browser_log": [
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:319197 \"[Termly] Using standard GCM opt-in defaults\"",
+      "source": "console-api",
+      "timestamp": 1789576317176
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 177:13982 \"[Termly] Region %o has consent_mode set to %o\" \"virginia\" \"opt_in\"",
+      "source": "console-api",
+      "timestamp": 1789576317181
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:240837 \"[Termly] No GVL found for this website. TCFProvider is providing noop functions.\"",
+      "source": "console-api",
+      "timestamp": 1789576317376
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.tellmegen.com/en - Access to XMLHttpRequest at 'https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/byPattern/1176/EN/common%7Chome' from origin 'https://www.tellmegen.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+      "source": "javascript",
+      "timestamp": 1789576324210
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.tellmegen.com/_nuxt/dc91663.js 0:151791 \"[@nuxtjs/i18n] Failed loading async locale export: Network Error\"",
+      "source": "console-api",
+      "timestamp": 1789576324210
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/byPattern/1176/EN/common%7Chome - Failed to load resource: net::ERR_FAILED",
+      "source": "network",
+      "timestamp": 1789576324210
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.tellmegen.com/en - Access to XMLHttpRequest at 'https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/byPattern/1176/EN/common%7Chome' from origin 'https://www.tellmegen.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+      "source": "javascript",
+      "timestamp": 1789576324225
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.tellmegen.com/_nuxt/dc91663.js 0:151791 \"[@nuxtjs/i18n] Failed loading async locale export: Network Error\"",
+      "source": "console-api",
+      "timestamp": 1789576324225
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/byPattern/1176/EN/common%7Chome - Failed to load resource: net::ERR_FAILED",
+      "source": "network",
+      "timestamp": 1789576324588
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/registryaccount/USER?lang=en 33 Access to XMLHttpRequest at 'https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/en' from origin 'https://app.v1.tellmegen.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+      "source": "javascript",
+      "timestamp": 1789576336294
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/en - Failed to load resource: net::ERR_FAILED",
+      "source": "network",
+      "timestamp": 1789576336294
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/registryaccount/USER?lang=en 33 Access to XMLHttpRequest at 'https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/es' from origin 'https://app.v1.tellmegen.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+      "source": "javascript",
+      "timestamp": 1789576336403
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/es - Failed to load resource: net::ERR_FAILED",
+      "source": "network",
+      "timestamp": 1789576336403
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/registryaccount/USER?lang=en 33 Access to XMLHttpRequest at 'https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/it' from origin 'https://app.v1.tellmegen.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+      "source": "javascript",
+      "timestamp": 1789576336411
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/it - Failed to load resource: net::ERR_FAILED",
+      "source": "network",
+      "timestamp": 1789576336411
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/registryaccount/USER?lang=en 33 Access to XMLHttpRequest at 'https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/pl' from origin 'https://app.v1.tellmegen.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+      "source": "javascript",
+      "timestamp": 1789576336411
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/pl - Failed to load resource: net::ERR_FAILED",
+      "source": "network",
+      "timestamp": 1789576336411
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/registryaccount/USER?lang=en 33 Access to XMLHttpRequest at 'https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/pt' from origin 'https://app.v1.tellmegen.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+      "source": "javascript",
+      "timestamp": 1789576336411
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/pt - Failed to load resource: net::ERR_FAILED",
+      "source": "network",
+      "timestamp": 1789576336411
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/registryaccount/USER?lang=en 33 Access to XMLHttpRequest at 'https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/fr' from origin 'https://app.v1.tellmegen.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+      "source": "javascript",
+      "timestamp": 1789576336411
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/fr - Failed to load resource: net::ERR_FAILED",
+      "source": "network",
+      "timestamp": 1789576336411
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/registryaccount/USER?lang=en - Access to XMLHttpRequest at 'https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/sv' from origin 'https://app.v1.tellmegen.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+      "source": "javascript",
+      "timestamp": 1789576337536
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/sv - Failed to load resource: net::ERR_FAILED",
+      "source": "network",
+      "timestamp": 1789576337538
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/registryaccount/USER?lang=en - Access to XMLHttpRequest at 'https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/nl' from origin 'https://app.v1.tellmegen.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+      "source": "javascript",
+      "timestamp": 1789576337544
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/nl - Failed to load resource: net::ERR_FAILED",
+      "source": "network",
+      "timestamp": 1789576337544
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/registryaccount/USER?lang=en - Access to XMLHttpRequest at 'https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/ru' from origin 'https://app.v1.tellmegen.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+      "source": "javascript",
+      "timestamp": 1789576337544
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/ru - Failed to load resource: net::ERR_FAILED",
+      "source": "network",
+      "timestamp": 1789576337544
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/registryaccount/USER?lang=en - Access to XMLHttpRequest at 'https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/ja' from origin 'https://app.v1.tellmegen.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+      "source": "javascript",
+      "timestamp": 1789576337545
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/ja - Failed to load resource: net::ERR_FAILED",
+      "source": "network",
+      "timestamp": 1789576337545
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/registryaccount/USER?lang=en - Access to XMLHttpRequest at 'https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/fi' from origin 'https://app.v1.tellmegen.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+      "source": "javascript",
+      "timestamp": 1789576337545
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/fi - Failed to load resource: net::ERR_FAILED",
+      "source": "network",
+      "timestamp": 1789576337545
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/registryaccount/USER?lang=en - Access to XMLHttpRequest at 'https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/nb' from origin 'https://app.v1.tellmegen.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+      "source": "javascript",
+      "timestamp": 1789576337545
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/nb - Failed to load resource: net::ERR_FAILED",
+      "source": "network",
+      "timestamp": 1789576337545
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/registryaccount/USER?lang=en - Access to XMLHttpRequest at 'https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/hi' from origin 'https://app.v1.tellmegen.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+      "source": "javascript",
+      "timestamp": 1789576337545
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/hi - Failed to load resource: net::ERR_FAILED",
+      "source": "network",
+      "timestamp": 1789576337545
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789576337617
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789576337692
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789576337692
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789576337692
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789576337699
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789576337699
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789576337855
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789576337855
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789576337855
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789576337855
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789576337855
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789576337855
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789576337855
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:319197 \"[Termly] Using standard GCM opt-in defaults\"",
+      "source": "console-api",
+      "timestamp": 1789576338325
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 177:13982 \"[Termly] Region %o has consent_mode set to %o\" \"virginia\" \"opt_in\"",
+      "source": "console-api",
+      "timestamp": 1789576338326
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:240837 \"[Termly] No GVL found for this website. TCFProvider is providing noop functions.\"",
+      "source": "console-api",
+      "timestamp": 1789576338523
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/registryaccount/USER?lang=en - Access to XMLHttpRequest at 'https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/de' from origin 'https://app.v1.tellmegen.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+      "source": "javascript",
+      "timestamp": 1789576338524
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/private/de - Failed to load resource: net::ERR_FAILED",
+      "source": "network",
+      "timestamp": 1789576338527
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789576338544
+    },
+    {
+      "level": "SEVERE",
+      "message": "javascript 1:0 Uncaught ReferenceError: analytics is not defined",
+      "source": "javascript",
+      "timestamp": 1789576368389
+    },
+    {
+      "level": "SEVERE",
+      "message": "javascript 1:0 Uncaught ReferenceError: analytics is not defined",
+      "source": "javascript",
+      "timestamp": 1789576368389
+    },
+    {
+      "level": "INFO",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:114648 \"not changed\"",
+      "source": "console-api",
+      "timestamp": 1789576369326
+    },
+    {
+      "level": "INFO",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:114648 \"not changed\"",
+      "source": "console-api",
+      "timestamp": 1789576372911
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.v1.tellmegen.com/registryaccount/welcome/ - [DOM] Input elements should have autocomplete attributes (suggested: \"new-password\"): (More info: https://goo.gl/9p2vKq) %o",
+      "source": "recommendation",
+      "timestamp": 1789576393508
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.v1.tellmegen.com/registryaccount/welcome/ - [DOM] Input elements should have autocomplete attributes (suggested: \"new-password\"): (More info: https://goo.gl/9p2vKq) %o",
+      "source": "recommendation",
+      "timestamp": 1789576393508
+    }
+  ]
+}

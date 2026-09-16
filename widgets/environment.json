@@ -1,1 +1,1 @@
-[{"values":["Bitbucket"],"name":"Entorno"},{"values":["Chrome"],"name":"Navegador"},{"values":["headless"],"name":"Modo"},{"values":["Camilo Barci"],"name":"Tester"}]
+[{"values":["CI"],"name":"Entorno"},{"values":["Chrome"],"name":"Navegador"},{"values":["Remote"],"name":"Modo"},{"values":["QA TellmeGen"],"name":"Tester"}]
