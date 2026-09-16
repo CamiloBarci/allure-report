@@ -1,0 +1,12 @@
+
+[SITEMAP AVISO] Se detectaron 9 enlaces con error en https://www.tellmegen.com/de_sitemap.xml:
+https://www.tellmegen.com/de/testergebnisse/dna-test-gesundheit/morbus-dupuytren -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/de/testergebnisse/dna-test-gesundheit/multiple-sklerose-ms -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/de/testergebnisse/dna-test-gesundheit/multiples-myelom -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/de/testergebnisse/dna-test-gesundheit/myeloproliferative-neoplasmen -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/de/testergebnisse/dna-test-gesundheit/neuroblastom -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/de/testergebnisse/dna-test-gesundheit/polyzystisches-ovar-syndrom -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/de/testergebnisse/dna-test-gesundheit/primaere-biliaere-zirrhose-pbc -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/de/testergebnisse/dna-test-gesundheit/sarkoidose -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/de/testergebnisse/monogene-krankheiten/methylmalonazidurie-mit-homocystinurie-typ-cbld -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+

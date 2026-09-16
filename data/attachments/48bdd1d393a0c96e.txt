@@ -1,0 +1,18 @@
+
+[SITEMAP AVISO] Se detectaron 15 enlaces con error en https://www.kokogenetics.com/de_sitemap.xml:
+https://www.kokogenetics.com/de/testergebnisse/dna-test-hunderasse/bedlington-terrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/langhaar-gen-fgf5-maine-coon-und-ragdoll -> 500
+https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/lockiges-fell-gen-liph-ural-rex -> 500
+https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/polydaktylie-variante-hw -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/ticked-muster-gen-dkk4-verschiedene-rassen -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-haustiere/akromatopsie-3-deutsch-kurzhaar -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-haustiere/cystinurie-typ-1-a-english-bulldog -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-haustiere/gangliosidose-gm2-japanischer-spaniel -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-haustiere/neuronale-ceroid-lipofuszinose-8 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-haustiere/primaeres-offenwinkelglaukom-norwegischer-grauer -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-haustiere/progressive-netzhautatrophie-golden-retriever -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-haustiere/progressive-netzhautatrophie-kontinentaler-zwergspaniel -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-haustiere/pyruvatkinase-mangel-pklr-gen-beagle -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-katzen/chediak-higashi-syndrom -> 500
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-katzen/spinale-muskelatrophie -> 500
+

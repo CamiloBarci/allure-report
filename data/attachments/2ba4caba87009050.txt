@@ -1,0 +1,3 @@
+Se detectaron 2 enlaces con error en https://www.tellmegen.com/pl_sitemap.xml:
+https://www.tellmegen.com/pl/wyniki/badania-genetyczne-choroby/depresja -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pl/wyniki/farmakogenetyka/risperidon-dawkowanie -> TooManyRedirects: Exceeded 30 redirects.

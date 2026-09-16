@@ -1,0 +1,13 @@
+
+[SITEMAP AVISO] Se detectaron 10 enlaces con error en https://www.tellmegen.com/fr_sitemap.xml:
+https://www.tellmegen.com/fr/resultats/pharmacologie/sertraline-dosage -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/pharmacologie/voriconazole-dosage -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/test-genetique-maladie/syndrome-jambes-sans-repos -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/test-genetique-maladie/thrombose-veineuse-profonde -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/test-genetique-origine -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/traits-personnels/agilite-mentale -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/traits-personnels/antigene-duffy-resistant-paludisme -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/traits-personnels/clarte-yeux -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/traits-personnels/coagulation-sanguine-facteur-v-leiden-20210g-a -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/traits-personnels/reflexe-eternuement-photique -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+

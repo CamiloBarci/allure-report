@@ -1,0 +1,19 @@
+Se detectaron 18 enlaces con error en https://www.kokogenetics.com/es_sitemap.xml:
+https://www.kokogenetics.com/resultados/enfermedades-geneticas-animales/narcolepsia-doberman-pinscher -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/resultados/enfermedades-geneticas-animales/narcolepsia-labrador-retriever -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/resultados/enfermedades-geneticas-animales/neuropatia-ataxica-sensorial -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/resultados/enfermedades-geneticas-animales/osteogenesis-imperfecta-beagle -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/resultados/enfermedades-geneticas-gatos/atrofia-muscular-espinal -> 500
+https://www.kokogenetics.com/resultados/enfermedades-geneticas-gatos/porfiria-intermitente-aguda-variante-6 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/resultados/enfermedades-geneticas-gatos/sindrome-de-chediak-higashi -> 500
+https://www.kokogenetics.com/resultados/rasgos-geneticos-animales/mascara-oscura-patron-pelaje-facial -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/resultados/rasgos-geneticos-animales/negro-recesivo -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/resultados/rasgos-geneticos-animales/patron-coloracion-ruano -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/resultados/rasgos-geneticos-animales/pelaje-puntos-fuego -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/resultados/rasgos-geneticos-animales/pelo-largo -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/resultados/rasgos-geneticos-gatos -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/resultados/rasgos-geneticos-gatos/cola-corta-1 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/resultados/rasgos-geneticos-gatos/pelaje-rizado-gen-liph-ural-rex -> 500
+https://www.kokogenetics.com/resultados/rasgos-geneticos-gatos/pelo-largo-gen-fgf5-maine-coon-y-ragdoll -> 500
+https://www.kokogenetics.com/resultados/test-adn-raza-perros/doberman-pinscher -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/resultados/test-adn-raza-perros/dogo-burdeos -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)

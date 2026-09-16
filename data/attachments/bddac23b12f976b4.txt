@@ -1,0 +1,5 @@
+
+[SITEMAP AVISO] Se detectaron 2 enlaces con error en https://www.tellmegen.com/en_sitemap.xml:
+https://www.tellmegen.com/en/results/dna-health-testing/multiple-myeloma -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/en/results/dna-health-testing/myeloproliferative-neoplasms -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+
