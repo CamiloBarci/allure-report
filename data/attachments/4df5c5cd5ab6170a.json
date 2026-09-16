@@ -1,0 +1,224 @@
+{
+  "test": "tests/test_grupo2_funcionales.py::test_registracionprofesional",
+  "phase": "call",
+  "session_id": "65467aaecaa1f6e05912a02d0627d117",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "normal",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://app.v1.tellmegen.com/registryaccount/USER?lang=en",
+  "browser_log": [
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:319197 \"[Termly] Using standard GCM opt-in defaults\"",
+      "source": "console-api",
+      "timestamp": 1789581779481
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 177:13982 \"[Termly] Region %o has consent_mode set to %o\" \"virginia\" \"opt_in\"",
+      "source": "console-api",
+      "timestamp": 1789581779484
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:240837 \"[Termly] No GVL found for this website. TCFProvider is providing noop functions.\"",
+      "source": "console-api",
+      "timestamp": 1789581779609
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:319197 \"[Termly] Using standard GCM opt-in defaults\"",
+      "source": "console-api",
+      "timestamp": 1789581781499
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 177:13982 \"[Termly] Region %o has consent_mode set to %o\" \"virginia\" \"opt_in\"",
+      "source": "console-api",
+      "timestamp": 1789581782272
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:240837 \"[Termly] No GVL found for this website. TCFProvider is providing noop functions.\"",
+      "source": "console-api",
+      "timestamp": 1789581782357
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/items/en - Failed to load resource: net::ERR_QUIC_PROTOCOL_ERROR",
+      "source": "network",
+      "timestamp": 1789581850654
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/items/de - Failed to load resource: net::ERR_QUIC_PROTOCOL_ERROR",
+      "source": "network",
+      "timestamp": 1789581850654
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/items/pt - Failed to load resource: net::ERR_QUIC_PROTOCOL_ERROR",
+      "source": "network",
+      "timestamp": 1789581856256
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789581857955
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789581858661
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/items/fr - Failed to load resource: net::ERR_QUIC_PROTOCOL_ERROR",
+      "source": "network",
+      "timestamp": 1789581862159
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/items/pl - Failed to load resource: net::ERR_QUIC_PROTOCOL_ERROR",
+      "source": "network",
+      "timestamp": 1789581863257
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/items/sv - Failed to load resource: net::ERR_QUIC_PROTOCOL_ERROR",
+      "source": "network",
+      "timestamp": 1789581863355
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/items/fi - Failed to load resource: net::ERR_QUIC_PROTOCOL_ERROR",
+      "source": "network",
+      "timestamp": 1789581863360
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/items/es - Failed to load resource: net::ERR_QUIC_PROTOCOL_ERROR",
+      "source": "network",
+      "timestamp": 1789581863458
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789581864258
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/items/it - Failed to load resource: net::ERR_QUIC_PROTOCOL_ERROR",
+      "source": "network",
+      "timestamp": 1789581864358
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/items/ja - Failed to load resource: net::ERR_QUIC_PROTOCOL_ERROR",
+      "source": "network",
+      "timestamp": 1789581864358
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/items/hi - Failed to load resource: net::ERR_QUIC_PROTOCOL_ERROR",
+      "source": "network",
+      "timestamp": 1789581864457
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/items/nl - Failed to load resource: net::ERR_QUIC_PROTOCOL_ERROR",
+      "source": "network",
+      "timestamp": 1789581864458
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/items/nb - Failed to load resource: net::ERR_QUIC_PROTOCOL_ERROR",
+      "source": "network",
+      "timestamp": 1789581864458
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/items/ru - Failed to load resource: net::ERR_QUIC_PROTOCOL_ERROR",
+      "source": "network",
+      "timestamp": 1789581864458
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789581864459
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789581864459
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789581864459
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789581864459
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789581864459
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789581864459
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789581864562
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789581864562
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789581864562
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789581864562
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.v1.tellmegen.com/js/app.2aa89753.js 0:7710353 Uncaught TypeError: Cannot read properties of undefined (reading 'status')",
+      "source": "javascript",
+      "timestamp": 1789581864562
+    }
+  ]
+}

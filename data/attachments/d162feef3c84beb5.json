@@ -1,0 +1,62 @@
+{
+  "test": "tests/test_grupo4_precios.py::test_precios_tmg[pl-https://www.tellmegen.com/pl-https://shop.tellmegen.com/pl/]",
+  "phase": "call",
+  "session_id": "b0a9fdb29c1af5974e200763ccc1faf1",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "normal",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://shop.tellmegen.com/pl/",
+  "browser_log": [
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:319197 \"[Termly] Using standard GCM opt-in defaults\"",
+      "source": "console-api",
+      "timestamp": 1789582568660
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 177:13982 \"[Termly] Region %o has consent_mode set to %o\" \"virginia\" \"opt_in\"",
+      "source": "console-api",
+      "timestamp": 1789582568819
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:240837 \"[Termly] No GVL found for this website. TCFProvider is providing noop functions.\"",
+      "source": "console-api",
+      "timestamp": 1789582569426
+    },
+    {
+      "level": "SEVERE",
+      "message": "javascript 1:0 Uncaught ReferenceError: analytics is not defined",
+      "source": "javascript",
+      "timestamp": 1789582570907
+    },
+    {
+      "level": "SEVERE",
+      "message": "javascript 1:0 Uncaught ReferenceError: analytics is not defined",
+      "source": "javascript",
+      "timestamp": 1789582570917
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.tellmegen.com/pl/ - Failed to load resource: the server responded with a status of 503 ()",
+      "source": "network",
+      "timestamp": 1789582571444
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.tellmegen.com/favicon.ico - Failed to load resource: the server responded with a status of 404 ()",
+      "source": "network",
+      "timestamp": 1789582571562
+    }
+  ]
+}
