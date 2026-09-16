@@ -1,0 +1,458 @@
+{
+  "test": "tests/test_grupo1_compras.py::test_ContinuarComprandoKOKO",
+  "phase": "call",
+  "session_id": "7b29e460bf8e1e0b0077da0151b6f0ea",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "normal",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://shop.kokogenetics.com/",
+  "browser_log": [
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1789585221189
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1789585221189
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1789585221189
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1789585221189
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1789585221189
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1789585221189
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/slideshow.js?v=100003309440835740261756293245 0:1957 Uncaught TypeError: Cannot read properties of null (reading 'getAttribute')",
+      "source": "javascript",
+      "timestamp": 1789585221568
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/apps/buckscc/sdk.min.js - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585222870
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/ - Refused to execute script from 'https://shop.kokogenetics.com/apps/buckscc/sdk.min.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled.",
+      "source": "security",
+      "timestamp": 1789585222870
+    },
+    {
+      "level": "SEVERE",
+      "message": "security - Framing 'https://shop.app/' violates the following Content Security Policy directive: \"frame-ancestors 'self' https://shop.app https://admin.shopify.com\". The request has been blocked.\n",
+      "source": "security",
+      "timestamp": 1789585223791
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/web-pixels@0a3c9e70wd8b01bb2p898e1257m7e92acc4/app/web-pixel-2707456387@96420dbe9ea96c426a1b7f364f977719~2/pixel.modern.js - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585223977
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/ - Refused to execute script from 'https://shop.kokogenetics.com/web-pixels@0a3c9e70wd8b01bb2p898e1257m7e92acc4/app/web-pixel-2707456387@96420dbe9ea96c426a1b7f364f977719~2/pixel.modern.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled.",
+      "source": "security",
+      "timestamp": 1789585223978
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/web-pixels@0a3c9e70wd8b01bb2p898e1257m7e92acc4/app/web-pixel-2703262083@a3321ca85cf5aaf6b57585fcd8d67b3a~2/pixel.modern.js - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585223984
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/ - Refused to execute script from 'https://shop.kokogenetics.com/web-pixels@0a3c9e70wd8b01bb2p898e1257m7e92acc4/app/web-pixel-2703262083@a3321ca85cf5aaf6b57585fcd8d67b3a~2/pixel.modern.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled.",
+      "source": "security",
+      "timestamp": 1789585223985
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/shopify_pay/accelerated_checkout - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585224056
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"event queued\" Object",
+      "source": "console-api",
+      "timestamp": 1789585224161
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"event queued\" Object",
+      "source": "console-api",
+      "timestamp": 1789585224161
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"SDK config telemetry queued\" Object",
+      "source": "console-api",
+      "timestamp": 1789585224405
+    },
+    {
+      "level": "WARNING",
+      "message": "https://static-tracking.klaviyo.com/onsite/js/fender_analytics.260bfd76609a3.js?cb=2 0:18534 \"Klaviyo tracking is disabled. To enable, set the cookie \\\"__kla_off\\\" to false.\" Object",
+      "source": "console-api",
+      "timestamp": 1789585224423
+    },
+    {
+      "level": "INFO",
+      "message": "https://cdn.shopify.com/proxy/af948f38a15e26080a70cf7ecad2d3c080bf782674eb83a28633ba9ba550e20d/d1639lhkj5l89m.cloudfront.net/js/storefront/uppromote.js?shop=f7v6xi-ai.myshopify.com&sp-cache-control=cHVibGljLCBtYXgtYWdlPTkwMA 0:10795 \"%c ► UpPromote Affiliate Marketing [Application] - Running...\" \"background-color: #092C4C; color: #fff; padding: 5px;\"",
+      "source": "console-api",
+      "timestamp": 1789585224588
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"queue flush started\" Object",
+      "source": "console-api",
+      "timestamp": 1789585225424
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"queue flushed\" Object",
+      "source": "console-api",
+      "timestamp": 1789585225602
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cart/add - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585225606
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/product-form.js?v=122217986302340716931756293245 0:2541 SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "source": "console-api",
+      "timestamp": 1789585225607
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cart/add - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585226166
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/product-form.js?v=122217986302340716931756293245 0:2541 SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "source": "console-api",
+      "timestamp": 1789585226166
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/.well-known/shopify/fec/produce - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585227706
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cart/add - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585228264
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/product-form.js?v=122217986302340716931756293245 0:2541 SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "source": "console-api",
+      "timestamp": 1789585228264
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cart/add - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585230312
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/product-form.js?v=122217986302340716931756293245 0:2541 SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "source": "console-api",
+      "timestamp": 1789585230312
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cart/add - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585230860
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/product-form.js?v=122217986302340716931756293245 0:2541 SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "source": "console-api",
+      "timestamp": 1789585230861
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cart/add - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585231404
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/product-form.js?v=122217986302340716931756293245 0:2541 SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "source": "console-api",
+      "timestamp": 1789585231404
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cart/add - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585231991
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/product-form.js?v=122217986302340716931756293245 0:2541 SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "source": "console-api",
+      "timestamp": 1789585231991
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cart/add - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585234256
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/product-form.js?v=122217986302340716931756293245 0:2541 SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "source": "console-api",
+      "timestamp": 1789585234256
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cart/add - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585236260
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/product-form.js?v=122217986302340716931756293245 0:2541 SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "source": "console-api",
+      "timestamp": 1789585236260
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cart/add - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585236810
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/product-form.js?v=122217986302340716931756293245 0:2541 SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "source": "console-api",
+      "timestamp": 1789585236810
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cart/add - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585237368
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/product-form.js?v=122217986302340716931756293245 0:2541 SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "source": "console-api",
+      "timestamp": 1789585237368
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cart/add - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585237903
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/product-form.js?v=122217986302340716931756293245 0:2541 SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "source": "console-api",
+      "timestamp": 1789585237903
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cart/add - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585238447
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/product-form.js?v=122217986302340716931756293245 0:2541 SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "source": "console-api",
+      "timestamp": 1789585238447
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cart/add - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585239715
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/product-form.js?v=122217986302340716931756293245 0:2541 SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "source": "console-api",
+      "timestamp": 1789585239715
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cart/add - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585240262
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/product-form.js?v=122217986302340716931756293245 0:2541 SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "source": "console-api",
+      "timestamp": 1789585240263
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cart/add - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585240793
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/product-form.js?v=122217986302340716931756293245 0:2541 SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "source": "console-api",
+      "timestamp": 1789585240793
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cart/add - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585241350
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/product-form.js?v=122217986302340716931756293245 0:2541 SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "source": "console-api",
+      "timestamp": 1789585241350
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cart/add - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585241892
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/product-form.js?v=122217986302340716931756293245 0:2541 SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "source": "console-api",
+      "timestamp": 1789585241892
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cart/add - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585242456
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/product-form.js?v=122217986302340716931756293245 0:2541 SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "source": "console-api",
+      "timestamp": 1789585242456
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cart/add - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585242995
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/product-form.js?v=122217986302340716931756293245 0:2541 SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "source": "console-api",
+      "timestamp": 1789585242995
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cart/add - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585243543
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/product-form.js?v=122217986302340716931756293245 0:2541 SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "source": "console-api",
+      "timestamp": 1789585243543
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cart/add - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585244270
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/product-form.js?v=122217986302340716931756293245 0:2541 SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "source": "console-api",
+      "timestamp": 1789585244273
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cart/add - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585244796
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/product-form.js?v=122217986302340716931756293245 0:2541 SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "source": "console-api",
+      "timestamp": 1789585244796
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cart/add - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585245341
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/product-form.js?v=122217986302340716931756293245 0:2541 SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "source": "console-api",
+      "timestamp": 1789585245341
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cart/add - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789585245904
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/product-form.js?v=122217986302340716931756293245 0:2541 SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "source": "console-api",
+      "timestamp": 1789585245904
+    }
+  ]
+}

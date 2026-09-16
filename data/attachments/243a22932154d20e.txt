@@ -1,0 +1,6 @@
+
+[SITEMAP AVISO] Se detectaron 3 enlaces con error en https://www.tellmegen.com/pl_sitemap.xml:
+https://www.tellmegen.com/pl/wyniki/farmakogenetyka/risperidon-dawkowanie -> TooManyRedirects: Exceeded 30 redirects.
+https://www.tellmegen.com/pl/wyniki/farmakogenetyka/sertralina-dawkowanie -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pl/wyniki/farmakogenetyka/tioguanina-azatiopryna-merkaptopuryna-dawkowanie -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+
