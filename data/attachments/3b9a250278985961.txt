@@ -1,0 +1,9 @@
+Se detectaron 8 enlaces con error en https://www.kokogenetics.com/it_sitemap.xml:
+https://www.kokogenetics.com/it/risultati/malattie-genetiche-gatti/atrofia-muscolare-spinale -> 500
+https://www.kokogenetics.com/it/risultati/malattie-genetiche-gatti/sindrome-di-chediak-higashi -> 500
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-animale-compagnia/coda-corta -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-animale-compagnia/mantello-grigio -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/coda-corta-3 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/coda-corta-4 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/pelliccia-riccioluta-gene-liph-ural-rex -> 500
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/pelo-lungo-gene-fgf5-maine-coon-e-ragdoll -> 500

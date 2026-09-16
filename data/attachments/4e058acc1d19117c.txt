@@ -1,0 +1,16 @@
+Se detectaron 15 enlaces con error en https://www.kokogenetics.com/nl_sitemap.xml:
+https://www.kokogenetics.com/nl/resultaten/dna-test-hond-ras/amerikaanse-cockerspaniel -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/dna-test-hond-ras/amerikaanse-waterspaniel -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/dna-test-hond-ras/barzoi -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/dna-test-hond-ras/basset-hound -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/dna-test-hond-ras/bearded-collie -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/dna-test-hond-ras/bedlingtonterrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/dna-test-hond-ras/berger-beauce -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/dna-test-hond-ras/berger-picard -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/dna-test-hond-ras/berghond-maremmen-abruzeen -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/dna-test-hond-ras/bichon-frise -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/dna-test-hond-ras/biewer-terrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/spinale-musculaire-atrofie -> 500
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/syndroom-van-chediak-higashi -> 500
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/krullend-vacht-gen-liph-ural-rex -> 500
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/langhaar-gen-fgf5-maine-coon-en-ragdoll -> 500

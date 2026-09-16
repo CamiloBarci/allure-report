@@ -1,0 +1,9 @@
+Se detectaron 8 enlaces con error en https://www.tellmegen.com/fr_sitemap.xml:
+https://www.tellmegen.com/fr/resultats/test-genetique-maladie/carcinome-cutane-cellules-squameuses -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/test-genetique-maladie/degenerescence-maculaire-liee-age -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/test-genetique-maladie/hernie-abdominale -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/test-genetique-maladie/hypercholesterolemie -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/test-genetique-maladie/hyperlipemie -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/test-genetique-maladie/lithiase-urinaire -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/test-genetique-maladie/maladie-alzheimer -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/test-genetique-maladie/migraines -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)

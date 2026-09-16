@@ -1,0 +1,2 @@
+Se detectaron 1 enlaces con error en https://www.tellmegen.com/pl_sitemap.xml:
+https://www.tellmegen.com/pl/wyniki/farmakogenetyka/risperidon-dawkowanie -> TooManyRedirects: Exceeded 30 redirects.

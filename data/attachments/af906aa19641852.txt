@@ -1,0 +1,6 @@
+Se detectaron 5 enlaces con error en https://www.tellmegen.com/de_sitemap.xml:
+https://www.tellmegen.com/de/testergebnisse/monogene-krankheiten/tuberoese-sklerose -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/de/testergebnisse/monogene-krankheiten/usher-syndrom -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/de/testergebnisse/personliche-eigenschaften/geburtsgewicht -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/de/testergebnisse/personliche-eigenschaften/metabolisierer-profil-cyp2c9 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/de/testergebnisse/personliche-eigenschaften/neutrophilenzahl -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)

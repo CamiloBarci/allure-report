@@ -1,0 +1,8 @@
+
+[SITEMAP AVISO] Se detectaron 5 enlaces con error en https://www.tellmegen.com/nl_sitemap.xml:
+https://www.tellmegen.com/nl/resultaten/erfelijke-ziekten/rhizomelische-punctata-chondrodysplasie-type-3 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/nl/resultaten/erfelijke-ziekten/tyrosinemie-type-i -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/nl/resultaten/erfelijke-ziekten/x-gebonden-recessieve-rhizomelische-chondrodysplasie-punctata -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/nl/resultaten/farmacologie/atomoxetine-dosering -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/nl/resultaten/farmacologie/daunorubicine-doxorubicine-bijwerkingen -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+

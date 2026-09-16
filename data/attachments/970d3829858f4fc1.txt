@@ -1,0 +1,20 @@
+Se detectaron 19 enlaces con error en https://www.kokogenetics.com/pt_sitemap.xml:
+https://www.kokogenetics.com/pt/resultados/doencas-geneticas-gatos/atrofia-muscular-espinhal -> 500
+https://www.kokogenetics.com/pt/resultados/doencas-geneticas-gatos/sindrome-de-chediak-higashi -> 500
+https://www.kokogenetics.com/pt/resultados/teste-dna-raca-caes/biewer-terrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/hipotricose-3-gen-hr-lykoi -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/hipotricose-5-gen-hr-lykoi -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/modelo-de-coloracao-carvao-1 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/modelo-de-coloracao-carvao-2 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/modelo-ticked-gen-dkk4-varias-racas -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/modelo-tigrado-blotched-3 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/pelo-amber-gen-mc1r-gato-bosque-da-noruega -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/pelo-cacheado-gen-liph-ural-rex -> 500
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/pelo-canela -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/pelo-chocolate -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/pelo-longo-gen-fgf5-gato-bosque-da-noruega -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/pelo-longo-gen-fgf5-maine-coon-e-ragdoll -> 500
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/pelo-longo-gen-fgf5-ragdoll -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/pelo-preto-uniforme -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/pes-brancos-gen-kit-birmano -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/polidactilia-variante-hw -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
