@@ -1,0 +1,31 @@
+Se detectaron 30 enlaces con error en https://www.kokogenetics.com/nl_sitemap.xml:
+https://www.kokogenetics.com/nl/resultaten/dna-test-hond-ras/turkse-mastiff -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/dna-test-hond-ras/vizsla -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-huisdieren/gangliosidose-gm2-toypoedel -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-huisdieren/hemofilie-a-oude-engelse-herdershonden -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-huisdieren/mucopolysacharidosen-type-iiia-teckel -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-huisdieren/narcolepsie-dobermann -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-huisdieren/neuronale-ceroid-lipofuscinose-5 -> 500
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-huisdieren/neuronale-ceroid-lipofuscinose-8 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-huisdieren/progressieve-retina-atrofie-golden-retriever -> 500
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-huisdieren/von-willebrand-ziekte-2-pointer -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-huisdieren/von-willebrand-ziekte-3-schotse-terrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-huisdieren/x-gebonden-erfelijke-nefropathie -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-huisdieren/x-gebonden-ernstige-gecombineerde-immuundeficientie-corgi -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/alpha-mannosidose -> 500
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/congenitale-hypothyreoide-gen-tpo-meerdere-rassen-katten -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/dihydropyrimidinase-deficientie -> 500
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/erythropoietische-congenitale-porfyrie -> 500
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/hemofilie-b-variant-1 -> 500
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/intermitterende-acute-porfyrie-variant-5 -> 500
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/mucopolysaccharidose-type-vii-variant-1 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/progressieve-retinale-atrofie-gen-kif3b -> 500
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/spinale-musculaire-atrofie -> 500
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/syndroom-van-chediak-higashi -> 500
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-huisdieren/harlekijnpatroon -> 500
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/korte-en-omgekrulde-staart-gen-hes7 -> 500
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/korte-staart-1 -> 500
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/korte-staart-4 -> 500
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/krullend-vacht-gen-liph-ural-rex -> 500
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/langhaar-gen-fgf5-maine-coon-en-ragdoll -> 500
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/witte-poten-gen-kit-birmaan -> 500

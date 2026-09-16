@@ -1,0 +1,33 @@
+
+[SITEMAP AVISO] Se detectaron 30 enlaces con error en https://www.kokogenetics.com/sv_sitemap.xml:
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/nasal-parakeratos-labrador-retriever -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/neuronal-ceroid-lipofuscinosis-1 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/neuronal-ceroid-lipofuscinosis-12-tibetansk-terrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/chediak-higashi-syndrom -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/spinal-muskelatrofi -> 500
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/akita -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/alaskan-husky -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/belgisk-vallhund -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/boerboel -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/bolognese -> 500
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/border-collie -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/byhund-afghanistan -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/byhund-costa-rica -> 500
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/byhund-japansk-koreansk -> 500
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/byhund-mexiko -> 500
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/byhund-mongoliet -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/byhund-osteuropeisk -> 500
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/catahoula-leopard-dog -> 500
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/coton-tulear -> 500
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/dandie-dinmont-terrier -> 500
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/dogue-bordeaux -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/english-shepherd -> 500
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/gordonsetter -> 500
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/greyhound -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/grosser-munsterlander -> 500
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/irlandsk-terrier -> 500
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/sarplaninac -> 500
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/thai-ridgeback-dog -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/lang-pals-gen-fgf5-maine-coon-och-ragdoll -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/rullat-pal-gen-liph-ural-rex -> 500
+

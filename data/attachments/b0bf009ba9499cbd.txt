@@ -1,0 +1,14 @@
+
+[SITEMAP AVISO] Se detectaron 11 enlaces con error en https://www.tellmegen.com/fr_sitemap.xml:
+https://www.tellmegen.com/fr/resultats/maladies-hereditaires/ceroides-lipofuscinoses-neuronales-type-6-associees-cln6 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/maladies-hereditaires/leucoencephalopathie-disparition-substance-blanche -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/maladies-hereditaires/neoplasie-endocrinienne-multiple-2b -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/maladies-hereditaires/syndrome-myasthenique-congenital -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/pharmacologie/contraceptifs-hormonaux-effets-indesirables -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/pharmacologie/diazepam-efficacite -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/pharmacologie/floxacilline-effets-indesirables -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/pharmacologie/inhibiteurs-selectifs-recapture-serotonine-isrs-effets-indesirables -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/pharmacologie/pitolisant-dosage -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/pharmacologie/quetiapine-dosage -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/test-genetique-maladie/fibrillation-auriculaire -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+

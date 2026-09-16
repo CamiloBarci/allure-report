@@ -1,0 +1,6 @@
+Kit HJEEDCBA2447 preparado (owner_id = NULL).
+Mail recibido: Activar cuenta
+Mail recibido: Activar cuenta
+Activando cuenta con: https://app.v1.tellmegen.com/activate/ubco5e2s88tsg5tau2rdfl58po
+Mail recibido: Etiqueta de Retorno tellmeGen
+Correo de etiqueta recibido con instrucciones en cuerpo (sin enlace PDF directo).
