@@ -1,0 +1,18 @@
+{
+  "test": "tests/test_grupo1_compras.py::test_PruebadeCompraTMG",
+  "phase": "call",
+  "session_id": "86759c4f70d0f41a3e09ffb6ce135d8e",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "normal",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "capture_omitted": "Sesión cerrada o sin respuesta; no enviar más comandos."
+}

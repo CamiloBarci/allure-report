@@ -1,0 +1,18 @@
+{
+  "test": "tests/test_grupo1_compras.py::test_PruebadeCompraKOKO",
+  "phase": "teardown",
+  "session_id": "e74692814c359eef6042521eea10b4ab",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "normal",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "capture_omitted": "Sesión cerrada o sin respuesta; no enviar más comandos."
+}

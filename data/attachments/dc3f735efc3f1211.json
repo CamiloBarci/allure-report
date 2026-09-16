@@ -1,0 +1,80 @@
+{
+  "test": "tests/test_grupo4_precios.py::test_precios_tmg[pt-https://www.tellmegen.com/pt-https://shop.tellmegen.com/pt/]",
+  "phase": "call",
+  "session_id": "bd265f790e45edd5491fe65eb74e685c",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "normal",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://www.tellmegen.com/pt",
+  "browser_log": [
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:319197 \"[Termly] Using standard GCM opt-in defaults\"",
+      "source": "console-api",
+      "timestamp": 1789579274379
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 177:13982 \"[Termly] Region %o has consent_mode set to %o\" \"virginia\" \"opt_in\"",
+      "source": "console-api",
+      "timestamp": 1789579274382
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.tellmegen.com/pt - Access to XMLHttpRequest at 'https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/byPattern/1176/EN/common%7Chome' from origin 'https://www.tellmegen.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+      "source": "javascript",
+      "timestamp": 1789579274471
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.tellmegen.com/_nuxt/dc91663.js 0:151791 \"[@nuxtjs/i18n] Failed loading async locale export: Network Error\"",
+      "source": "console-api",
+      "timestamp": 1789579274472
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://genportal-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/byPattern/1176/EN/common%7Chome - Failed to load resource: net::ERR_FAILED",
+      "source": "network",
+      "timestamp": 1789579274473
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:240837 \"[Termly] No GVL found for this website. TCFProvider is providing noop functions.\"",
+      "source": "console-api",
+      "timestamp": 1789579274480
+    },
+    {
+      "level": "SEVERE",
+      "message": "javascript 1:0 Uncaught ReferenceError: analytics is not defined",
+      "source": "javascript",
+      "timestamp": 1789579275983
+    },
+    {
+      "level": "SEVERE",
+      "message": "javascript 1:0 Uncaught ReferenceError: analytics is not defined",
+      "source": "javascript",
+      "timestamp": 1789579275983
+    },
+    {
+      "level": "SEVERE",
+      "message": "console-api - HierarchyRequestError: Failed to execute 'appendChild' on 'Node': This node type does not support this method.\n    at Object.appendChild (https://www.tellmegen.com/_nuxt/c74c5a7.js:2:53996)\n    at w (https://www.tellmegen.com/_nuxt/c74c5a7.js:2:67447)\n    at y (https://www.tellmegen.com/_nuxt/c74c5a7.js:2:67184)\n    at x (https://www.tellmegen.com/_nuxt/c74c5a7.js:2:67521)\n    at R (https://www.tellmegen.com/_nuxt/c74c5a7.js:2:70906)\n    at R (https://www.tellmegen.com/_nuxt/c74c5a7.js:2:70841)\n    at R (https://www.tellmegen.com/_nuxt/c74c5a7.js:2:70841)\n    at f.__patch__ (https://www.tellmegen.com/_nuxt/c74c5a7.js:2:71276)\n    at t._update (https://www.tellmegen.com/_nuxt/c74c5a7.js:2:47364)\n    at f.r (https://www.tellmegen.com/_nuxt/c74c5a7.js:2:78713)",
+      "source": "console-api",
+      "timestamp": 1789579276582
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.tellmegen.com/_nuxt/c74c5a7.js 1:25381 TypeError: Cannot read properties of undefined (reading '$scopedSlots')\n    at https://www.tellmegen.com/_nuxt/c74c5a7.js:2:33648\n    at prepatch (https://www.tellmegen.com/_nuxt/c74c5a7.js:2:34393)\n    at $ (https://www.tellmegen.com/_nuxt/c74c5a7.js:2:69207)\n    at https://www.tellmegen.com/_nuxt/c74c5a7.js:2:69567\n    at $ (https://www.tellmegen.com/_nuxt/c74c5a7.js:2:70001)\n    at f.__patch__ (https://www.tellmegen.com/_nuxt/c74c5a7.js:2:71172)\n    at t._update (https://www.tellmegen.com/_nuxt/c74c5a7.js:2:47347)\n    at f.r (https://www.tellmegen.com/_nuxt/c74c5a7.js:2:78713)\n    at t.get (https://www.tellmegen.com/_nuxt/c74c5a7.js:2:28722)\n    at t.run (https://www.tellmegen.com/_nuxt/c74c5a7.js:2:29455)",
+      "source": "console-api",
+      "timestamp": 1789579276597
+    }
+  ]
+}
