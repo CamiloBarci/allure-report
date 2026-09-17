@@ -1,0 +1,21 @@
+Se detectaron 20 enlaces con error en https://www.tellmegen.com/sv_sitemap.xml:
+https://www.tellmegen.com/sv/genetisk-predisposition-test -> 404
+https://www.tellmegen.com/sv/resultat/arftliga-sjukdomar/gracile-syndrom -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/sv/resultat/arftliga-sjukdomar/wilms-tumor-gen-wt1 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/sv/resultat/dna-test-sjukdomar/diafragmabrack -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/sv/resultat/dna-test-sjukdomar/endometriecancer -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/sv/resultat/dna-test-sjukdomar/gastroesofageal-refluxsjukdom -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/sv/resultat/dna-test-sjukdomar/gikt -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/sv/resultat/dna-test-sjukdomar/gliom -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/sv/resultat/dna-test-sjukdomar/graves-sjukdom -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/sv/resultat/dna-test-sjukdomar/hallux-valgus -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/sv/resultat/dna-test-sjukdomar/hashimotos-tyreoidit -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/sv/resultat/dna-test-sjukdomar/hemorrojdsjukdom -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/sv/resultat/dna-test-sjukdomar/hjartsvikt -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/sv/resultat/dna-test-sjukdomar/hogt-blodtryck -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/sv/resultat/dna-test-sjukdomar/hyperlipidemi -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/sv/resultat/dna-test-sjukdomar/icke-alkoholrelaterat-fettlever -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/sv/resultat/dna-test-sjukdomar/icke-medullar-skoldkortelcancer -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/sv/resultat/dna-test-sjukdomar/intrahepatisk-kolestas-graviditet -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/sv/resultat/farmakogenetik/amitriptylin-dosering -> TooManyRedirects: Exceeded 30 redirects.
+https://www.tellmegen.com/sv/resultat/farmakogenetik/risperidon-dosering -> TooManyRedirects: Exceeded 30 redirects.

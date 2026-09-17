@@ -1,0 +1,8 @@
+
+[SITEMAP AVISO] Se detectaron 5 enlaces con error en https://www.tellmegen.com/en_sitemap.xml:
+https://www.tellmegen.com/en/results/dna-traits-test/hla-b27-antigen -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/en/results/dna-traits-test/metabolizer-profile-cyp2c9 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/en/results/monogenic-diseases/metachromatic-leukodystrophy -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/en/results/monogenic-diseases/neuronal-ceroid-lipofuscinosis-type-8-cln8-gene -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/en/results/monogenic-diseases/oculocutaneous-albinism-slc45a2-gene -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+
