@@ -1,0 +1,308 @@
+{
+  "test": "tests/test_grupo1_compras.py::test_PruebadeCompraKOKO",
+  "phase": "call",
+  "session_id": "584e3122012491c7a94b158013cfb056",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "normal",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://shop.kokogenetics.com/es/checkout",
+  "browser_log": [
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1789661480829
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1789661480834
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1789661480834
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1789661480834
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1789661480834
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1789661480834
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/slideshow.js?v=100003309440835740261756293245 0:1957 Uncaught TypeError: Cannot read properties of null (reading 'getAttribute')",
+      "source": "javascript",
+      "timestamp": 1789661482088
+    },
+    {
+      "level": "SEVERE",
+      "message": "security - Framing 'https://shop.app/' violates the following Content Security Policy directive: \"frame-ancestors 'self' https://shop.app https://admin.shopify.com\". The request has been blocked.\n",
+      "source": "security",
+      "timestamp": 1789661482325
+    },
+    {
+      "level": "INFO",
+      "message": "https://cdn.shopify.com/extensions/019dbe41-333e-7edd-a4ce-2128c404ca9a/bucks-currency-converter-29/assets/widgetLoader.js 14:10 \"Script loaded!\"",
+      "source": "console-api",
+      "timestamp": 1789661482624
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.kokogenetics.com/web-pixels/strict/app/web-pixel-4511531395@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] initialized [object Object]",
+      "source": "worker",
+      "timestamp": 1789661483231
+    },
+    {
+      "level": "WARNING",
+      "message": "https://static-tracking.klaviyo.com/onsite/js/fender_analytics.260bfd76609a3.js?cb=2 0:18534 \"Klaviyo tracking is disabled. To enable, set the cookie \\\"__kla_off\\\" to false.\" Object",
+      "source": "console-api",
+      "timestamp": 1789661483407
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.kokogenetics.com/web-pixels/strict/app/web-pixel-2849997187@36f244aeba196ca7e2f6b8a611f4e21b.js 0 %c [↑] UpPromote WebPixel background-color: #ff4e41; color: #fff; padding: 2px 15px 2px 0",
+      "source": "worker",
+      "timestamp": 1789661483413
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.kokogenetics.com/web-pixels/strict/app/web-pixel-2849997187@36f244aeba196ca7e2f6b8a611f4e21b.js 0 Running...",
+      "source": "worker",
+      "timestamp": 1789661483413
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.kokogenetics.com/web-pixels/strict/app/web-pixel-2849997187@36f244aeba196ca7e2f6b8a611f4e21b.js 0 console.groupEnd",
+      "source": "worker",
+      "timestamp": 1789661483414
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.kokogenetics.com/web-pixels/strict/app/web-pixel-4511531395@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] event → page_viewed [object Object]",
+      "source": "worker",
+      "timestamp": 1789661483457
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"event queued\" Object",
+      "source": "console-api",
+      "timestamp": 1789661483483
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"event queued\" Object",
+      "source": "console-api",
+      "timestamp": 1789661483484
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"SDK config telemetry queued\" Object",
+      "source": "console-api",
+      "timestamp": 1789661483802
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"lifecycle flush requested\" Object",
+      "source": "console-api",
+      "timestamp": 1789661483969
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"queue flushed\" Object",
+      "source": "console-api",
+      "timestamp": 1789661483977
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1789661485814
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1789661485814
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1789661485814
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1789661485814
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1789661485814
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1789661485814
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/slideshow.js?v=100003309440835740261756293245 0:1957 Uncaught TypeError: Cannot read properties of null (reading 'getAttribute')",
+      "source": "javascript",
+      "timestamp": 1789661485930
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.kokogenetics.com/web-pixels/strict/app/web-pixel-4511531395@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] initialized [object Object]",
+      "source": "worker",
+      "timestamp": 1789661485936
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.kokogenetics.com/web-pixels/strict/app/web-pixel-2849997187@36f244aeba196ca7e2f6b8a611f4e21b.js 0 %c [↑] UpPromote WebPixel background-color: #ff4e41; color: #fff; padding: 2px 15px 2px 0",
+      "source": "worker",
+      "timestamp": 1789661485940
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.kokogenetics.com/web-pixels/strict/app/web-pixel-2849997187@36f244aeba196ca7e2f6b8a611f4e21b.js 0 Running...",
+      "source": "worker",
+      "timestamp": 1789661485940
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.kokogenetics.com/web-pixels/strict/app/web-pixel-2849997187@36f244aeba196ca7e2f6b8a611f4e21b.js 0 console.groupEnd",
+      "source": "worker",
+      "timestamp": 1789661485940
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.kokogenetics.com/web-pixels/strict/app/web-pixel-4511531395@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] event → page_viewed [object Object]",
+      "source": "worker",
+      "timestamp": 1789661486109
+    },
+    {
+      "level": "INFO",
+      "message": "https://cdn.shopify.com/extensions/019dbe41-333e-7edd-a4ce-2128c404ca9a/bucks-currency-converter-29/assets/widgetLoader.js 14:10 \"Script loaded!\"",
+      "source": "console-api",
+      "timestamp": 1789661486424
+    },
+    {
+      "level": "WARNING",
+      "message": "https://static-tracking.klaviyo.com/onsite/js/fender_analytics.260bfd76609a3.js?cb=2 0:18534 \"Klaviyo tracking is disabled. To enable, set the cookie \\\"__kla_off\\\" to false.\" Object",
+      "source": "console-api",
+      "timestamp": 1789661486781
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"event queued\" Object",
+      "source": "console-api",
+      "timestamp": 1789661486791
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"SDK config telemetry queued\" Object",
+      "source": "console-api",
+      "timestamp": 1789661486825
+    },
+    {
+      "level": "INFO",
+      "message": "https://cdn.shopify.com/proxy/af948f38a15e26080a70cf7ecad2d3c080bf782674eb83a28633ba9ba550e20d/d1639lhkj5l89m.cloudfront.net/js/storefront/uppromote.js?shop=f7v6xi-ai.myshopify.com&sp-cache-control=cHVibGljLCBtYXgtYWdlPTkwMA 0:10795 \"%c ► UpPromote Affiliate Marketing [Application] - Running...\" \"background-color: #092C4C; color: #fff; padding: 5px;\"",
+      "source": "console-api",
+      "timestamp": 1789661487017
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"queue flush started\" Object",
+      "source": "console-api",
+      "timestamp": 1789661488151
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"queue flushed\" Object",
+      "source": "console-api",
+      "timestamp": 1789661490862
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.kokogenetics.com/es-us - Clear-Site-Data header on 'https://shop.kokogenetics.com/es-us/cart/add': Cleared data types: \"prefetchCache\", \"prerenderCache\".",
+      "source": "other",
+      "timestamp": 1789661492514
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.kokogenetics.com/web-pixels/strict/app/web-pixel-4511531395@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] event → items_added [object Object]",
+      "source": "worker",
+      "timestamp": 1789661494559
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"lifecycle flush requested\" Object",
+      "source": "console-api",
+      "timestamp": 1789661495160
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/es-us/cart - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789661495285
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.kokogenetics.com/es-us/cart - No available adapters.",
+      "source": "rendering",
+      "timestamp": 1789661495611
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/favicon.ico - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789661496636
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/es/checkout - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789661503344
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.kokogenetics.com/es/checkout - No available adapters.",
+      "source": "rendering",
+      "timestamp": 1789661503505
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/favicon.ico - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789661503561
+    }
+  ]
+}

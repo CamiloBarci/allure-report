@@ -1,0 +1,7 @@
+
+[SITEMAP AVISO] Se detectaron 4 enlaces con error en https://www.tellmegen.com/nl_sitemap.xml:
+https://www.tellmegen.com/nl/resultaten/erfelijke-ziekten/autosomal-dominante-multiple-epifyse-dysplasie -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/nl/resultaten/erfelijke-ziekten/autosomal-dominante-retinitis-pigmentosa -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/nl/resultaten/erfelijke-ziekten/cystinose -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/nl/resultaten/erfelijke-ziekten/methylmalonzuururie-type-cbla -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+
