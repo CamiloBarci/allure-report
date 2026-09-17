@@ -1,0 +1,10 @@
+
+[SITEMAP AVISO] Se detectaron 7 enlaces con error en https://www.kokogenetics.com/it_sitemap.xml:
+https://www.kokogenetics.com/it/risultati/malattie-genetiche-animale-compagnia/cecita-notturna-stazionaria-congenita -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/it/risultati/malattie-genetiche-animale-compagnia/deficit-componente-3-complemento -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/it/risultati/malattie-genetiche-animale-compagnia/deficit-fattore-vii -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/it/risultati/malattie-genetiche-gatti/atrofia-muscolare-spinale -> 500
+https://www.kokogenetics.com/it/risultati/malattie-genetiche-gatti/sindrome-di-chediak-higashi -> 500
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/pelliccia-riccioluta-gene-liph-ural-rex -> 500
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/pelo-lungo-gene-fgf5-maine-coon-e-ragdoll -> 500
+

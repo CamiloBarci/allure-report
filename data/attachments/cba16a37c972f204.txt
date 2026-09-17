@@ -1,0 +1,3 @@
+Se detectaron 2 enlaces con error en https://www.tellmegen.com/en_sitemap.xml:
+https://www.tellmegen.com/en/results/monogenic-diseases/pontocerebellar-hypoplasia-type-9-ampd2-gene -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/en/results/monogenic-diseases/primary-hyperoxaluria-type-1-ph1 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)

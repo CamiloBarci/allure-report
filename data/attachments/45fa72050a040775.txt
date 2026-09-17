@@ -1,0 +1,5 @@
+Se detectaron 4 enlaces con error en https://www.kokogenetics.com/sv_sitemap.xml:
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/chediak-higashi-syndrom -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/spinal-muskelatrofi -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/lang-pals-gen-fgf5-maine-coon-och-ragdoll -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/rullat-pal-gen-liph-ural-rex -> 500

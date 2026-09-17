@@ -1,0 +1,7 @@
+
+[SITEMAP AVISO] Se detectaron 4 enlaces con error en https://www.tellmegen.com/pl_sitemap.xml:
+https://www.tellmegen.com/pl/wyniki/badania-genetyczne-choroby/choroba-refluksowa-przelyku -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pl/wyniki/badania-genetyczne-choroby/kamienie-zolciowe -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pl/wyniki/badania-genetyczne-choroby/niealkoholowe-stluszczeniowe-zapalenie-watroby -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pl/wyniki/farmakogenetyka/risperidon-dawkowanie -> TooManyRedirects: Exceeded 30 redirects.
+
