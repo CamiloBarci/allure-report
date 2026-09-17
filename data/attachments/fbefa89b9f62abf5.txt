@@ -1,0 +1,14 @@
+Se detectaron 13 enlaces con error en https://www.tellmegen.com/sv_sitemap.xml:
+https://www.tellmegen.com/sv/genetisk-predisposition-test -> 404
+https://www.tellmegen.com/sv/resultat/farmakogenetik/amitriptylin-dosering -> TooManyRedirects: Exceeded 30 redirects.
+https://www.tellmegen.com/sv/resultat/farmakogenetik/metoprolol-dosering -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/sv/resultat/farmakogenetik/risperidon-dosering -> TooManyRedirects: Exceeded 30 redirects.
+https://www.tellmegen.com/sv/resultat/farmakogenetik/valproinsyra-biverkningar -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/sv/resultat/farmakogenetik/zuclopentixol-dosering -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/sv/resultat/personliga-egenskaper/epigenetisk-aldrande -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/sv/resultat/personliga-egenskaper/fodelsevikt -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/sv/resultat/personliga-egenskaper/fotisk-nysreflex -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/sv/resultat/personliga-egenskaper/hornhinnans-hysteres -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/sv/resultat/personliga-egenskaper/hudmelaninnivaer -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/sv/resultat/personliga-egenskaper/jarninnehall-lever -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/sv/resultat/personliga-egenskaper/klosintensitet-myggbett -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
