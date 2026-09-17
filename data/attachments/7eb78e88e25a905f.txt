@@ -1,0 +1,5 @@
+Se detectaron 4 enlaces con error en https://www.kokogenetics.com/de_sitemap.xml:
+https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/langhaar-gen-fgf5-maine-coon-und-ragdoll -> 500
+https://www.kokogenetics.com/de/testergebnisse/eigenschaften-katzen/lockiges-fell-gen-liph-ural-rex -> 500
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-katzen/chediak-higashi-syndrom -> 500
+https://www.kokogenetics.com/de/testergebnisse/erbkrankheiten-katzen/spinale-muskelatrophie -> 500

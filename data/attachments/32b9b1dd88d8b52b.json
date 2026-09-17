@@ -1,0 +1,320 @@
+{
+  "test": "tests/test_grupo1_compras.py::test_de_mediosdepagovivabioma",
+  "phase": "call",
+  "session_id": "51a2b5a8af573632c8d4fca57cbfe6bf",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "normal",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://shop.vivabioma.com/",
+  "browser_log": [
+    {
+      "level": "SEVERE",
+      "message": "security - Framing 'https://shop.app/' violates the following Content Security Policy directive: \"frame-ancestors 'self' https://shop.app https://admin.shopify.com\". The request has been blocked.\n",
+      "source": "security",
+      "timestamp": 1789663084861
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/shopify_pay/accelerated_checkout - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789663085088
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/web-pixels@0a3c9e70wd8b01bb2p898e1257m7e92acc4/app/web-pixel-4457038154@96420dbe9ea96c426a1b7f364f977719~2/pixel.modern.js - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789663085144
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/es-us - Refused to execute script from 'https://shop.vivabioma.com/web-pixels@0a3c9e70wd8b01bb2p898e1257m7e92acc4/app/web-pixel-4457038154@96420dbe9ea96c426a1b7f364f977719~2/pixel.modern.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled.",
+      "source": "security",
+      "timestamp": 1789663085144
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/web-pixels@0a3c9e70wd8b01bb2p898e1257m7e92acc4/app/web-pixel-4455334218@a3321ca85cf5aaf6b57585fcd8d67b3a~2/pixel.modern.js - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789663085171
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/es-us - Refused to execute script from 'https://shop.vivabioma.com/web-pixels@0a3c9e70wd8b01bb2p898e1257m7e92acc4/app/web-pixel-4455334218@a3321ca85cf5aaf6b57585fcd8d67b3a~2/pixel.modern.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled.",
+      "source": "security",
+      "timestamp": 1789663085172
+    },
+    {
+      "level": "INFO",
+      "message": "https://cdn.shopify.com/proxy/cdb538f0cb3e53472214efe7d453908d00597003a6b0fee6aec97095ce58865a/d1639lhkj5l89m.cloudfront.net/js/storefront/uppromote.js?shop=vs7ivz-rx.myshopify.com&sp-cache-control=cHVibGljLCBtYXgtYWdlPTkwMA 0:10795 \"%c ► UpPromote Affiliate Marketing [Application] - Running...\" \"background-color: #092C4C; color: #fff; padding: 5px;\"",
+      "source": "console-api",
+      "timestamp": 1789663085428
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/es-us/cart/add - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789663086507
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/cdn/shop/t/2/assets/product-form.js?v=179596024047441353531771405710 0:3212 SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "source": "console-api",
+      "timestamp": 1789663086520
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/.well-known/shopify/fec/produce - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789663087045
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.vivabioma.com/es-us - Clear-Site-Data header on 'https://shop.vivabioma.com/checkout': Cleared data types: \"prefetchCache\", \"prerenderCache\".",
+      "source": "other",
+      "timestamp": 1789663122778
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/ - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789663123794
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.vivabioma.com/ - No available adapters.",
+      "source": "rendering",
+      "timestamp": 1789663124005
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/favicon.ico - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789663124068
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/ - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789663126037
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.vivabioma.com/ - No available adapters.",
+      "source": "rendering",
+      "timestamp": 1789663126224
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/favicon.ico - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789663126263
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/ - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789663127670
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.vivabioma.com/ - No available adapters.",
+      "source": "rendering",
+      "timestamp": 1789663127844
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/favicon.ico - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789663127882
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/ - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789663129308
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.vivabioma.com/ - No available adapters.",
+      "source": "rendering",
+      "timestamp": 1789663129463
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/favicon.ico - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789663129508
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/ - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789663131071
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.vivabioma.com/ - No available adapters.",
+      "source": "rendering",
+      "timestamp": 1789663131246
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/favicon.ico - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789663131288
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/ - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789663132877
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.vivabioma.com/ - No available adapters.",
+      "source": "rendering",
+      "timestamp": 1789663133036
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/favicon.ico - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789663133082
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/ - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789663134928
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.vivabioma.com/ - No available adapters.",
+      "source": "rendering",
+      "timestamp": 1789663135113
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/favicon.ico - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789663135149
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/ - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789663136598
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.vivabioma.com/ - No available adapters.",
+      "source": "rendering",
+      "timestamp": 1789663136747
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/favicon.ico - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789663136781
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/ - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789663138341
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.vivabioma.com/ - No available adapters.",
+      "source": "rendering",
+      "timestamp": 1789663138536
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/favicon.ico - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789663138574
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/ - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789663139955
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.vivabioma.com/ - No available adapters.",
+      "source": "rendering",
+      "timestamp": 1789663140122
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/favicon.ico - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789663140148
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/ - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789663141677
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.vivabioma.com/ - No available adapters.",
+      "source": "rendering",
+      "timestamp": 1789663141880
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/favicon.ico - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789663141932
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.vivabioma.com/web-pixels/strict/app/web-pixel-5549228362@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] initialized [object Object]",
+      "source": "worker",
+      "timestamp": 1789663146863
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.vivabioma.com/web-pixels/strict/app/web-pixel-5505352010@36f244aeba196ca7e2f6b8a611f4e21b.js 0 %c [↑] UpPromote WebPixel background-color: #ff4e41; color: #fff; padding: 2px 15px 2px 0",
+      "source": "worker",
+      "timestamp": 1789663146871
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.vivabioma.com/web-pixels/strict/app/web-pixel-5505352010@36f244aeba196ca7e2f6b8a611f4e21b.js 0 Running...",
+      "source": "worker",
+      "timestamp": 1789663146871
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.vivabioma.com/web-pixels/strict/app/web-pixel-5505352010@36f244aeba196ca7e2f6b8a611f4e21b.js 0 console.groupEnd",
+      "source": "worker",
+      "timestamp": 1789663146872
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.vivabioma.com/web-pixels/strict/app/web-pixel-5549228362@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] event → page_viewed [object Object]",
+      "source": "worker",
+      "timestamp": 1789663146885
+    },
+    {
+      "level": "INFO",
+      "message": "https://cdn.shopify.com/proxy/cdb538f0cb3e53472214efe7d453908d00597003a6b0fee6aec97095ce58865a/d1639lhkj5l89m.cloudfront.net/js/storefront/uppromote.js?shop=vs7ivz-rx.myshopify.com&sp-cache-control=cHVibGljLCBtYXgtYWdlPTkwMA 0:10795 \"%c ► UpPromote Affiliate Marketing [Application] - Running...\" \"background-color: #092C4C; color: #fff; padding: 5px;\"",
+      "source": "console-api",
+      "timestamp": 1789663147982
+    }
+  ]
+}
