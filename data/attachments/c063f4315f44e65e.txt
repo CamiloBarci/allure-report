@@ -1,0 +1,22 @@
+
+[SITEMAP AVISO] Se detectaron 19 enlaces con error en https://www.tellmegen.com/pt_sitemap.xml:
+https://www.tellmegen.com/pt/ -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/plataforma-b2b -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/dna-ancestralidade -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/doencas-hereditarias/acidemia-glutarica-tipo-1 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/doencas-hereditarias/aciduria-metilmalonica-homocistinuira-tipo-cblc -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/doencas-hereditarias/aciduria-metilmalonica-homocistinuira-tipo-cblf -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/doencas-hereditarias/aciduria-metilmalonica-tipo-cblb -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/doencas-hereditarias/acromatopsia-completa-tipo-2-acromatopsia-incompleta -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/doencas-hereditarias/agenesia-corpo-caloso-neuropatia-periferica-accpn -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/doencas-hereditarias/albinismo-oculocutaneo-gene-slc45a2 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/doencas-hereditarias/albinismo-oculocutaneo-gene-tyrp1 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/test-adn-salud/artrite-idiopatica-juvenil -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/test-adn-salud/melanoma-maligno-cutaneo -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/tracos-personalidade-genetica/funcao-tiroideia-niveis-tsh -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/tracos-personalidade-genetica/gene-mtrr -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/tracos-personalidade-genetica/morfologia-dentaria -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/tracos-personalidade-genetica/niveis-selectina-e -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/tracos-personalidade-genetica/olfato -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/tracos-personalidade-genetica/perfil-metabolizador-cyp2c19 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+

@@ -1,0 +1,7 @@
+
+[SITEMAP AVISO] Se detectaron 4 enlaces con error en https://www.kokogenetics.com/pl_sitemap.xml:
+https://www.kokogenetics.com/pl/wyniki/cechy-genetyczne-kotow/dlugie-wlosy-gene-fgf5-maine-coon-i-ragdoll -> 500
+https://www.kokogenetics.com/pl/wyniki/cechy-genetyczne-kotow/sierc-krecony-gene-liph-ural-rex -> 500
+https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-kotow/rdzeniowy-zanik-miesni -> 500
+https://www.kokogenetics.com/pl/wyniki/choroby-genetyczne-kotow/zespol-chediaka-higashiego -> 500
+
