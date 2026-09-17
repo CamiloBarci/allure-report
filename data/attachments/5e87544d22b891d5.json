@@ -1,0 +1,218 @@
+{
+  "test": "tests/test_grupo4_precios.py::test_precios_koko[ja-https://www.kokogenetics.com/ja/-https://shop.kokogenetics.com/ja/]",
+  "phase": "call",
+  "session_id": "c817bd822a6f96e9491aef5c72883e30",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "normal",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://shop.kokogenetics.com/en-us",
+  "browser_log": [
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 7:319197 \"[Termly] Using standard GCM opt-in defaults\"",
+      "source": "console-api",
+      "timestamp": 1789633740960
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:68286 \"[Termly] AutoBlocker is enabled for this website\"",
+      "source": "console-api",
+      "timestamp": 1789633740961
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:68352 \"[Termly] Installing AutoBlocker overrides\"",
+      "source": "console-api",
+      "timestamp": 1789633740962
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:13982 \"[Termly] Region %o has consent_mode set to %o\" \"virginia\" \"opt_in\"",
+      "source": "console-api",
+      "timestamp": 1789633741462
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 7:240837 \"[Termly] No GVL found for this website. TCFProvider is providing noop functions.\"",
+      "source": "console-api",
+      "timestamp": 1789633742258
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:64131 \"[Termly] A script from %o %cmight%c not be categorized correctly because we could not tell which script added it to the page. %cIf your application is behaving properly, you may safely ignore this message%c. Otherwise, you might need to set custom domain rules in the dashboard. See %s for help.\\n\\nScript URL: %o\" \"www.googletagmanager.com\" \"font-style: italic\" \"font-style: normal\" \"font-weight: bold\" \"font-weight: normal\" \"https://support.termly.io/hc/en-us/articles/32848083153169-How-to-use-Domain-Rules-to-change-Auto-Blocker-s-blocking-behavior\" https://www.googletagmanager.com/gtag/js?id=G-W6VLP5DTFQ&cx=c&gtm=4e69f3h1",
+      "source": "console-api",
+      "timestamp": 1789633742424
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147 177:66247 Uncaught Error: Termly resource blocker has already been loaded on this page. Check your markup for duplicate <script> tags including https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147",
+      "source": "javascript",
+      "timestamp": 1789633742587
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:64131 \"[Termly] A script from %o %cmight%c not be categorized correctly because we could not tell which script added it to the page. %cIf your application is behaving properly, you may safely ignore this message%c. Otherwise, you might need to set custom domain rules in the dashboard. See %s for help.\\n\\nScript URL: %o\" \"genelinks-a6ff5d87434c6b617256548.freshchat.com\" \"font-style: italic\" \"font-style: normal\" \"font-weight: bold\" \"font-weight: normal\" \"https://support.termly.io/hc/en-us/articles/32848083153169-How-to-use-Domain-Rules-to-change-Auto-Blocker-s-blocking-behavior\" \"https://genelinks-a6ff5d87434c6b617256548.freshchat.com/widget/config_iframe.html?host=https://genelinks-a6ff5d87434c6b617256548.freshchat.com&token=8c86a232-727e-407b-b174-de891b2ba350&origin=https://www.kokogenetics.com\"",
+      "source": "console-api",
+      "timestamp": 1789633743671
+    },
+    {
+      "level": "WARNING",
+      "message": "https://connect.facebook.net/en_US/fbevents.js 203:527 \"[Meta Pixel] - Duplicate Pixel ID: 6595989673786201.\"",
+      "source": "console-api",
+      "timestamp": 1789633744112
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/ja - Access to XMLHttpRequest at 'https://kokogenetics-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/byPattern/2/EN/common%7Chome' from origin 'https://www.kokogenetics.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+      "source": "javascript",
+      "timestamp": 1789633778550
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/4e0d1c9.js 0:146932 \"[@nuxtjs/i18n] Failed loading async locale export: Network Error\"",
+      "source": "console-api",
+      "timestamp": 1789633778550
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://kokogenetics-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/byPattern/2/EN/common%7Chome - Failed to load resource: net::ERR_FAILED",
+      "source": "network",
+      "timestamp": 1789633779016
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1789633781097
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1789633781097
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1789633781097
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1789633781097
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1789633781097
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1789633781097
+    },
+    {
+      "level": "SEVERE",
+      "message": "security - Framing 'https://shop.app/' violates the following Content Security Policy directive: \"frame-ancestors 'self' https://shop.app https://admin.shopify.com\". The request has been blocked.\n",
+      "source": "security",
+      "timestamp": 1789633782217
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/slideshow.js?v=100003309440835740261756293245 0:1957 Uncaught TypeError: Cannot read properties of null (reading 'getAttribute')",
+      "source": "javascript",
+      "timestamp": 1789633782519
+    },
+    {
+      "level": "WARNING",
+      "message": "https://static-tracking.klaviyo.com/onsite/js/fender_analytics.260bfd76609a3.js?cb=2 0:18534 \"Klaviyo tracking is disabled. To enable, set the cookie \\\"__kla_off\\\" to false.\" Object",
+      "source": "console-api",
+      "timestamp": 1789633782599
+    },
+    {
+      "level": "INFO",
+      "message": "https://cdn.shopify.com/extensions/019dbe41-333e-7edd-a4ce-2128c404ca9a/bucks-currency-converter-29/assets/widgetLoader.js 14:10 \"Script loaded!\"",
+      "source": "console-api",
+      "timestamp": 1789633782979
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.kokogenetics.com/web-pixels/strict/app/web-pixel-4511531395@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] initialized [object Object]",
+      "source": "worker",
+      "timestamp": 1789633783904
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.kokogenetics.com/web-pixels/strict/app/web-pixel-2849997187@36f244aeba196ca7e2f6b8a611f4e21b.js 0 %c [↑] UpPromote WebPixel background-color: #ff4e41; color: #fff; padding: 2px 15px 2px 0",
+      "source": "worker",
+      "timestamp": 1789633784486
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.kokogenetics.com/web-pixels/strict/app/web-pixel-2849997187@36f244aeba196ca7e2f6b8a611f4e21b.js 0 Running...",
+      "source": "worker",
+      "timestamp": 1789633784487
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.kokogenetics.com/web-pixels/strict/app/web-pixel-2849997187@36f244aeba196ca7e2f6b8a611f4e21b.js 0 console.groupEnd",
+      "source": "worker",
+      "timestamp": 1789633784487
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"event queued\" Object",
+      "source": "console-api",
+      "timestamp": 1789633784794
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"event queued\" Object",
+      "source": "console-api",
+      "timestamp": 1789633784797
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.kokogenetics.com/web-pixels/strict/app/web-pixel-4511531395@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] event → page_viewed [object Object]",
+      "source": "worker",
+      "timestamp": 1789633785068
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"SDK config telemetry queued\" Object",
+      "source": "console-api",
+      "timestamp": 1789633785233
+    },
+    {
+      "level": "INFO",
+      "message": "https://cdn.shopify.com/proxy/af948f38a15e26080a70cf7ecad2d3c080bf782674eb83a28633ba9ba550e20d/d1639lhkj5l89m.cloudfront.net/js/storefront/uppromote.js?shop=f7v6xi-ai.myshopify.com&sp-cache-control=cHVibGljLCBtYXgtYWdlPTkwMA 0:10795 \"%c ► UpPromote Affiliate Marketing [Application] - Running...\" \"background-color: #092C4C; color: #fff; padding: 5px;\"",
+      "source": "console-api",
+      "timestamp": 1789633785294
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"queue flush started\" Object",
+      "source": "console-api",
+      "timestamp": 1789633786539
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"queue flushed\" Object",
+      "source": "console-api",
+      "timestamp": 1789633786539
+    }
+  ]
+}

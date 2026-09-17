@@ -1,0 +1,19 @@
+{
+  "test": "tests/test_grupo4_precios.py::test_precios_koko[sv-https://www.kokogenetics.com/sv/-https://shop.kokogenetics.com/sv/]",
+  "phase": "call",
+  "session_id": "9c808f26296af1903aaafb77d7726154",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "normal",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "data:,",
+  "browser_log": []
+}

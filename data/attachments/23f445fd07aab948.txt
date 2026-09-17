@@ -1,0 +1,364 @@
+
+[SITEMAP AVISO] Se detectaron 361 enlaces con error en https://www.kokogenetics.com/sv_sitemap.xml:
+https://www.kokogenetics.com/sv/Resultaten-utvecklas -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/acatalasemi -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/aciduria-l-2-hydroxyglutarisk -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/akromatopsi-3-kortharig-vorsteh -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/alaskan-husky-encefalopati -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/amelogenesis-imperfecta -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/arftlig-hyperkeratos-trampdynan -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/arftlig-njursjukdom-kopplad-x-kromosomet -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/ataxi-spincerebellar-myokymi -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/banderas-neonatal-ataxia -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/bening-familjar-juvenil-epilepsi -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/brist-prekallikrein -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/brist-pyruvatkinas-basenji -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/brist-pyruvatkinas-beagle -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/brist-pyruvatkinas-labrador-retriever -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/brist-pyruvatkinas-mops -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/canine-leukocyte-adhesion-protein-deficiency -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/centronuklear-myopati-2 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/centronuklear-myopati-labrador-retriever -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/cerebellar-ataxi -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/cerebellar-hypoplasi -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/cistadenocarcinom-njurarna-nodular-dermatofibros -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/cranio-mandibular-osteopati -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/cystinuri-typ-i-a -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/cystinuri-typ-i-a-engelsk-bulldogg -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/cystinuri-typ-i-a-labrador-retriever -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/cystinuri-typ-ii-a -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/cystinuri-typ-ii-b -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/degenerativ-myelopati -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/dysplasi-kottar-stavar-1 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/dysplasi-kottar-stavar-1a -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/dysplasi-kottar-stavar-3 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/dysplasi-kottar-stavar-4 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/ektopisk-displasi-kopplad-x-kromosomet -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/epidermolysis-bullosa-dystrophica -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/epidermolytisk-hyperkeratos -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/faktor-vii-brist -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/fosfofruktokinasbrist -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/fucosidos-hundar -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/generaliserad-progressiv-retinal-atrofi-schapendoes -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/glanzmanns-trombasteni-1-otterhound -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/glanzmanns-trombasteni-1-pyreneerhund -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/gm1-gangliosidos-portugisisk-vattenhund -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/gm1-gangliosidos-shiba -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/gm2-gangliosidos-japanese-chin -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/gm2-gangliosidos-toy-pudel -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/gomspalt -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/hemofili-a-boxer -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/hemofili-a-english-shepherd -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/hemofili-a-tysk-schaferhund -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/hemofili-b-gen-f9 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/hemofili-b-lhasa-apso -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/hemofili-b-rhodesian-ridgeback -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/hiperurikosuri -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/hundens-multifokala-retinopati-1 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/hundens-multifokala-retinopati-3 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/hyperekplexi-eller-skracksjukdom -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/hypomineralisering-tander -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/hypomyelinisering -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/ichthyosis-golden-retriever -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/ichthyosis-grand-danois -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/kanine-leukocytadhesionsbrist-clad-typ-1 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/komplement-3-brist -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/kondrodysplasi -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/kongenital-myasteni-syndrom -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/kongenital-stationar-nattblindet -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/kortikal-degeneration-lillhjarnan -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/leukodystrofi-globoidceller-irlandsk-rod-setter -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/leukodystrofi-globoidceller-terriers -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/lundehundssyndrom -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/lysosomal-lagring-sjukdom -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/malabsorption-b12-tarmen-beagle -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/malabsorption-b12-tarmen-border-collie -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/malabsorption-b12-tarmen-komondor -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/malign-hypertermi -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/may-hegglin-anomali -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/medfodd-hypotyreos -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/medfodd-hypotyreos-perro-agua-espanol -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/medfodd-keratokonjunktivit-sicca-ichthyosiform-dermatos -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/medfodd-myotoni-clcn1-gen -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/medfodd-myotoni-dvargschnauzern -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/mucopolysackaridos-3a-tax-dachshund -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/mucopolysackaridos-vii-terrier-brasileiro -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/mucopolysackaridos-vii-tysk-schaferhund -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/mullerska-gagen-syndrom -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/multifokal-retinopati-hundar-2 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/muskeldystrofi-cavalier-king-charles -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/muskeldystrofi-golden-retriever -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/muskular-hypertrofi-dubbel-muskelmassa -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/musladin-lueke-syndrom -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/narkolepsi-dobermann -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/narkolepsi-labrador-retriever -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/narkolepsi-tax-dachshund -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/nasal-parakeratos-labrador-retriever -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/neonatal-encefalopati-krampanfall -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/neonatal-kortikal-cerebellar-degeneration -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/neuroaxonal-dystrofi-fetal-debut -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/neuronal-ceroid-lipofuscinosis-1 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/neuronal-ceroid-lipofuscinosis-10 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/neuronal-ceroid-lipofuscinosis-12-tibetansk-terrier -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/neuronal-ceroid-lipofuscinosis-4a -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/neuronal-ceroid-lipofuscinosis-5 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/neuronal-ceroid-lipofuscinosis-6 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/neuronal-ceroid-lipofuscinosis-8 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/oculoskeletal-dysplasi-1-labrador-retriever -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/osteogenesis-imperfecta-beagle -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/osteogenesis-imperfecta-tax-dachshund -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/polycystisk-njursjukdom -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/pompes-sjukdom-gaa-gen -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/primar-ciliar-dyskinesi -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/primar-hyperoxaluri -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/primar-linsluxation -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/primar-oppenvinkelglaukom-beagle -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/primar-oppenvinkelglaukom-norsk-alghund -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/primart-oppenvinkelglaukom-basset-hound -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/progressiv-retinal-atrofi-basenji -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/progressiv-retinal-atrofi-dominant -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/progressiv-retinal-atrofi-golden-retriever -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/progressiv-retinal-atrofi-kontinental-dvargspaniel-papillon -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/progressiv-retinal-atrofi-ttc8-gen-golden-retriever -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/progressiv-tidig-debut-cerebellar-ataxi -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/progressiv-tidig-polineuropati -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/progressiv-tidig-polineuropati-greyhound -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/sen-debut-ataxi-spincerebellar-sjukdom -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/sensorisk-ataktisk-neuropati -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/sjukdomen-glykogeninlagringssjukdom-iiia -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/skelettdysplasi-2 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/spinal-dysrafi -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/spongiotisk-degeneration-cerebellar-ataxi -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/stavar-kottar-dystrofi-1 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/svar-kombinerad-immunbrist-jack-rusell-terrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/svar-kombinerad-immunbrist-wetterhoun-frisisk-vattenhund -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/syndrom-neutrofiler-fastnar -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/tidig-retinal-degeneration -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/traningsinducerad-kollaps -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/tremor-koppla-x-kromosomer -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/trombocytopeni -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/trombopati-american-eskimo-dog -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/trombopati-basset-hound -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/trombopati-landseer -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/vitamin-d-beroende-rakit-typ-ii -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/von-gierke-sjukdom-malteser -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/von-willebrands-sjukdom-1 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/von-willebrands-sjukdom-2 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/von-willebrands-sjukdom-2-pointer -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/von-willebrands-sjukdom-3-nederlandse-kooikerhondje -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/von-willebrands-sjukdom-3-skotsk-terrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/x-kromosombunden-kombinerad-immunbrist-basset-hound -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/x-kromosombunden-kombinerad-immunbrist-cardigan-welsh-corgi -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/x-kromosombunden-myotubular-myopati -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/x-kromosombunden-progressiv-retinal-atrofi-1 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-djur/x-kromosombunden-progressiv-retinal-atrofi-2 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/acrodermatitis-enteropathica -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/alpha-mannosidos -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/autoimmunt-lymfoproliferativt-syndrom -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/cerebral-dysgenesi -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/chediak-higashi-syndrom -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/chondrodysplasi-katter -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/commissural-missbildning-forehjarnor-ventrikulomegali-cystor -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/congenital-adrenal-hyperplasi -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/congenital-amaurosis-leber -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/congenital-hypotyreos-gen-tpo-flera-raser-katter -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/congenital-myotoni -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/cystinuri-typ-b-variant-1 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/cystinuri-typ-b-variant-2 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/cystinuri-typ-b-variant-3 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/cystinuri-typ-ia -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/dihydropyrimidinase-defekt -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/erythropoietic-congenital-porfyri -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/faktor-xi-defekt -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/faktor-xii-defekt-variant-1 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/faktor-xii-defekt-variant-2 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/frontonasal-dysplasi -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/gangliosidos-gm1 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/gangliosidos-gm2-gen-gm2a -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/gangliosidos-gm2-typ-2-gen-hexb-burmese -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/gangliosidos-gm2-typ-2-gen-hexb-japansk -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/gangliosidos-gm2-typ-2-gen-hexb-korat -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/gangliosidos-gm2-typ-2-gen-hexb-kortharig-innekatt -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/glycogen-lagringssjukdom-typ-iv -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/hemofili-b-variant-1 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/hemofili-b-variant-2 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/hyperlipoproteinemi -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/hypertrofisk-kardiomyopati-gen-mybpc3-maine-coon -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/hypertrofisk-kardiomyopati-gen-mybpc3-ragdoll -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/hypotrichosis-gen-foxn1 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/intermitterande-akut-porfyri-variant-1 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/intermitterande-akut-porfyri-variant-2 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/intermitterande-akut-porfyri-variant-3 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/intermitterande-akut-porfyri-variant-4 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/intermitterande-akut-porfyri-variant-5 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/intermitterande-akut-porfyri-variant-6 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/lakemedelskanslighet -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/medfedd-erytropoetisk-porfyri-variant-2 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/medfodelse-glaukom -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/mucolipidos-ii -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/mukopolysackaridos-typ-i -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/mukopolysackaridos-typ-vi-variant-1 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/mukopolysackaridos-typ-vii-variant-1 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/mukopolysackaridos-typ-vii-variant-2 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/muskeldystrofi-dystroglykanopati -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/niemann-pick-sjukdom-typ-c1 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/niemann-pick-sjukdom-typ-c2 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/oronposition-och-osteokondrodysplasi -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/periodisk-hypokalem-paralys -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/polycystisk-njursjukdom-katter -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/primar-hyperoxaluri-typ-2 -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/progressiv-retinal-atrofi-gen-kif3b -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/pyruvatkinas-defekt -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/rakitis-vitamin-d-brist-typ-ia -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/sen-degenerering-av-fotoreceptorer -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/skelettdysplasi -> 500
+https://www.kokogenetics.com/sv/resultat/arftliga-sjukdomar-katter/spinal-muskelatrofi -> 500
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/alaskan-husky -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/appenzeller-sennenhund -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/australian-kelpie -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/barbet-cane-acqua-francese -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/beagle -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/bedlingtonterrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/bergamasco -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/berger-brie-briard -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/berger-pyrenees -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/black-tan-coonhound -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/braco-italiano -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/braque-auvergne -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/broholmer -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/bruno-saint-hubert-francais -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/byhund-egypten -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/byhund-ostasiatisk -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/byhund-vastafrikansk -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/canaan-dog -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/cane-corso -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/cane-paratore -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/chihuahua -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/chinook -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/collie -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/dansk-svensk-gardshund -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/dobermann -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/dogue-bordeaux -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/donggyeongi -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/elo -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/engelsk-foxhound -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/english-toy-terrier-svart-och-tan -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/grand-anglo-francais -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/grosser-schweizer-sennenhund -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/hollandse-herdershond -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/irish-glen-imaal-terrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/italiensk-vinthund -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/jack-russell-terrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/japanese-chin -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/korea-jindo-dog -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/kritikos-lagonikos -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/norfolkterrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/norrbottenspets -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/pastore-della-sila -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/petit-basset-griffon-vendeen -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/podengo-portugues -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/prarievarg -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/pudelpointer -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/pyreneerhund -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/sankt-bernhardshund -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/schnoodles -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/shikoku -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/spinone -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/stravharig-foxterrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/stravharig-vorsteh -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/teddy-roosevelt-terrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/terrier-brasileiro -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/toy-fox-terrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/tysk-spets -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/tysk-stravharig-vorstehhund -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/weimaraner -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/welsh-corgi-cardigan -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/welsh-corgi-pembroke -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-hundras/yorkshireterrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-kattras -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-kattras/abyssinium -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-kattras/amerikansk-korthar -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-kattras/chartreux -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-kattras/devon-rex -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-kattras/helig-birma -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-kattras/japanska-bobtail -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-kattras/ocicat -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-kattras/peterbald -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-kattras/rysk-bla -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-kattras/siames -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-kattras/tennessee-rex -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-kattras/turkisk-van -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/dna-test-ras-katt -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-djur -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-djur/anpassning-till-hojd -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-djur/arlekin -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-djur/choklad-variant -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-djur/dominerande-svart -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-djur/fargmonstret-roan -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-djur/fargutspadning -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-djur/grizzle-pals -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-djur/hangande-oron -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-djur/kanslighet-vissa-lakemedel -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-djur/kort-nos -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-djur/kort-svans -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-djur/kroppsstorlek -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-djur/krulligt-har -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-djur/langt-har -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-djur/mork-ansiktsmask -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-djur/pals-guldiga-prickar -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-djur/palsfarg-fawn -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-djur/piebald-pals -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-djur/recessivt-rott -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-djur/resessivt-svart -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/amberpal-gen-mc1r-norskskogkatt -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/atigrat-monster-blotched-1 -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/atigrat-monster-blotched-2 -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/atigrat-monster-blotched-3 -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/blodgrupp-ab-variant-1 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/blodgrupp-ab-variant-2 -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/blodgrupp-ab-variant-3 -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/blodgrupp-ab-variant-4 -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/chokladpal -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/colorpoint-gen-tyr-burmese -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/colorpoint-gen-tyr-burmese-2 -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/colorpoint-gen-tyr-siames -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/copalpal-gen-mc1r-kuriliansk-bobtail -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/extrem-guldpal -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/fargdilution -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/fargmonster-kol-1 -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/fargmonster-kol-2 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/guldpal -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/hipotrikos-1-gen-hr-lykoi -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/hipotrikos-2-gen-hr-lykoi -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/hipotrikos-3-gen-hr-lykoi -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/hipotrikos-4-gen-hr-lykoi -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/hipotrikos-5-gen-hr-lykoi -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/hipotrikos-6-gen-hr-lykoi -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/hipotrikos-gen-krt71-sphynx -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/kanelpal -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/kort-och-rullad-svans-gen-hes7 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/kort-svans-1 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/kort-svans-3 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/kort-svans-4 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/lang-pals-gen-fgf5-maine-coon-och-ragdoll -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/lang-pals-gen-fgf5-norskskogkatt -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/lang-pals-gen-fgf5-olika-raser -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/lang-pals-gen-fgf5-ragdoll -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/oculocutant-albinism-gen-hps5-donskoy -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/oculocutant-albinism-typ-1-gen-tyr -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/polidactyli-variant-hw -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/polidactyli-variant-uk1 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/polidactyli-variant-uk2 -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/rullat-pal-gen-krt71-devon-rex -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/rullat-pal-gen-krt71-selkirk-rex -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/rullat-pal-gen-liph-ural-rex -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/rullat-pal-gen-lpar6-cornish-rex-och-german-rex -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/russetpal-gen-mc1r-burmese -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/solid-svart-pals -> 500
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/ticked-monster-gen-dkk4-abessinier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/ticked-monster-gen-dkk4-olika-raser -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/sv/resultat/genetiska-egenskaper-katter/vita-fotar-gen-kit-birman -> 500
+

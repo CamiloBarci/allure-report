@@ -1,0 +1,116 @@
+{
+  "test": "tests/test_grupo4_precios.py::test_precios_koko[ru-https://www.kokogenetics.com/ru/-https://shop.kokogenetics.com/ru/]",
+  "phase": "call",
+  "session_id": "ed3df0d2b990a7c785d98cf8e6ded1b4",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "normal",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://shop.kokogenetics.com/ru/",
+  "browser_log": [
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 7:319197 \"[Termly] Using standard GCM opt-in defaults\"",
+      "source": "console-api",
+      "timestamp": 1789633841747
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:68286 \"[Termly] AutoBlocker is enabled for this website\"",
+      "source": "console-api",
+      "timestamp": 1789633841749
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:68352 \"[Termly] Installing AutoBlocker overrides\"",
+      "source": "console-api",
+      "timestamp": 1789633841750
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:13982 \"[Termly] Region %o has consent_mode set to %o\" \"virginia\" \"opt_in\"",
+      "source": "console-api",
+      "timestamp": 1789633842459
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 7:240837 \"[Termly] No GVL found for this website. TCFProvider is providing noop functions.\"",
+      "source": "console-api",
+      "timestamp": 1789633843270
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:64131 \"[Termly] A script from %o %cmight%c not be categorized correctly because we could not tell which script added it to the page. %cIf your application is behaving properly, you may safely ignore this message%c. Otherwise, you might need to set custom domain rules in the dashboard. See %s for help.\\n\\nScript URL: %o\" \"www.googletagmanager.com\" \"font-style: italic\" \"font-style: normal\" \"font-weight: bold\" \"font-weight: normal\" \"https://support.termly.io/hc/en-us/articles/32848083153169-How-to-use-Domain-Rules-to-change-Auto-Blocker-s-blocking-behavior\" https://www.googletagmanager.com/gtag/js?id=G-W6VLP5DTFQ&cx=c&gtm=4e69f3",
+      "source": "console-api",
+      "timestamp": 1789633843482
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/ru - Access to XMLHttpRequest at 'https://kokogenetics-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/byPattern/2/EN/common%7Chome' from origin 'https://www.kokogenetics.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+      "source": "javascript",
+      "timestamp": 1789633843513
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/4e0d1c9.js 0:146932 \"[@nuxtjs/i18n] Failed loading async locale export: Network Error\"",
+      "source": "console-api",
+      "timestamp": 1789633843514
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:64131 \"[Termly] A script from %o %cmight%c not be categorized correctly because we could not tell which script added it to the page. %cIf your application is behaving properly, you may safely ignore this message%c. Otherwise, you might need to set custom domain rules in the dashboard. See %s for help.\\n\\nScript URL: %o\" \"www.kokogenetics.com\" \"font-style: italic\" \"font-style: normal\" \"font-weight: bold\" \"font-weight: normal\" \"https://support.termly.io/hc/en-us/articles/32848083153169-How-to-use-Domain-Rules-to-change-Auto-Blocker-s-blocking-behavior\" \"/_nuxt/3cda2fc.js\"",
+      "source": "console-api",
+      "timestamp": 1789633843514
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://kokogenetics-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/byPattern/2/EN/common%7Chome - Failed to load resource: net::ERR_FAILED",
+      "source": "network",
+      "timestamp": 1789633843516
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147 177:66247 Uncaught Error: Termly resource blocker has already been loaded on this page. Check your markup for duplicate <script> tags including https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147",
+      "source": "javascript",
+      "timestamp": 1789633843717
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/ru - Access to XMLHttpRequest at 'https://kokogenetics-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/byPattern/2/RU/common%7Chome' from origin 'https://www.kokogenetics.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+      "source": "javascript",
+      "timestamp": 1789633843837
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/4e0d1c9.js 0:146932 \"[@nuxtjs/i18n] Failed loading async locale export: Network Error\"",
+      "source": "console-api",
+      "timestamp": 1789633843839
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://kokogenetics-i18n-app-prod-238125485873.europe-west1.run.app/dictionary/byPattern/2/RU/common%7Chome - Failed to load resource: net::ERR_FAILED",
+      "source": "network",
+      "timestamp": 1789633844300
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/ru/ - Failed to load resource: the server responded with a status of 503 ()",
+      "source": "network",
+      "timestamp": 1789633845140
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/favicon.ico - Failed to load resource: the server responded with a status of 404 ()",
+      "source": "network",
+      "timestamp": 1789633845248
+    }
+  ]
+}
