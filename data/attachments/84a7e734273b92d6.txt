@@ -1,0 +1,12 @@
+Se detectaron 11 enlaces con error en https://www.tellmegen.com/it_sitemap.xml:
+https://www.tellmegen.com/it/ -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/consulenza-genetica -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/consultazione-tellmegen -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/dna-connect -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/ricerca-tellmegen -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/farmacologia/abacavir-reazioni-avverse -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/farmacologia/acenocumarolo-fenprocumone-reazioni-avverse -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/farmacologia/atazanavir-reazioni-avverse -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/farmacologia/atomoxetina-dosaggio -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/farmacologia/atorvastatina-dosaggio -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/farmacologia/brexpiprazolo-dosaggio -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)

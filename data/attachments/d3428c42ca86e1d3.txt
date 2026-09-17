@@ -1,0 +1,3 @@
+Se detectaron 2 enlaces con error en https://www.tellmegen.com/de_sitemap.xml:
+https://www.tellmegen.com/de/testergebnisse/monogene-krankheiten/glycogen-type-1a-von-gierke-krankheit -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/de/testergebnisse/pharmakologie/pitolisant-dosierung -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)

@@ -1,0 +1,16 @@
+
+[SITEMAP AVISO] Se detectaron 13 enlaces con error en https://www.tellmegen.com/pt_sitemap.xml:
+https://www.tellmegen.com/pt/dna-connect -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/dna-ancestralidade -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/doencas-hereditarias/aciduria-metilmalonica-homocistinuira-tipo-cblj -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/doencas-hereditarias/albinismo-oculocutaneo-tipo-1-tirosinase-negativa -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/doencas-hereditarias/albinismo-oculocutaneo-tipo-2-tirosinase-positiva -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/doencas-hereditarias/alfa-manosidose -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/doencas-hereditarias/amiloidose-sistemica-gene-fga -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/doencas-hereditarias/amiloidose-tipo-finlandes-gene-gsn -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/doencas-hereditarias/amiloidose-transretina-familial -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/doencas-hereditarias/amiloidose-visceral-gene-apoa1 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/doencas-hereditarias/anemia-fanconi-gene-fanca -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/doencas-hereditarias/aneurisma-disseccao-aortica-familiar-gene-acta2 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/pt/resultados/doencas-hereditarias/aneurisma-disseccao-aortica-familiar-gene-myh11 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+

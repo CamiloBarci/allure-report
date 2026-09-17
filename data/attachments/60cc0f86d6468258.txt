@@ -1,0 +1,5 @@
+
+[SITEMAP AVISO] Se detectaron 2 enlaces con error en https://www.tellmegen.com/fr_sitemap.xml:
+https://www.tellmegen.com/fr/resultats/traits-personnels/nombre-de-monocytes -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/traits-personnels/statut-secreteur-antigenes-abh-gene-fut2 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+

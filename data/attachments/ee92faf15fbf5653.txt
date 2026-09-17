@@ -1,0 +1,12 @@
+Se detectaron 11 enlaces con error en https://www.tellmegen.com/es_sitemap.xml:
+https://www.tellmegen.com/en-que-consiste-prueba-adn -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/quienes-somos -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/aciduria-metilmalonica-homocistinuria-tipo-cbld -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/aciduria-metilmalonica-tipo-cblb -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/agenesia-cuerpo-calloso-neuropatia-periferica-accpn -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/albinismo-oculocutaneo-gen-slc45a2 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/albinismo-oculocutaneo-gen-tyrp1 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/albinismo-oculocutaneo-tipo-1-tirosinasa-negativo -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/albinismo-oculocutaneo-tipo-2-tirosinasa-positivo -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/alfa-manosidosis -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/amiloidosis-sistemica-gen-fga -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)

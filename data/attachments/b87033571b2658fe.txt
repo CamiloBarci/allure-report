@@ -1,0 +1,17 @@
+
+[SITEMAP AVISO] Se detectaron 14 enlaces con error en https://www.tellmegen.com/fi_sitemap.xml:
+https://www.tellmegen.com/fi/ -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fi/dna-testin-ultra -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fi/geneettinen-alttiusriski -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fi/geneettinen-tutkimus -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fi/tellmegen-konsultaatio -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fi/tulokset -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fi/tulokset/farmakologinen-yhteensopivuus -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fi/tulokset/farmakologinen-yhteensopivuus/abakaviiri-haittavaikutukset -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fi/tulokset/farmakologinen-yhteensopivuus/amifampridiini-annostus -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fi/tulokset/farmakologinen-yhteensopivuus/amitriptyliini-annostus -> TooManyRedirects: Exceeded 30 redirects.
+https://www.tellmegen.com/fi/tulokset/farmakologinen-yhteensopivuus/aripipratsoli-annostus -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fi/tulokset/farmakologinen-yhteensopivuus/asenokumaroli-fenprokumoni-haittavaikutukset -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fi/tulokset/farmakologinen-yhteensopivuus/atatsanaviiri-haittavaikutukset -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fi/tulokset/farmakologinen-yhteensopivuus/risperidoni-annostus -> TooManyRedirects: Exceeded 30 redirects.
+
