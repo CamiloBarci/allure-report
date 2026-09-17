@@ -1,0 +1,5 @@
+
+[SITEMAP AVISO] Se detectaron 2 enlaces con error en https://www.tellmegen.com/de_sitemap.xml:
+https://www.tellmegen.com/de/testergebnisse/monogene-krankheiten/rhizomelische-chondrodysplasie-punctata-typ-3 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/de/testergebnisse/monogene-krankheiten/sjoegren-larsson-syndrom -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+

@@ -1,0 +1,7 @@
+
+[SITEMAP AVISO] Se detectaron 4 enlaces con error en https://www.kokogenetics.com/fi_sitemap.xml:
+https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-ominaisuudet/kiharaturkki-geeni-liph-ural-rex -> 500
+https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-ominaisuudet/pitkaturkki-geeni-fgf5-maine-coon-ja-ragdoll -> 500
+https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-sairaudet/chediak-higashi-oireyhtyma -> 500
+https://www.kokogenetics.com/fi/tulokset/kissojen-geneettiset-sairaudet/spinaali-lihasatrofia -> 500
+

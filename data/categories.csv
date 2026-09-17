@@ -1,2 +1,4 @@
 "Category","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
-"Errores de Asserts","1","0","0","0","0"
+"Errores de Asserts","2","0","0","0","0"
+"Otros errores","0","2","0","0","0"
+"Timeouts","0","1","0","0","0"
