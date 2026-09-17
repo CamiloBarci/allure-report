@@ -1,0 +1,3 @@
+Kit KGEUZAAAAA49 preparado (owner_id = NULL).
+No llegó el mail dentro del tiempo
+[AVISO] Mail de activación demorado en mail.tm. Registro Koko confirmado por UI.

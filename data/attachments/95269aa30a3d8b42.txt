@@ -1,0 +1,20 @@
+
+[SITEMAP AVISO] Se detectaron 17 enlaces con error en https://www.tellmegen.com/es_sitemap.xml:
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/aciduria-metilmalonica-homocistinuria-tipo-cblf -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/albinismo-oculocutaneo-tipo-1-tirosinasa-negativo -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/albinismo-oculocutaneo-tipo-2-tirosinasa-positivo -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/amiloidosis-sistemica-gen-fga -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/enfermedades-hereditarias/amiloidosis-transtirretina-familiar -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/rasgos-personalidad-genetica/volumen-bazo -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/rasgos-personalidad-genetica/zurdera-lateralidad-izquierda -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/test-adn-salud/accidente-cerebrovascular-isquemico -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/test-adn-salud/aneurisma-aorta-abdominal -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/test-adn-salud/aneurisma-intracraneal -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/test-adn-salud/ansiedad -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/test-adn-salud/cancer-cavidad-oral-orofaringe -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/test-adn-salud/cancer-colorrectal -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/test-adn-salud/cancer-no-medular-tiroides -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/test-adn-salud/carcinoma-basocelular -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/test-adn-salud/endometriosis -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/test-adn-salud/enfermedad-crohn -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+

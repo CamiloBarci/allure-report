@@ -1,0 +1,2 @@
+Se detectaron 1 enlaces con error en https://www.tellmegen.com/en_sitemap.xml:
+https://www.tellmegen.com/en/results/dna-wellness-test/diastolic-blood-pressure-levels -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)

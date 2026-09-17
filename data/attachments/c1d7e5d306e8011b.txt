@@ -1,0 +1,10 @@
+
+[SITEMAP AVISO] Se detectaron 7 enlaces con error en https://www.tellmegen.com/fr_sitemap.xml:
+https://www.tellmegen.com/fr/resultats/maladies-hereditaires/neoplasie-endocrine-multiple-de-type-1 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/pharmacologie/contraceptifs-hormonaux-effets-indesirables -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/pharmacologie/daunorubicine-doxorubicine-effets-indesirables -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/pharmacologie/desipramine-dosage -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/pharmacologie/docetaxel-effets-indesirables -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/pharmacologie/fluindione-effets-indesirables -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/fr/resultats/test-genetique-maladie/cholestase-intrahepatique-grossesse -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+

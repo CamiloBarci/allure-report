@@ -1,0 +1,22 @@
+
+[SITEMAP AVISO] Se detectaron 19 enlaces con error en https://www.tellmegen.com/it_sitemap.xml:
+https://www.tellmegen.com/it/ -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/caricare-raw-data-genetici -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/farmacologia/amifampridina-dosaggio -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/farmacologia/amitriptilina-dosaggio -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/farmacologia/anestetici-inalatori-succinilcolina-reazioni-avverse -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/farmacologia/atazanavir-reazioni-avverse -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/farmacologia/brexpiprazolo-dosaggio -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/farmacologia/brivaracetam-dosaggio -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/tratti-personali/conteggio-globuli-bianchi -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/tratti-personali/conteggio-linfociti -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/tratti-personali/conteggio-monociti -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/tratti-personali/conteggio-neutrofili -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/tratti-personali/dipendenza-nicotina-consumo-prolungato -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/tratti-personali/eruzione-denti-permanenti -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/tratti-personali/frequenza-cardiaca-riposo -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/tratti-personali/invecchiamento-facciale -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/tratti-personali/isteresi-corneale -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/tratti-personali/livelli-aspartato-aminotransferasi -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/tratti-personali/lunghezza-telomeri -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+
