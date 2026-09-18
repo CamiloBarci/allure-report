@@ -1,0 +1,5 @@
+Kit HJEEDCBA2447 preparado (owner_id = NULL).
+Mail recibido: Activar cuenta
+Mail recibido: Activar cuenta
+Activando cuenta con: https://app.v1.tellmegen.com/activate/ob0df8c67mmem2jmakp8fp2qh0
+No llegó el mail dentro del tiempo
