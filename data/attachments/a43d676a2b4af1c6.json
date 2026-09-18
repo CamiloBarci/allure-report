@@ -1,0 +1,146 @@
+{
+  "test": "tests/test_grupo1_compras.py::test_de_mediosdepagotmg",
+  "phase": "call",
+  "session_id": "4f98dbfba70f6f8d1e67d422d118caed",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "normal",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://shop.tellmegen.com/es/checkout",
+  "browser_log": [
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1789711440763
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1789711440765
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1789711440765
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1789711440765
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1789711440765
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1789711440765
+    },
+    {
+      "level": "SEVERE",
+      "message": "security - Framing 'https://shop.app/' violates the following Content Security Policy directive: \"frame-ancestors 'self' https://shop.app https://admin.shopify.com\". The request has been blocked.\n",
+      "source": "security",
+      "timestamp": 1789711441919
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.tellmegen.com/apps/buckscc/sdk.min.js - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789711441919
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.tellmegen.com/ - Refused to execute script from 'https://shop.tellmegen.com/apps/buckscc/sdk.min.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled.",
+      "source": "security",
+      "timestamp": 1789711441919
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.tellmegen.com/web-pixels@0a3c9e70wd8b01bb2p898e1257m7e92acc4/app/web-pixel-3166208340@96420dbe9ea96c426a1b7f364f977719~2/pixel.modern.js - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789711442119
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.tellmegen.com/ - Refused to execute script from 'https://shop.tellmegen.com/web-pixels@0a3c9e70wd8b01bb2p898e1257m7e92acc4/app/web-pixel-3166208340@96420dbe9ea96c426a1b7f364f977719~2/pixel.modern.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled.",
+      "source": "security",
+      "timestamp": 1789711442120
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.tellmegen.com/web-pixels@0a3c9e70wd8b01bb2p898e1257m7e92acc4/app/web-pixel-3155394900@a3321ca85cf5aaf6b57585fcd8d67b3a~2/pixel.modern.js - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789711442124
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.tellmegen.com/ - Refused to execute script from 'https://shop.tellmegen.com/web-pixels@0a3c9e70wd8b01bb2p898e1257m7e92acc4/app/web-pixel-3155394900@a3321ca85cf5aaf6b57585fcd8d67b3a~2/pixel.modern.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled.",
+      "source": "security",
+      "timestamp": 1789711442124
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.tellmegen.com/shopify_pay/accelerated_checkout - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789711442366
+    },
+    {
+      "level": "INFO",
+      "message": "https://cdn.shopify.com/proxy/d0f4a58b2c53ba41c0f3c58e3483550f56621e0728a365a710d8492bdd29fe11/d1639lhkj5l89m.cloudfront.net/js/storefront/uppromote.js?shop=1weuy0-0w.myshopify.com&sp-cache-control=cHVibGljLCBtYXgtYWdlPTkwMA 0:10795 \"%c ► UpPromote Affiliate Marketing [Application] - Running...\" \"background-color: #092C4C; color: #fff; padding: 5px;\"",
+      "source": "console-api",
+      "timestamp": 1789711442485
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.tellmegen.com/.well-known/shopify/fec/produce - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789711443763
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.tellmegen.com/cart/add - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789711444281
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.tellmegen.com/cdn/shop/t/2/assets/product-form.js?v=122217986302340716931759313465 0:2541 SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+      "source": "console-api",
+      "timestamp": 1789711444282
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.tellmegen.com/es/checkout - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789711479336
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.tellmegen.com/es/checkout - No available adapters.",
+      "source": "rendering",
+      "timestamp": 1789711479541
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.tellmegen.com/favicon.ico - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1789711479570
+    }
+  ]
+}
