@@ -1,0 +1,296 @@
+{
+  "test": "tests/test_grupo4_precios.py::test_precios_koko[es-https://www.kokogenetics.com/-https://shop.kokogenetics.com/es/]",
+  "phase": "call",
+  "session_id": "077f500546aa80bc59281e4b01844742",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "normal",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://www.kokogenetics.com/en",
+  "browser_log": [
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/css/3a1f28a.css - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008145565
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/css/4e30cb5.css - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008145567
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/8e3941c.js - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008145571
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/090f50f.js - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008145576
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/d3f95cd.js - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008145588
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/fbd2dba.js - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008145588
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/img/tmglogo.72dd7aa.svg - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008145590
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/e73c77f.js - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008145591
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/73c835e.js - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008145591
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 7:319190 \"[Termly] Using standard GCM opt-in defaults\"",
+      "source": "console-api",
+      "timestamp": 1790008145846
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:68275 \"[Termly] AutoBlocker is enabled for this website\"",
+      "source": "console-api",
+      "timestamp": 1790008145846
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:68341 \"[Termly] Installing AutoBlocker overrides\"",
+      "source": "console-api",
+      "timestamp": 1790008145846
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/img/hero.1be01d5.webp - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008145846
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/css/3e9e303.css - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008145846
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/css/9e9d30b.css - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008145846
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/css/b294b60.css - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008145846
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/css/628c4b6.css - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008145846
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/css/62f11d5.css - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008145846
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/1ce6f5f.js - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008145846
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/2daa2fd.js - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008145847
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/a0dae58.js - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008145847
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/a875db3.js - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008145848
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/css/485c63c.css - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008145856
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/css/944d428.css - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008145880
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/img/hero1.3aaab31.webp - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008145884
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/css/ce6ec65.css - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008145889
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/4e0d1c9.js - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008145984
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/dcbdeb9.js - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008145984
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/a42712c.js - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008145984
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:13971 \"[Termly] Region %o has consent_mode set to %o\" \"virginia\" \"opt_in\"",
+      "source": "console-api",
+      "timestamp": 1790008146010
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/img/hero.8c8ff54.webp - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008146085
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/img/subscription.3ee9c72.webp - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008146086
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 7:238524 \"[Termly] No GVL found for this website. TCFProvider is providing noop functions.\"",
+      "source": "console-api",
+      "timestamp": 1790008146090
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/img/vivalogo.0f8c132.svg - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008146103
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/manifest.42e091b5.json - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008146103
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/en - Manifest fetch from https://www.kokogenetics.com/_nuxt/manifest.42e091b5.json failed, code 429",
+      "source": "other",
+      "timestamp": 1790008146104
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:64120 \"[Termly] A script from %o %cmight%c not be categorized correctly because we could not tell which script added it to the page. %cIf your application is behaving properly, you may safely ignore this message%c. Otherwise, you might need to set custom domain rules in the dashboard. See %s for help.\\n\\nScript URL: %o\" \"www.googletagmanager.com\" \"font-style: italic\" \"font-style: normal\" \"font-weight: bold\" \"font-weight: normal\" \"https://support.termly.io/hc/en-us/articles/32848083153169-How-to-use-Domain-Rules-to-change-Auto-Blocker-s-blocking-behavior\" https://www.googletagmanager.com/gtag/js?id=G-W6VLP5DTFQ&cx=c&gtm=4e69h0",
+      "source": "console-api",
+      "timestamp": 1790008146168
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/img/envelop-starter-dog.1ad0566.webp - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008146189
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/img/envelop-advanced-dog.c86b79a.webp - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008146402
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147 177:66236 Uncaught Error: Termly resource blocker has already been loaded on this page. Check your markup for duplicate <script> tags including https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147",
+      "source": "javascript",
+      "timestamp": 1790008146549
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/icons/icon_64x64.f7131e.png - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008146758
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/favicon.ico - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008147312
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/_nuxt/manifest.42e091b5.json - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008147315
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/en - Manifest fetch from https://www.kokogenetics.com/_nuxt/manifest.42e091b5.json failed, code 429",
+      "source": "other",
+      "timestamp": 1790008147315
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:64120 \"[Termly] A script from %o %cmight%c not be categorized correctly because we could not tell which script added it to the page. %cIf your application is behaving properly, you may safely ignore this message%c. Otherwise, you might need to set custom domain rules in the dashboard. See %s for help.\\n\\nScript URL: %o\" \"genelinks-a6ff5d87434c6b617256548.freshchat.com\" \"font-style: italic\" \"font-style: normal\" \"font-weight: bold\" \"font-weight: normal\" \"https://support.termly.io/hc/en-us/articles/32848083153169-How-to-use-Domain-Rules-to-change-Auto-Blocker-s-blocking-behavior\" \"https://genelinks-a6ff5d87434c6b617256548.freshchat.com/widget/config_iframe.html?host=https://genelinks-a6ff5d87434c6b617256548.freshchat.com&token=8c86a232-727e-407b-b174-de891b2ba350&origin=https://www.kokogenetics.com\"",
+      "source": "console-api",
+      "timestamp": 1790008147618
+    },
+    {
+      "level": "WARNING",
+      "message": "https://connect.facebook.net/en_US/fbevents.js 203:527 \"[Meta Pixel] - Duplicate Pixel ID: 6595989673786201.\"",
+      "source": "console-api",
+      "timestamp": 1790008147930
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "test": "tests/test_grupo4_precios.py::test_precios_tmg[ru-https://www.tellmegen.com/ru-https://shop.tellmegen.com/ru/]",
+  "phase": "call",
+  "session_id": "c2ed4bca0be77742ac46e5e36c34ab63",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "normal",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://www.tellmegen.com/ru",
+  "browser_log": [
+    {
+      "level": "SEVERE",
+      "message": "https://www.tellmegen.com/ru - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008297988
+    }
+  ]
+}

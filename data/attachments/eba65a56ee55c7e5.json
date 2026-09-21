@@ -1,0 +1,236 @@
+{
+  "test": "tests/test_grupo1_compras.py::test_de_mediosdepagotmg",
+  "phase": "call",
+  "session_id": "a9ffb31203ba5313c3fcdc5e9a9b8a65",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "normal",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://shop.tellmegen.com/es/checkout",
+  "browser_log": [
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1790008254059
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1790008254059
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1790008254060
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1790008254060
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1790008254060
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1790008254064
+    },
+    {
+      "level": "SEVERE",
+      "message": "security - Framing 'https://shop.app/' violates the following Content Security Policy directive: \"frame-ancestors 'self' https://shop.app https://admin.shopify.com\". The request has been blocked.\n",
+      "source": "security",
+      "timestamp": 1790008254898
+    },
+    {
+      "level": "INFO",
+      "message": "https://cdn.shopify.com/extensions/019dbe41-333e-7edd-a4ce-2128c404ca9a/bucks-currency-converter-29/assets/widgetLoader.js 14:10 \"Script loaded!\"",
+      "source": "console-api",
+      "timestamp": 1790008255763
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-3161325908@36f244aeba196ca7e2f6b8a611f4e21b.js 0 %c [↑] UpPromote WebPixel background-color: #ff4e41; color: #fff; padding: 2px 15px 2px 0",
+      "source": "worker",
+      "timestamp": 1790008257061
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-3161325908@36f244aeba196ca7e2f6b8a611f4e21b.js 0 Running...",
+      "source": "worker",
+      "timestamp": 1790008257063
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-3161325908@36f244aeba196ca7e2f6b8a611f4e21b.js 0 console.groupEnd",
+      "source": "worker",
+      "timestamp": 1790008257064
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-5113020756@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] initialized [object Object]",
+      "source": "worker",
+      "timestamp": 1790008257070
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-5113020756@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] event → page_viewed [object Object]",
+      "source": "worker",
+      "timestamp": 1790008257546
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1790008260684
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1790008260687
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1790008260687
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1790008260692
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1790008260692
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1790008260692
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-5113020756@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] initialized [object Object]",
+      "source": "worker",
+      "timestamp": 1790008260763
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-3161325908@36f244aeba196ca7e2f6b8a611f4e21b.js 0 %c [↑] UpPromote WebPixel background-color: #ff4e41; color: #fff; padding: 2px 15px 2px 0",
+      "source": "worker",
+      "timestamp": 1790008260979
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-3161325908@36f244aeba196ca7e2f6b8a611f4e21b.js 0 Running...",
+      "source": "worker",
+      "timestamp": 1790008260980
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-3161325908@36f244aeba196ca7e2f6b8a611f4e21b.js 0 console.groupEnd",
+      "source": "worker",
+      "timestamp": 1790008260980
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-5113020756@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] event → page_viewed [object Object]",
+      "source": "worker",
+      "timestamp": 1790008261178
+    },
+    {
+      "level": "INFO",
+      "message": "https://cdn.shopify.com/extensions/019dbe41-333e-7edd-a4ce-2128c404ca9a/bucks-currency-converter-29/assets/widgetLoader.js 14:10 \"Script loaded!\"",
+      "source": "console-api",
+      "timestamp": 1790008261751
+    },
+    {
+      "level": "INFO",
+      "message": "https://cdn.shopify.com/proxy/d0f4a58b2c53ba41c0f3c58e3483550f56621e0728a365a710d8492bdd29fe11/d1639lhkj5l89m.cloudfront.net/js/storefront/uppromote.js?shop=1weuy0-0w.myshopify.com&sp-cache-control=cHVibGljLCBtYXgtYWdlPTkwMA 0:10795 \"%c ► UpPromote Affiliate Marketing [Application] - Running...\" \"background-color: #092C4C; color: #fff; padding: 5px;\"",
+      "source": "console-api",
+      "timestamp": 1790008262027
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/es-us - Clear-Site-Data header on 'https://shop.tellmegen.com/es-us/cart/add': Cleared data types: \"prefetchCache\", \"prerenderCache\".",
+      "source": "other",
+      "timestamp": 1790008264505
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.tellmegen.com/es-us/cart?section_id=main-cart-items - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008264505
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.tellmegen.com/cdn/shop/t/2/assets/cart.js?v=48194063533023283081759313464 0:2818 TypeError: Cannot read properties of null (reading 'innerHTML')\n    at https://shop.tellmegen.com/cdn/shop/t/2/assets/cart.js?v=48194063533023283081759313464:1:2789",
+      "source": "console-api",
+      "timestamp": 1790008264505
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-5113020756@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] event → items_added [object Object]",
+      "source": "worker",
+      "timestamp": 1790008264505
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.tellmegen.com/es-us/cart - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008265525
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.tellmegen.com/es-us/cart - No available adapters.",
+      "source": "rendering",
+      "timestamp": 1790008265864
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.tellmegen.com/favicon.ico - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008267052
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.tellmegen.com/es/checkout - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008273726
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.tellmegen.com/es/checkout - No available adapters.",
+      "source": "rendering",
+      "timestamp": 1790008273921
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.tellmegen.com/favicon.ico - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008273972
+    }
+  ]
+}

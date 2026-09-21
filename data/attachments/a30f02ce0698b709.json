@@ -1,0 +1,152 @@
+{
+  "test": "tests/test_grupo1_compras.py::test_EliminarItemdeCarritoTMG",
+  "phase": "call",
+  "session_id": "24c22c74e8974f4131d6475567369c2d",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "normal",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://shop.tellmegen.com/es-us",
+  "browser_log": [
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1790008135189
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1790008135189
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1790008135190
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1790008135190
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1790008135190
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1790008135191
+    },
+    {
+      "level": "SEVERE",
+      "message": "security - Framing 'https://shop.app/' violates the following Content Security Policy directive: \"frame-ancestors 'self' https://shop.app https://admin.shopify.com\". The request has been blocked.\n",
+      "source": "security",
+      "timestamp": 1790008135936
+    },
+    {
+      "level": "INFO",
+      "message": "https://cdn.shopify.com/extensions/019dbe41-333e-7edd-a4ce-2128c404ca9a/bucks-currency-converter-29/assets/widgetLoader.js 14:10 \"Script loaded!\"",
+      "source": "console-api",
+      "timestamp": 1790008137071
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-5113020756@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] initialized [object Object]",
+      "source": "worker",
+      "timestamp": 1790008137636
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-3161325908@36f244aeba196ca7e2f6b8a611f4e21b.js 0 %c [↑] UpPromote WebPixel background-color: #ff4e41; color: #fff; padding: 2px 15px 2px 0",
+      "source": "worker",
+      "timestamp": 1790008137645
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-3161325908@36f244aeba196ca7e2f6b8a611f4e21b.js 0 Running...",
+      "source": "worker",
+      "timestamp": 1790008137647
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-3161325908@36f244aeba196ca7e2f6b8a611f4e21b.js 0 console.groupEnd",
+      "source": "worker",
+      "timestamp": 1790008137647
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-5113020756@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] event → page_viewed [object Object]",
+      "source": "worker",
+      "timestamp": 1790008137863
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.tellmegen.com/es-us - Failed to load resource: the server responded with a status of 503 ()",
+      "source": "network",
+      "timestamp": 1790008138851
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.tellmegen.com/favicon.ico - Failed to load resource: the server responded with a status of 404 ()",
+      "source": "network",
+      "timestamp": 1790008138967
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.tellmegen.com/es-us - The resource https://shop.tellmegen.com/cdn/shop/t/2/assets/swiper-bundle.min.css?v=149615574624520220531759313466 (as=style) was preloaded using link preload in Early Hints but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value, a correct `crossorigin` value and it is preloaded intentionally.",
+      "source": "javascript",
+      "timestamp": 1790008142211
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.tellmegen.com/es-us - The resource https://cdn.shopify.com/extensions/01a0a067-6458-7bc2-a6f4-2dc335f5e567/ez-product-image-translate-405/assets/algo_translation_3.js?v=shop.tellmegen.com (as=script) was preloaded using link preload in Early Hints but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value, a correct `crossorigin` value and it is preloaded intentionally.",
+      "source": "javascript",
+      "timestamp": 1790008142212
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.tellmegen.com/es-us - The resource https://shop.tellmegen.com/cdn/shop/t/2/assets/base.css?v=1971087660416147301760347605 (as=style) was preloaded using link preload in Early Hints but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value, a correct `crossorigin` value and it is preloaded intentionally.",
+      "source": "javascript",
+      "timestamp": 1790008142212
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.tellmegen.com/es-us - The resource https://eu.fw-cdn.com/12906606/867866.js (as=script) was preloaded using link preload in Early Hints but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value, a correct `crossorigin` value and it is preloaded intentionally.",
+      "source": "javascript",
+      "timestamp": 1790008142212
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.tellmegen.com/es-us - The resource https://shop.tellmegen.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css (as=style crossorigin=anonymous) was preloaded using link preload in Early Hints but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value, a correct `crossorigin` value and it is preloaded intentionally.",
+      "source": "javascript",
+      "timestamp": 1790008142212
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.tellmegen.com/es-us - The resource https://shop.tellmegen.com/cdn/shop/t/2/assets/section-reviews.css?v=72226543856494302981759313466 (as=style) was preloaded using link preload in Early Hints but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value, a correct `crossorigin` value and it is preloaded intentionally.",
+      "source": "javascript",
+      "timestamp": 1790008142212
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.tellmegen.com/es-us - The resource https://shop.tellmegen.com/cdn/shop/t/2/assets/odometer-theme-default.css?v=61708369350246774011759313465 (as=style) was preloaded using link preload in Early Hints but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value, a correct `crossorigin` value and it is preloaded intentionally.",
+      "source": "javascript",
+      "timestamp": 1790008142212
+    }
+  ]
+}

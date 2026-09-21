@@ -1,0 +1,32 @@
+{
+  "test": "tests/test_grupo2_funcionales.py::test_de_autodeteccionidiomatmg[pl-https://www.tellmegen.com/pl]",
+  "phase": "call",
+  "session_id": "ae83e0685fe889864fbd34608412a76c",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "normal",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://www.tellmegen.com/pl",
+  "browser_log": [
+    {
+      "level": "SEVERE",
+      "message": "https://www.tellmegen.com/pl - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008320444
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.tellmegen.com/favicon.ico - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790008321137
+    }
+  ]
+}

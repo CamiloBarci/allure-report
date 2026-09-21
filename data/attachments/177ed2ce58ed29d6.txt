@@ -1,0 +1,5 @@
+Kit Koko KGEUZAAAAA49 desvinculado a owner_id = NULL en mypetgen.
+Mail recibido: Activar cuenta
+Mail recibido: Activar cuenta
+No se encontró el link de activación en el correo.
+Cuenta Koko prueba47a52adacff1@uberip.com activada quirúrgicamente en DB (1 fila).
