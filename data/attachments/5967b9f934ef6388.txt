@@ -1,0 +1,10 @@
+
+[SITEMAP AVISO] Se detectaron 7 enlaces con error en https://www.kokogenetics.com/en_sitemap.xml:
+https://www.kokogenetics.com/en/results/cat-health-test/chediak-higashi-syndrome -> 500
+https://www.kokogenetics.com/en/results/cat-health-test/spinal-muscular-atrophy -> 500
+https://www.kokogenetics.com/en/results/cat-traits-test/curly-coat-gene-liph-ural-rex -> 500
+https://www.kokogenetics.com/en/results/cat-traits-test/long-hair-gene-fgf5-maine-coon-and-ragdoll -> 500
+https://www.kokogenetics.com/en/results/pet-health-test/spinal-dysraphism -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/en/results/pet-health-test/spongy-degeneration-cerebellar-ataxia -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/en/results/pet-health-test/thrombopathia-basset-hound -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+

@@ -1,0 +1,8 @@
+
+[SITEMAP AVISO] Se detectaron 5 enlaces con error en https://www.kokogenetics.com/nl_sitemap.xml:
+https://www.kokogenetics.com/nl/resultaten/dna-test-hond-ras/belgische-herder -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/spinale-musculaire-atrofie -> 500
+https://www.kokogenetics.com/nl/resultaten/erfelijke-ziektes-katten/syndroom-van-chediak-higashi -> 500
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/krullend-vacht-gen-liph-ural-rex -> 500
+https://www.kokogenetics.com/nl/resultaten/genetische-eigenschappen-katten/langhaar-gen-fgf5-maine-coon-en-ragdoll -> 500
+
