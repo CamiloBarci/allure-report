@@ -1,0 +1,5 @@
+Se detectaron 4 enlaces con error en https://www.kokogenetics.com/pt_sitemap.xml:
+https://www.kokogenetics.com/pt/resultados/doencas-geneticas-gatos/atrofia-muscular-espinhal -> 500
+https://www.kokogenetics.com/pt/resultados/doencas-geneticas-gatos/sindrome-de-chediak-higashi -> 500
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/pelo-cacheado-gen-liph-ural-rex -> 500
+https://www.kokogenetics.com/pt/resultados/tracos-geneticos-gatos/pelo-longo-gen-fgf5-maine-coon-e-ragdoll -> 500

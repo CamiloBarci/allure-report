@@ -1,0 +1,10 @@
+
+[SITEMAP AVISO] Se detectaron 7 enlaces con error en https://www.kokogenetics.com/es_sitemap.xml:
+https://www.kokogenetics.com/resultados/enfermedades-geneticas-gatos/atrofia-muscular-espinal -> 500
+https://www.kokogenetics.com/resultados/enfermedades-geneticas-gatos/sindrome-de-chediak-higashi -> 500
+https://www.kokogenetics.com/resultados/rasgos-geneticos-gatos/pelaje-rizado-gen-liph-ural-rex -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/resultados/rasgos-geneticos-gatos/pelo-largo-gen-fgf5-maine-coon-y-ragdoll -> 500
+https://www.kokogenetics.com/resultados/rasgos-geneticos-gatos/pies-blancos-gen-kit-birmano -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/resultados/rasgos-geneticos-gatos/polidactilia-variante-hw -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/resultados/test-adn-raza-perros/goldendoodle -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+
