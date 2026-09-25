@@ -1,0 +1,152 @@
+{
+  "test": "tests/test_grupo1_compras.py::test_de_mediosdepagovivabioma",
+  "phase": "call",
+  "session_id": "14fcb4e63d57188dc08f17bf5e517290",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "normal",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://shop.vivabioma.com/checkouts/cn/hWNHFIJRucyim9ex3G03jxNy/en-us?_r=AQABpJnhxZ47oOW1RN_wpZwkUtmpRvo3jmAYmOxzPq9B5bU&auto_redirect=false&edge_redirect=true&skip_shop_pay=true",
+  "browser_log": [
+    {
+      "level": "SEVERE",
+      "message": "security - Framing 'https://shop.app/' violates the following Content Security Policy directive: \"frame-ancestors 'self' https://shop.app https://admin.shopify.com\". The request has been blocked.\n",
+      "source": "security",
+      "timestamp": 1790353534560
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.vivabioma.com/web-pixels/strict/app/web-pixel-5549228362@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] initialized [object Object]",
+      "source": "worker",
+      "timestamp": 1790353535113
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.vivabioma.com/web-pixels/strict/app/web-pixel-5505352010@36f244aeba196ca7e2f6b8a611f4e21b.js 0 %c [↑] UpPromote WebPixel background-color: #ff4e41; color: #fff; padding: 2px 15px 2px 0",
+      "source": "worker",
+      "timestamp": 1790353535118
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.vivabioma.com/web-pixels/strict/app/web-pixel-5505352010@36f244aeba196ca7e2f6b8a611f4e21b.js 0 Running...",
+      "source": "worker",
+      "timestamp": 1790353535118
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.vivabioma.com/web-pixels/strict/app/web-pixel-5505352010@36f244aeba196ca7e2f6b8a611f4e21b.js 0 console.groupEnd",
+      "source": "worker",
+      "timestamp": 1790353535118
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.vivabioma.com/web-pixels/strict/app/web-pixel-5549228362@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] event → page_viewed [object Object]",
+      "source": "worker",
+      "timestamp": 1790353535232
+    },
+    {
+      "level": "INFO",
+      "message": "https://cdn.shopify.com/proxy/cdb538f0cb3e53472214efe7d453908d00597003a6b0fee6aec97095ce58865a/d1639lhkj5l89m.cloudfront.net/js/storefront/uppromote.js?shop=vs7ivz-rx.myshopify.com&sp-cache-control=cHVibGljLCBtYXgtYWdlPTkwMA 0:10795 \"%c ► UpPromote Affiliate Marketing [Application] - Running...\" \"background-color: #092C4C; color: #fff; padding: 5px;\"",
+      "source": "console-api",
+      "timestamp": 1790353536008
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.vivabioma.com/en-us - Clear-Site-Data header on 'https://shop.vivabioma.com/en-us/cart/add': Cleared data types: \"prefetchCache\", \"prerenderCache\".",
+      "source": "other",
+      "timestamp": 1790353538270
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.vivabioma.com/web-pixels/strict/app/web-pixel-5549228362@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] event → items_added [object Object]",
+      "source": "worker",
+      "timestamp": 1790353538270
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.vivabioma.com/en-us - Clear-Site-Data header on 'https://shop.vivabioma.com/en-us/cart': Cleared data types: \"prefetchCache\", \"prerenderCache\".",
+      "source": "other",
+      "timestamp": 1790353539379
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.vivabioma.com/private_access_tokens?id=59f821e8a357168294c3d86973c6983b&checkout_type=c1 - Failed to load resource: the server responded with a status of 401 ()",
+      "source": "network",
+      "timestamp": 1790353542964
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.vivabioma.com/web-pixels/strict/app/web-pixel-5505352010@36f244aeba196ca7e2f6b8a611f4e21b.js 0 %c [↑] UpPromote WebPixel background-color: #ff4e41; color: #fff; padding: 2px 15px 2px 0",
+      "source": "worker",
+      "timestamp": 1790353544318
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.vivabioma.com/web-pixels/strict/app/web-pixel-5505352010@36f244aeba196ca7e2f6b8a611f4e21b.js 0 Running...",
+      "source": "worker",
+      "timestamp": 1790353544318
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.vivabioma.com/web-pixels/strict/app/web-pixel-5505352010@36f244aeba196ca7e2f6b8a611f4e21b.js 0 console.groupEnd",
+      "source": "worker",
+      "timestamp": 1790353544318
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.vivabioma.com/web-pixels/strict/app/web-pixel-5549228362@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] initialized [object Object]",
+      "source": "worker",
+      "timestamp": 1790353544321
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.vivabioma.com/checkouts/cn/hWNHFIJRucyim9ex3G03jxNy/en-us?_r=AQABpJnhxZ47oOW1RN_wpZwkUtmpRvo3jmAYmOxzPq9B5bU&auto_redirect=false&edge_redirect=true&skip_shop_pay=true - The resource https://shop.vivabioma.com/cdn/shopifycloud/checkout-web/assets/c1/assets/RuntimeExtension.DWkDBM73.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.",
+      "source": "javascript",
+      "timestamp": 1790353545288
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.vivabioma.com/cdn/shopifycloud/checkout-web/assets/c1/esnext-vendor.B9Da21W6.js 0 An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.",
+      "source": "security",
+      "timestamp": 1790353545467
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.vivabioma.com/cdn/shopifycloud/checkout-web/assets/c1/esnext-vendor.B9Da21W6.js 2:6798 \"[Meta Pixel] - Call to \\\"fbq('set', 'userData', Object);\\\" with parameter \\\"pixel_id\\\" has an invalid value of \\\"'1381235970473159'\\\"\"",
+      "source": "console-api",
+      "timestamp": 1790353545545
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.vivabioma.com/web-pixels/strict/app/web-pixel-5549228362@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] event → page_viewed [object Object]",
+      "source": "worker",
+      "timestamp": 1790353545781
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.vivabioma.com/web-pixels/strict/app/web-pixel-5549228362@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] event → checkout_started [object Object]",
+      "source": "worker",
+      "timestamp": 1790353545784
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.vivabioma.com/checkouts/cn/hWNHFIJRucyim9ex3G03jxNy/en-us?_r=AQABpJnhxZ47oOW1RN_wpZwkUtmpRvo3jmAYmOxzPq9B5bU&auto_redirect=false&edge_redirect=true&skip_shop_pay=true - The resource https://shop.vivabioma.com/cdn/shopifycloud/checkout-web/assets/c1/assets/RuntimeExtension.DWkDBM73.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.",
+      "source": "javascript",
+      "timestamp": 1790353561615
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.vivabioma.com/checkouts/cn/hWNHFIJRucyim9ex3G03jxNy/en-us?_r=AQABpJnhxZ47oOW1RN_wpZwkUtmpRvo3jmAYmOxzPq9B5bU&auto_redirect=false&edge_redirect=true&skip_shop_pay=true - The resource https://shop.vivabioma.com/cdn/shopifycloud/checkout-web/assets/c1/assets/RuntimeExtension.DWkDBM73.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.",
+      "source": "javascript",
+      "timestamp": 1790353582037
+    }
+  ]
+}

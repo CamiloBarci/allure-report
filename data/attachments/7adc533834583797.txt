@@ -1,0 +1,5 @@
+Kit HJEEDCBA2447 preparado (owner_id = NULL).
+No llegó el mail dentro del tiempo
+[AVISO] Mail de activación demorado en mail.tm. Registro confirmado por UI y validado en DB.
+Owner ID en base de datos luego del registro: 224730
+Cuenta TMG pruebaca461f06b395@uberip.com activada quirúrgicamente en DB (1 fila).

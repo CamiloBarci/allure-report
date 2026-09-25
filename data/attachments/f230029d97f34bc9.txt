@@ -1,0 +1,699 @@
+
+[SITEMAP AVISO] Se detectaron 696 enlaces con error en https://www.kokogenetics.com/fr_sitemap.xml:
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/achromatopsie-3-braque-allemand-poil-court -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/acidurie-l-2-hydroxyglutarique -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/amelogenese-imparfaite -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/anomalie-may-hegglin -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/ataxie-cerebelleuse -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/ataxie-cerebelleuse-precoce -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/ataxie-neonatale-bandera -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/ataxie-spino-cerebelleuse-hereditaire -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/ataxie-spinocerebelleuse-apparition-tardive -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/atrophie-progressive-retine-basenji -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/atrophie-progressive-retine-dominante -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/atrophie-progressive-retine-gene-ttc8-golden-retriever -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/atrophie-progressive-retine-golden-retriever -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/atrophie-progressive-retine-papillon-phalene -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/atrophie-progressive-retine-x-type-1 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/atrophie-progressive-retine-x-type-2 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/canine-fucosidosis -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/cecite-nocturne-stationnaire-congenitale -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/ceroide-lipofuscinose-neuronale-1 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/ceroide-lipofuscinose-neuronale-10 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/ceroide-lipofuscinose-neuronale-12-terrier-tibetain -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/ceroide-lipofuscinose-neuronale-4a -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/ceroide-lipofuscinose-neuronale-5 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/chondrodysplasia -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/collapsus-induit-effort -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/cystinurie-type-i-a -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/cystinurie-type-i-a-english-bulldog -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/cystinurie-type-i-a-retriever-labrador -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/deficience-complement-3 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/deficience-facteur-vii -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/deficience-precalicreine -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/deficit-adherence-leucocytaire-iii -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/deficit-adhesion-leucocytaire-canins-clad-type-i -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/deficit-immunitaire-combine-severe-eau-frison -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/deficit-immunitaire-combine-severe-jack-rusell-terrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/deficit-immunitaire-combine-severe-x-basset-hound -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/deficit-immunitaire-combine-severe-x-cardigan-welsh-corgi -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/deficit-phosphofructokinase -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/deficit-pyruvate-kinase-beagle -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/deficit-pyruvate-kinase-retriever-labrador -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/degenerescence-corticale-cerebelleuse -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/degenerescence-corticale-cerebelleuse-neonatale -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/degenerescence-retinienne-precoce -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/dysplasie-batonnets-cones-1 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/dysplasie-batonnets-cones-1a -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/dysplasie-batonnets-cones-3 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/dysplasie-batonnets-cones-4 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/dysplasie-ectodermique-x -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/dysplasie-oculo-squelettique-1-retriever-labrador -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/dysplasie-squelettique-type-2 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/dysraphisme-spinal -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/dystrophie-cones-batonnets-1 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/dystrophie-musculaire-cavalier-king-charles -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/dystrophie-musculaire-golden-retriever -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/dystrophie-neuroaxonale-apparition-foetale -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/encephalopathie-epileptique-neonatale -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/epidermolyses-bulleuses-dystrophiques -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/epilepsie-juvenile-familiale-benigne -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/epilepsie-sursaut -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/fente-palatine -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/gangliosidose-gm1-eau-portugais -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/gangliosidose-gm1-shiba -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/gangliosidose-gm2-spaniel-japones -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/gangliosidose-gm2-toy-poodle -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/glaucome-primaire-angle-ouvert-basset-hound -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/glaucome-primaire-angle-ouvert-beagle -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/glaucome-primaire-angle-ouvert-chien-elan-norvegien-gris -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/glycogenose-type-iiia -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/hemophilie-a-berger-allemand -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/hemophilie-a-bobtail -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/hemophilie-b-gene-f9 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/hemophilie-b-lhasa-apso -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/hemophilie-b-rhodesian-ridgeback -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/hyperkeratose-epidermolytique -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/hyperkeratose-familiale-coussinets -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/hyperoxalurie-primaire -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/hyperthermie-maligne -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/hypertrophie-musculaire-double-musculature -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/hyperuricosurie -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/hypomineralisation-dentaire -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/hypomyelinisation -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/hypothyroidie-congenitale-chien-eau-espagnol -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/ichtyose-golden-retriever -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/keratoconjunctivite-seche-congenitale-dermatose-ichtyosiforme -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/leucodystrophie-cellules-globoides-irish-setter -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/leucodystrophie-cellules-globoides-terriers -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/luxation-primaire-cristallin -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/malabsorption-intestinale-b12-beagle -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/malabsorption-intestinale-b12-border-collie -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/malabsorption-intestinale-b12-komondor -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/maladie-pompe-gene-gaa -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/maladie-surcharge-lysosomale -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/maladie-von-gierke-bichon-maltais -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/maladie-von-willebrand-2 -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/maladie-von-willebrand-2-pointer -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/maladie-von-willebrand-3-kooikerhondje -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/maladie-von-willebrand-3-terrier-ecossais -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/maladie-von-willebrand-type-i -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/mucopolysaccharidose-3a-dachshund -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/mucopolysaccharidose-vii-terrier-bresilien -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/mucopolysaccharidosevii-berger-allemand -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/myelopathie-degenerative -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/myopathie-centronucleaire-2 -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/myopathie-centronucleaire-labrador-retriever -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/myopathie-myotubulaire-x -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/myotonie-congenitale-clcn1 -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/myotonie-congenitale-schnauzer-nain -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/narcolepsie-dachshund -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/narcolepsie-doberman-pinscher -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/narcolepsie-retriever-labrador -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/nephropathie-hereditaire-x -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/osteogenese-imparfaite-beagle -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/osteogenese-imparfaite-dachshund -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/osteopathie-cranio-mandibulaire -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/parakeratose-nasale-retriever-labrador -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/polykystose-renale -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/polyneuropathie-progressive-debut-precoce -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/polyneuropathie-progressive-levrier-anglais -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/rachitisme-dependant-vitamine-d-type-ii -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/retinopathie-multifocale-canine-1 -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/retinopathie-multifocale-canine-2 -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/retinopathie-multifocale-canine-3 -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/syndrome-lundehund -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/syndrome-musladin-lueke -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/syndrome-neutrophiles-pieges -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/syndrome-persistance-canaux-muller -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/syndrome-tremblements-associe-x -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/syndromes-myastheniques-congenitaux -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/thrombasthenie-glanzmann-1-montagne-pyrenees -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/thrombasthenie-glanzmann-1-otterhound -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/thrombocytopenie -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/thrombopathie-basset-hound -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/thrombopathie-eskimo-americain -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-animaux-compagnie/thrombopathie-landseer -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/acrodermatite-enteropathique -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/alpha-mannosidose -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/amaurose-congenitale-leber -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/atrophie-musculaire-spinale -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/atrophie-progressive-de-la-retine-gene-kif3b -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/cardiomyopathie-hypertrophique-gene-mybpc3-maine-coon -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/cardiomyopathie-hypertrophique-gene-mybpc3-ragdoll -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/chondrodysplasie-chats -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/cystinurie-type-b-variante-1 -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/cystinurie-type-b-variante-2 -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/cystinurie-type-b-variante-3 -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/cystinurie-type-ia -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/deficience-en-dihydropyrimidinase -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/deficience-en-facteur-xi -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/deficience-en-facteur-xii-variante-1 -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/deficience-en-facteur-xii-variante-2 -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/deficience-en-pyruvate-kinase -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/degenerescence-tardive-des-photorecepteurs -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/dysgenesie-cerebrale -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/dysplasie-frontonasale -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/dysplasie-squelettique -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/dystrophie-musculaire-dystroglycanopathie -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/gangliosidose-gm1 -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/gangliosidose-gm2-gene-gm2a -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/gangliosidose-gm2-type-2-gene-hexb-burmese -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/gangliosidose-gm2-type-2-gene-hexb-europeen-a-poil-court -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/gangliosidose-gm2-type-2-gene-hexb-japonais -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/gangliosidose-gm2-type-2-gene-hexb-korat -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/glaucome-congenital-primaire -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/hemophilie-b-variante-1 -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/hemophilie-b-variante-2 -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/hyperlipoproteinemie -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/hyperoxalurie-primaire-type-2 -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/hyperplasie-adrenalienne-congenitale -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/hypothyroidie-congenitale-gene-tpo-diverses-races-chats -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/hypotrichose-gene-foxn1 -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/maladie-de-niemann-pick-type-c1 -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/maladie-de-niemann-pick-type-c2 -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/maladie-de-stockage-du-glycogene-iv -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/maladie-polykystique-des-reins-chats -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/malformation-commissurale-du-prosencephale-ventriculomegalie-kystes -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/mucolipidose-ii -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/mucopolysaccharidose-type-i -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/mucopolysaccharidose-type-vi-variante-1 -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/mucopolysaccharidose-type-vii-variante-1 -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/mucopolysaccharidose-type-vii-variante-2 -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/myotonie-congenitale -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/paralysie-periodique-hypokaliemique -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/porphyrie-aigue-intermittente-variante-1 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=10)
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/porphyrie-aigue-intermittente-variante-2 -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/porphyrie-aigue-intermittente-variante-3 -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/porphyrie-aigue-intermittente-variante-4 -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/porphyrie-aigue-intermittente-variante-5 -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/porphyrie-aigue-intermittente-variante-6 -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/porphyrie-erythropoietique-congenitale -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/porphyrie-erythropoietique-congenitale-variante-2 -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/position-des-oreilles-et-osteochondrodysplasie -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/rachitisme-par-deficience-en-vitamine-d-type-ia -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/sensibilite-a-certains-medicaments -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/syndrome-de-chediak-higashi -> 429
+https://www.kokogenetics.com/fr/resultats/maladies-genetiques-chats/syndrome-lymphoproliferatif-autoimmune -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-animaux-compagnie -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chat -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/affenpinscher -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/airedale-terrier -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/akbash -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/akita -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/akita-american -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/alaskan-husky -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/american-foxhound -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/american-hairless-terrier -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/american-pit-bull-terrier -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/american-staffordshire-terrier -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/aussiedoodle -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/australian-labradoodle -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/azawakh -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/barbet -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/barbu-tcheque -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/barzoi -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/basenji -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/basset-alpes -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/basset-artesien-normand -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/basset-fauve-bretagne -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/basset-hound -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/basset-suedois -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/beagle -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/beauceron-bas-rouge -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/belgian-laekenois -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/belgian-malinois -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/belgian-tervuren -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/berger-allemand -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/berger-anatolie -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/berger-anglais -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/berger-asie-centrale -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/berger-australien -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/berger-australien-miniature -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/berger-bergamasque -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/berger-blanc-suisse -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/berger-boheme -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/berger-brie -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/berger-caucase -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/berger-maremme-abruzzes -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/berger-picard -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/berger-russie-meridionale -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/bichon-bolonais -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/bichon-havanais -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/bichon-maltais -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/bichon-poil-frise -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/biewer-yorkshire-terrier -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/bluetick-coonhound -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/boerboel -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/border-collie -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/border-terrier -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/bouledogue-francais -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/bouvier-appenzellois -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/bouvier-australien -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/bouvier-australien-courte-queue -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/bouvier-bernois -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/bouvier-entlebuch -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/bouvier-flandress -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/bouvier-mongol-bankhar -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/boxer -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/boykin-spaniel -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/braque-allemand -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/braque-allemand-poil-court -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/braque-auvergne -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/braque-bourbonnaiss -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/braque-de-ariege -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/braque-francais-type-pyrenees -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/braque-hongrois-poil-court-vizsla -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/braque-italien -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/braque-slovaque-poil-dur -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/braque-weimar -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/broholmer -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/bruno-saint-hubert-francais -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/buhund-norvegien -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/bull-terrier -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/bull-terrier-miniature -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/bulldog-american -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/bulldog-continental -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/bullmastiff -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/cairn-terrier -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/cane-da-pastore-di-oropa -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/cane-di-mannara -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/cane-paratore -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/caniche -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/caniche-miniature -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/caniche-toy -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/cao-fila-sao-miguel -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/cardigan-welsh-corgi-canina -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/carlin -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/carolina-dog -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/catahoula-leopard-dog -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/catalburun -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/cavalier-king-charles-spaniel -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/cavapoo -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chacal-dore -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chasseur-elan-suedois-blanc -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-arret-allemand-poil-dur -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-arret-allemand-poil-raide -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-arret-frison -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-berger-anglais-ancestral -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-berger-belge -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-berger-croate-canina -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-berger-islandais -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-berger-pyrenees-face-rase -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-berger-serra-aires -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-berger-shetland -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-berger-tatras -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-berger-yougoslave-charplanina -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-canaan -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-chanteur-nouvelle-guinee -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-chinois-crete-canina -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-cour-italien -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-courant-estonie -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-courant-finlandais -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-courant-hamilton -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-courant-istrie-poil-ras -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-courant-italien-poil-ras -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-courant-suisse -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-courant-vallee-save -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-de-berger-de-kangal -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-de-berger-patagonien -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-eau-americain -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-eau-espagnol -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-eau-irlandais -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-eau-portugais -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-eau-romagnol -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-elan-norvegien-gris -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-elan-suedois -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-ferme-dano-suedois -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-garenne-canaries -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-garenne-portugais -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-groenland -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-hellenique -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-leonberg -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-loup-saarloos -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-loup-tchecoslovaque -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-loutre -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-mont-saint-bernard -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-montagne-pyrenees -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-noir-feu-chasse-raton-laveur -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-norvegien-macareux -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-ours-carelie -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-oysel-allemand -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-perdrix-drente -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-perou -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-pharaon -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-rhodesie-crete-dorsale -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-rouge-baviere -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-saint-hubert -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-serra-estrela -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-taiwan -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-terre-neuve -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-afghan -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-africain -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-afrique-nord-est -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-afrique-ouest -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-arabe -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-asie-est -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-asie-ouest -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-asie-sud-est -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-chinois -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-costa-rica -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-des-iles-asie-sud-est -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-des-iles-salomon -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-egyptien -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-europe-est -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-europe-occidentale -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-europeen -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-fidjien -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-ghana -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-honduras -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-hong-kong -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-inde -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-japonais-coreen -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-liban -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-liberia -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-melanesien -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-mexique -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-mongolie -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-moyen-orient -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-namibie -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-nepal -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-ouganda -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-polynesie-francaise -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-qatar -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-sud-asiatique -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chien-village-vietnam -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chihuahua -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chinook -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/chow-chow -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/cirneco-etna -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/clumber-spaniel -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/cockapoo -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/cocker-americain -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/cocker-spaniel-anglais -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/colley-a-poil-court -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/collie -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/collie-barbu -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/coton-tulear -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/coyote -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/dalmatien -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/dandie-dinmont-terrier -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/deerhound -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/dingo -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/dobermann-pinscher -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/dogue-allemand -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/dogue-argentin -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/dogue-bordeaux-canina -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/dogue-majorquin -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/dogue-tibet -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/dogue-turc -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/donggyeongi -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/dutch-shepherd-dog -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/elo -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/english-bulldog -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/english-foxhound -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/english-springer-spaniel -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/epagneul-bleu-picardie -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/epagneul-breton -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/epagneul-francais -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/epagneul-japonais -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/epagneul-king-charles -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/epagneul-picard -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/epagneul-pont-audemer -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/epagneul-tibetain -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/esquimau-americain -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/eurasier -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/field-spaniel -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/finnois-laponie -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/fox-terrier-poil-dur -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/fox-terrier-poil-lisse -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/golden-retriever -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/goldendoodle -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/gordon-setter -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/gos-atura-catala -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/grand-anglo-francais -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/grand-basset-griffon-vendeen -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/grand-bouvier-suisse -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/grand-epagneul-munster -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/griffon-bruxellois -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/griffon-nivernais -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/griffon-poil-dur-korthalss -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/harrier -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/hokkaido -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/hovawart -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/huntaway -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/husky-siberie -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/irish-doodle -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/jindo-coreen -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/kai -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/karakachan -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/kelpie-australien -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/kishu -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/komondor -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/kritikos-lagonikos -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/kromfohrlander -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/kuvasz -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/lakeland-terrier -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/lancashire-heeler -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/landseer-type-continental-europeen -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/lapphund-suedois -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/levrette-italie -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/levrier-afghan -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/levrier-anglais -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/levrier-espagnol -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/levrier-hongrois -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/levrier-irlandais -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/levrier-meridional -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/levrier-polonais -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/levrier-whippet -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/lhasa-apso -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/loup-gris -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/lupino-del-gigante -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/lupo-italiano -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/malamute-alaska -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/maltipoo -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/manchester-terrier-toy -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/mastiff -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/matin-espagnol -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/matin-napolitain -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/matin-pyrenees -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/mountain-cur -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/mudi -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/norfolk-terrier -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/norwich-terrier -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/papillon-epagneul-nain-continental -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/pastore-della-sila -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/pastore-fonnese -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/patterdale-terrier -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/pekinois -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/petit-basset-griffon-vendeen -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/petit-bleu-de-gascogne -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/petit-chien-courant-suisse -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/petit-chien-lion -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/petit-chien-russe -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/petit-epagneul-munster -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/phu-quoc-ridgeback -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/pinscher-allemand -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/pinscher-nain -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/podenco-ibiza -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/pointer-anglais -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/pomeranian -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/pomsky -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/portugais-podengo-pequeno -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/presa-canario -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/pudelpointer -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/puli -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/pumi -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/rat-terrier -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/ratier-prague -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/redbone-coonhound -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/retriever-baie-chesapeake -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/retriever-labrador -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/retriever-nouvelle-ecosse -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/retriever-poil-boucle -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/retriever-poil-plat -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/rottweiler -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/russian-hound -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/russian-tsvetnaya-bolonka -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/saluki -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/samoyede -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/sapsaree -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/schapendoes-neerlandais -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/schipperke -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/schnauzer -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/schnauzer-geant -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/schnauzer-nain -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/schnoodles -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/sealyham-terrier -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/setter-anglais -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/setter-irlandais-rouge -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/setter-irlandais-rouge-blanc -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/shanxi-xigou -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/shar-pei -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/sheepadoodle -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/shiba -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/shih-tzu -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/shikoku -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/shiloh-shepherd -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/silken-windhound -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/skye-terrier -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/sloughi -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/spino-degli-iblei -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/spinone -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/spitz -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/spitz-allemand -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/spitz-finlandais -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/spitz-japonais -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/spitz-loup -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/spitz-norrbotten -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/staffordshire-bull-terrier -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/sussex-spaniel -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/tchouvatch-slovaque -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/teckel -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/teddy-roosevelt-terrier -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/terrier-anglais-agrement -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/terrier-australien -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/terrier-australien-poil-soyeux -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/terrier-bedlington -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/terrier-boston -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/terrier-bresilien -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/terrier-chasse-allemand -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/terrier-ecossais -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/terrier-irlandais -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/terrier-irlandais-glen-imaal -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/terrier-irlandais-poil-doux -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/terrier-jack-russell -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/terrier-kerry-blue -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/terrier-manchester -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/terrier-noir-russe -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/terrier-reverend-russell -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/terrier-tcheque -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/terrier-tibetains -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/terrier-yorkshire -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/thai-ridgeback -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/toy-fox-terrier -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/treeing-walker-coonhound -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/vallhund-suedois -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/volpino-italien -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/welsh-corgi-pembroke -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/welsh-springer-spaniel -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/welsh-terrier -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/west-highland-white-terrier -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/xoloitzcuintli -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/yorkipoo -> 429
+https://www.kokogenetics.com/fr/resultats/test-adn-race-chien/zerdava -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/abyssinium -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/americain-a-poil-court -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/american-curl -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/angora-turc -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/bengal -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/bleu-russe -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/bobtail-japonais -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/bombay -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/british-shorthair -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/burmese -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/chartreux -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/chat-asiatique -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/chat-domestique -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/cornish-rex -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/devon-rex -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/khao-manee -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/korat -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/laperm -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/lykoï -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/maine-coon -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/manx -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/mau-egyptien -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/munchkin -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/norvegien-chat-des-forets-norvegiennes -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/ocicat -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/oriental-chat -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/oriental-shorthair -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/persan -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/peterbald -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/ragdoll -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/sacre-de-birmanie -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/scottish-fold -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/selkirk-rex -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/siamois -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/siberien -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/singapura -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/sphynx -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/tennessee-rex-chat -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/toyger -> 429
+https://www.kokogenetics.com/fr/resultats/test-dna-race-chat/turc-de-van -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-animaux-compagnie -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-animaux-compagnie/adaptation-altitude -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-animaux-compagnie/arlequin -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-animaux-compagnie/dilution-couleur -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-animaux-compagnie/masque-sombre-modele-pelage-facial -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-animaux-compagnie/motif-coloration-rouan -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-animaux-compagnie/museau-court -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-animaux-compagnie/noir-dominant -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-animaux-compagnie/noir-recessif -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-animaux-compagnie/oreilles-tombantes -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-animaux-compagnie/pelage-chocolat -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-animaux-compagnie/pelage-fauve -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-animaux-compagnie/pelage-grisonnant -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-animaux-compagnie/pelage-points-feu -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-animaux-compagnie/piebald-fourrure -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-animaux-compagnie/poil-frise -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-animaux-compagnie/poil-long -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-animaux-compagnie/queue-courte -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-animaux-compagnie/rouge-recessif -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-animaux-compagnie/sensibilite-certains-medicaments -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-animaux-compagnie/taille-corporelle -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/albinisme-oculocutane-gen-hps5-donskoy -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/albinisme-oculocutane-type-1-gen-tyr -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/colorpoint-gen-tyr-burmes -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/colorpoint-gen-tyr-burmes-2 -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/colorpoint-gen-tyr-siamois -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/dilution-de-couleur -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/groupe-sanguin-ab-variante-1 -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/groupe-sanguin-ab-variante-2 -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/groupe-sanguin-ab-variante-3 -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/groupe-sanguin-ab-variante-4 -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/hipotrichose-1-gen-hr-lykoi -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/hipotrichose-2-gen-hr-lykoi -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/hipotrichose-3-gen-hr-lykoi -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/hipotrichose-4-gen-hr-lykoi -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/hipotrichose-5-gen-hr-lykoi -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/hipotrichose-6-gen-hr-lykoi -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/hipotrichose-gen-krt71-sphynx -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/modele-de-coloration-charbon-1 -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/modele-de-coloration-charbon-2 -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/modele-ticked-gen-dkk4-abssinien -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/modele-ticked-gen-dkk4-plusieurs-races -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/modele-tigre-blotched-1 -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/modele-tigre-blotched-2 -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/modele-tigre-blotched-3 -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/pieds-blancs-gen-kit-birman -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/poil-ambre-gen-mc1r-chat-bosque-de-norvege -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/poil-boucle-gen-krt71-devon-rex -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/poil-boucle-gen-krt71-selkirk-rex -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/poil-boucle-gen-liph-ural-rex -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/poil-boucle-gen-lpar6-cornish-rex-et-german-rex -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/poil-cannelle -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/poil-chocolat -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/poil-copal-gen-mc1r-kurilian-bobtail -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/poil-dore -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/poil-dore-extreme -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/poil-long-gen-fgf5-chat-bosque-de-norvege -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/poil-long-gen-fgf5-maine-coon-et-ragdoll -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/poil-long-gen-fgf5-plusieurs-races -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/poil-long-gen-fgf5-ragdoll -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/poil-noir-uniforme -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/poil-russet-gen-mc1r-burmes -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/polydactylie-variante-hw -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/polydactylie-variante-uk1 -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/polydactylie-variante-uk2 -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/queue-courte-1 -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/queue-courte-3 -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/queue-courte-4 -> 429
+https://www.kokogenetics.com/fr/resultats/traits-genetiques-chats/queue-courte-et-enroulee-gen-hes7 -> 429
+https://www.kokogenetics.com/fr/technologie-laboratoire -> 429
+

@@ -1,0 +1,266 @@
+{
+  "test": "tests/test_grupo1_compras.py::test_de_mediosdepagotmg",
+  "phase": "call",
+  "session_id": "f64cfdc6f153c216d74bd4242e65b03d",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "normal",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://shop.tellmegen.com/checkouts/cn/hWNHFI7mCuGlIMw9Voyi8nDO/en-us?_r=AQAB6jUTjIPCz7avUb78bvHjd8yDsZYXzr4K3SWCxuTWgvo&auto_redirect=false&edge_redirect=true&skip_shop_pay=true",
+  "browser_log": [
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1790353419265
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1790353419265
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1790353419265
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1790353419265
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1790353419265
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1790353419265
+    },
+    {
+      "level": "SEVERE",
+      "message": "security - Framing 'https://shop.app/' violates the following Content Security Policy directive: \"frame-ancestors 'self' https://shop.app https://admin.shopify.com\". The request has been blocked.\n",
+      "source": "security",
+      "timestamp": 1790353420212
+    },
+    {
+      "level": "INFO",
+      "message": "https://cdn.shopify.com/extensions/019dbe41-333e-7edd-a4ce-2128c404ca9a/bucks-currency-converter-29/assets/widgetLoader.js 14:10 \"Script loaded!\"",
+      "source": "console-api",
+      "timestamp": 1790353420619
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-5113020756@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] initialized [object Object]",
+      "source": "worker",
+      "timestamp": 1790353421279
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-3161325908@36f244aeba196ca7e2f6b8a611f4e21b.js 0 %c [↑] UpPromote WebPixel background-color: #ff4e41; color: #fff; padding: 2px 15px 2px 0",
+      "source": "worker",
+      "timestamp": 1790353421288
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-3161325908@36f244aeba196ca7e2f6b8a611f4e21b.js 0 Running...",
+      "source": "worker",
+      "timestamp": 1790353421288
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-3161325908@36f244aeba196ca7e2f6b8a611f4e21b.js 0 console.groupEnd",
+      "source": "worker",
+      "timestamp": 1790353421288
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-5113020756@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] event → page_viewed [object Object]",
+      "source": "worker",
+      "timestamp": 1790353421343
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1790353422690
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1790353422690
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1790353422690
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1790353422690
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1790353422690
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1790353422690
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-5113020756@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] initialized [object Object]",
+      "source": "worker",
+      "timestamp": 1790353423029
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-3161325908@36f244aeba196ca7e2f6b8a611f4e21b.js 0 %c [↑] UpPromote WebPixel background-color: #ff4e41; color: #fff; padding: 2px 15px 2px 0",
+      "source": "worker",
+      "timestamp": 1790353423085
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-3161325908@36f244aeba196ca7e2f6b8a611f4e21b.js 0 Running...",
+      "source": "worker",
+      "timestamp": 1790353423086
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-3161325908@36f244aeba196ca7e2f6b8a611f4e21b.js 0 console.groupEnd",
+      "source": "worker",
+      "timestamp": 1790353423086
+    },
+    {
+      "level": "INFO",
+      "message": "https://cdn.shopify.com/extensions/019dbe41-333e-7edd-a4ce-2128c404ca9a/bucks-currency-converter-29/assets/widgetLoader.js 14:10 \"Script loaded!\"",
+      "source": "console-api",
+      "timestamp": 1790353423124
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-5113020756@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] event → page_viewed [object Object]",
+      "source": "worker",
+      "timestamp": 1790353423271
+    },
+    {
+      "level": "INFO",
+      "message": "https://cdn.shopify.com/proxy/d0f4a58b2c53ba41c0f3c58e3483550f56621e0728a365a710d8492bdd29fe11/d1639lhkj5l89m.cloudfront.net/js/storefront/uppromote.js?shop=1weuy0-0w.myshopify.com&sp-cache-control=cHVibGljLCBtYXgtYWdlPTkwMA 0:10795 \"%c ► UpPromote Affiliate Marketing [Application] - Running...\" \"background-color: #092C4C; color: #fff; padding: 5px;\"",
+      "source": "console-api",
+      "timestamp": 1790353423885
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/en-us - Clear-Site-Data header on 'https://shop.tellmegen.com/en-us/cart/add': Cleared data types: \"prefetchCache\", \"prerenderCache\".",
+      "source": "other",
+      "timestamp": 1790353426446
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-5113020756@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] event → items_added [object Object]",
+      "source": "worker",
+      "timestamp": 1790353426550
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/en-us - Clear-Site-Data header on 'https://shop.tellmegen.com/en-us/cart': Cleared data types: \"prefetchCache\", \"prerenderCache\".",
+      "source": "other",
+      "timestamp": 1790353427738
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.tellmegen.com/private_access_tokens?id=15eca960bb709f42e102d19c9bd36d72&checkout_type=c1 - Failed to load resource: the server responded with a status of 401 ()",
+      "source": "network",
+      "timestamp": 1790353431143
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-3161325908@36f244aeba196ca7e2f6b8a611f4e21b.js 0 %c [↑] UpPromote WebPixel background-color: #ff4e41; color: #fff; padding: 2px 15px 2px 0",
+      "source": "worker",
+      "timestamp": 1790353431926
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-3161325908@36f244aeba196ca7e2f6b8a611f4e21b.js 0 Running...",
+      "source": "worker",
+      "timestamp": 1790353431926
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-3161325908@36f244aeba196ca7e2f6b8a611f4e21b.js 0 console.groupEnd",
+      "source": "worker",
+      "timestamp": 1790353431926
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.tellmegen.com/cdn/shopifycloud/checkout-web/assets/c1/esnext-vendor.B9Da21W6.js 2:6798 \"[Meta Pixel] - Call to \\\"fbq('set', 'userData', Object);\\\" with parameter \\\"pixel_id\\\" has an invalid value of \\\"'3507031502705686'\\\"\"",
+      "source": "console-api",
+      "timestamp": 1790353432368
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-5113020756@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] initialized [object Object]",
+      "source": "worker",
+      "timestamp": 1790353432914
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.tellmegen.com/cdn/shopifycloud/checkout-web/assets/c1/esnext-vendor.B9Da21W6.js 0 An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.",
+      "source": "security",
+      "timestamp": 1790353433096
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.tellmegen.com/checkouts/cn/hWNHFI7mCuGlIMw9Voyi8nDO/en-us?_r=AQAB6jUTjIPCz7avUb78bvHjd8yDsZYXzr4K3SWCxuTWgvo&auto_redirect=false&edge_redirect=true&skip_shop_pay=true - The resource https://shop.tellmegen.com/cdn/shopifycloud/checkout-web/assets/c1/assets/RuntimeExtension.DWkDBM73.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.",
+      "source": "javascript",
+      "timestamp": 1790353433141
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-5113020756@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] event → page_viewed [object Object]",
+      "source": "worker",
+      "timestamp": 1790353433852
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-5113020756@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] event → checkout_started [object Object]",
+      "source": "worker",
+      "timestamp": 1790353433856
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.tellmegen.com/checkouts/cn/hWNHFI7mCuGlIMw9Voyi8nDO/en-us?_r=AQAB6jUTjIPCz7avUb78bvHjd8yDsZYXzr4K3SWCxuTWgvo&auto_redirect=false&edge_redirect=true&skip_shop_pay=true - The resource https://shop.tellmegen.com/cdn/shopifycloud/checkout-web/assets/c1/assets/RuntimeExtension.DWkDBM73.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.",
+      "source": "javascript",
+      "timestamp": 1790353449966
+    },
+    {
+      "level": "WARNING",
+      "message": "https://shop.tellmegen.com/checkouts/cn/hWNHFI7mCuGlIMw9Voyi8nDO/en-us?_r=AQAB6jUTjIPCz7avUb78bvHjd8yDsZYXzr4K3SWCxuTWgvo&auto_redirect=false&edge_redirect=true&skip_shop_pay=true - The resource https://shop.tellmegen.com/cdn/shopifycloud/checkout-web/assets/c1/assets/RuntimeExtension.DWkDBM73.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.",
+      "source": "javascript",
+      "timestamp": 1790353463995
+    }
+  ]
+}
