@@ -1,0 +1,182 @@
+{
+  "test": "tests/test_grupo1_compras.py::test_PruebadeCompraTMG",
+  "phase": "call",
+  "session_id": "22d0a7065fa619c92f38f2dbb1fc154b",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "normal",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://shop.tellmegen.com/en-us",
+  "browser_log": [
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1790342910554
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1790342910554
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1790342910574
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1790342910574
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1790342910574
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1790342910574
+    },
+    {
+      "level": "SEVERE",
+      "message": "security - Framing 'https://shop.app/' violates the following Content Security Policy directive: \"frame-ancestors 'self' https://shop.app https://admin.shopify.com\". The request has been blocked.\n",
+      "source": "security",
+      "timestamp": 1790342911696
+    },
+    {
+      "level": "INFO",
+      "message": "https://cdn.shopify.com/extensions/019dbe41-333e-7edd-a4ce-2128c404ca9a/bucks-currency-converter-29/assets/widgetLoader.js 14:10 \"Script loaded!\"",
+      "source": "console-api",
+      "timestamp": 1790342912104
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-5113020756@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] initialized [object Object]",
+      "source": "worker",
+      "timestamp": 1790342912776
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-3161325908@36f244aeba196ca7e2f6b8a611f4e21b.js 0 %c [↑] UpPromote WebPixel background-color: #ff4e41; color: #fff; padding: 2px 15px 2px 0",
+      "source": "worker",
+      "timestamp": 1790342913548
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-3161325908@36f244aeba196ca7e2f6b8a611f4e21b.js 0 Running...",
+      "source": "worker",
+      "timestamp": 1790342913548
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-3161325908@36f244aeba196ca7e2f6b8a611f4e21b.js 0 console.groupEnd",
+      "source": "worker",
+      "timestamp": 1790342913550
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-5113020756@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] event → page_viewed [object Object]",
+      "source": "worker",
+      "timestamp": 1790342914158
+    },
+    {
+      "level": "INFO",
+      "message": "https://cdn.shopify.com/proxy/d0f4a58b2c53ba41c0f3c58e3483550f56621e0728a365a710d8492bdd29fe11/d1639lhkj5l89m.cloudfront.net/js/storefront/uppromote.js?shop=1weuy0-0w.myshopify.com&sp-cache-control=cHVibGljLCBtYXgtYWdlPTkwMA 0:10795 \"%c ► UpPromote Affiliate Marketing [Application] - Running...\" \"background-color: #092C4C; color: #fff; padding: 5px;\"",
+      "source": "console-api",
+      "timestamp": 1790342914232
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1790342915502
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1790342915502
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1790342915502
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1790342915502
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1790342915502
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1790342915502
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-5113020756@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] initialized [object Object]",
+      "source": "worker",
+      "timestamp": 1790342915573
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-3161325908@36f244aeba196ca7e2f6b8a611f4e21b.js 0 %c [↑] UpPromote WebPixel background-color: #ff4e41; color: #fff; padding: 2px 15px 2px 0",
+      "source": "worker",
+      "timestamp": 1790342915871
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-3161325908@36f244aeba196ca7e2f6b8a611f4e21b.js 0 Running...",
+      "source": "worker",
+      "timestamp": 1790342915872
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-3161325908@36f244aeba196ca7e2f6b8a611f4e21b.js 0 console.groupEnd",
+      "source": "worker",
+      "timestamp": 1790342915872
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.tellmegen.com/web-pixels/strict/app/web-pixel-5113020756@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] event → page_viewed [object Object]",
+      "source": "worker",
+      "timestamp": 1790342915970
+    },
+    {
+      "level": "INFO",
+      "message": "https://cdn.shopify.com/extensions/019dbe41-333e-7edd-a4ce-2128c404ca9a/bucks-currency-converter-29/assets/widgetLoader.js 14:10 \"Script loaded!\"",
+      "source": "console-api",
+      "timestamp": 1790342915970
+    },
+    {
+      "level": "INFO",
+      "message": "https://cdn.shopify.com/proxy/d0f4a58b2c53ba41c0f3c58e3483550f56621e0728a365a710d8492bdd29fe11/d1639lhkj5l89m.cloudfront.net/js/storefront/uppromote.js?shop=1weuy0-0w.myshopify.com&sp-cache-control=cHVibGljLCBtYXgtYWdlPTkwMA 0:10795 \"%c ► UpPromote Affiliate Marketing [Application] - Running...\" \"background-color: #092C4C; color: #fff; padding: 5px;\"",
+      "source": "console-api",
+      "timestamp": 1790342916842
+    }
+  ]
+}

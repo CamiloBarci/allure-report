@@ -1,0 +1,62 @@
+{
+  "test": "tests/test_grupo1_compras.py::test_de_mediosdepagovivabioma",
+  "phase": "call",
+  "session_id": "eb1ff04be4232390f95fd30308824fa5",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "normal",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://shop.vivabioma.com/en-us",
+  "browser_log": [
+    {
+      "level": "SEVERE",
+      "message": "security - Framing 'https://shop.app/' violates the following Content Security Policy directive: \"frame-ancestors 'self' https://shop.app https://admin.shopify.com\". The request has been blocked.\n",
+      "source": "security",
+      "timestamp": 1790343085786
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.vivabioma.com/web-pixels/strict/app/web-pixel-5549228362@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] initialized [object Object]",
+      "source": "worker",
+      "timestamp": 1790343085860
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.vivabioma.com/web-pixels/strict/app/web-pixel-5505352010@36f244aeba196ca7e2f6b8a611f4e21b.js 0 %c [↑] UpPromote WebPixel background-color: #ff4e41; color: #fff; padding: 2px 15px 2px 0",
+      "source": "worker",
+      "timestamp": 1790343085976
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.vivabioma.com/web-pixels/strict/app/web-pixel-5505352010@36f244aeba196ca7e2f6b8a611f4e21b.js 0 Running...",
+      "source": "worker",
+      "timestamp": 1790343085976
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.vivabioma.com/web-pixels/strict/app/web-pixel-5505352010@36f244aeba196ca7e2f6b8a611f4e21b.js 0 console.groupEnd",
+      "source": "worker",
+      "timestamp": 1790343085979
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.vivabioma.com/web-pixels/strict/app/web-pixel-5549228362@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] event → page_viewed [object Object]",
+      "source": "worker",
+      "timestamp": 1790343085986
+    },
+    {
+      "level": "INFO",
+      "message": "https://cdn.shopify.com/proxy/cdb538f0cb3e53472214efe7d453908d00597003a6b0fee6aec97095ce58865a/d1639lhkj5l89m.cloudfront.net/js/storefront/uppromote.js?shop=vs7ivz-rx.myshopify.com&sp-cache-control=cHVibGljLCBtYXgtYWdlPTkwMA 0:10795 \"%c ► UpPromote Affiliate Marketing [Application] - Running...\" \"background-color: #092C4C; color: #fff; padding: 5px;\"",
+      "source": "console-api",
+      "timestamp": 1790343087218
+    }
+  ]
+}
