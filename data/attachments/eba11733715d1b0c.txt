@@ -1,0 +1,4 @@
+Kit Koko KGEUZAAAAA49 desvinculado a owner_id = NULL en mypetgen.
+No llegó el mail dentro del tiempo
+[AVISO] Mail de activación demorado en mail.tm. Registro Koko confirmado por UI.
+Cuenta Koko prueba34f7d88bee60@uberip.com activada quirúrgicamente en DB (1 fila).

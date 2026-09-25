@@ -1,0 +1,74 @@
+{
+  "test": "tests/test_grupo4_precios.py::test_precios_koko[de-https://www.kokogenetics.com/de/-https://shop.kokogenetics.com/de/]",
+  "phase": "call",
+  "session_id": "34747fa96e850e00f16a09ba9d79dfac",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "normal",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://www.kokogenetics.com/de",
+  "browser_log": [
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 7:320292 \"[Termly] Using standard GCM opt-in defaults\"",
+      "source": "console-api",
+      "timestamp": 1790341798153
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:68275 \"[Termly] AutoBlocker is enabled for this website\"",
+      "source": "console-api",
+      "timestamp": 1790341798154
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:68341 \"[Termly] Installing AutoBlocker overrides\"",
+      "source": "console-api",
+      "timestamp": 1790341798154
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:13971 \"[Termly] Region %o has consent_mode set to %o\" \"virginia\" \"opt_in\"",
+      "source": "console-api",
+      "timestamp": 1790341798745
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 7:237956 \"[Termly] No GVL found for this website. TCFProvider is providing noop functions.\"",
+      "source": "console-api",
+      "timestamp": 1790341799449
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:64120 \"[Termly] A script from %o %cmight%c not be categorized correctly because we could not tell which script added it to the page. %cIf your application is behaving properly, you may safely ignore this message%c. Otherwise, you might need to set custom domain rules in the dashboard. See %s for help.\\n\\nScript URL: %o\" \"www.googletagmanager.com\" \"font-style: italic\" \"font-style: normal\" \"font-weight: bold\" \"font-weight: normal\" \"https://support.termly.io/hc/en-us/articles/32848083153169-How-to-use-Domain-Rules-to-change-Auto-Blocker-s-blocking-behavior\" https://www.googletagmanager.com/gtag/js?id=G-W6VLP5DTFQ&cx=c&gtm=4e69n1",
+      "source": "console-api",
+      "timestamp": 1790341799704
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147 177:66236 Uncaught Error: Termly resource blocker has already been loaded on this page. Check your markup for duplicate <script> tags including https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147",
+      "source": "javascript",
+      "timestamp": 1790341800112
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/1776e44b-60e4-4552-846b-17b195552147?autoBlock=on 177:64120 \"[Termly] A script from %o %cmight%c not be categorized correctly because we could not tell which script added it to the page. %cIf your application is behaving properly, you may safely ignore this message%c. Otherwise, you might need to set custom domain rules in the dashboard. See %s for help.\\n\\nScript URL: %o\" \"genelinks-a6ff5d87434c6b617256548.freshchat.com\" \"font-style: italic\" \"font-style: normal\" \"font-weight: bold\" \"font-weight: normal\" \"https://support.termly.io/hc/en-us/articles/32848083153169-How-to-use-Domain-Rules-to-change-Auto-Blocker-s-blocking-behavior\" \"https://genelinks-a6ff5d87434c6b617256548.freshchat.com/widget/config_iframe.html?host=https://genelinks-a6ff5d87434c6b617256548.freshchat.com&token=8c86a232-727e-407b-b174-de891b2ba350&origin=https://www.kokogenetics.com\"",
+      "source": "console-api",
+      "timestamp": 1790341801246
+    },
+    {
+      "level": "WARNING",
+      "message": "https://connect.facebook.net/en_US/fbevents.js 203:527 \"[Meta Pixel] - Duplicate Pixel ID: 6595989673786201.\"",
+      "source": "console-api",
+      "timestamp": 1790341801368
+    }
+  ]
+}

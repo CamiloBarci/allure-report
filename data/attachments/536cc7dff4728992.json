@@ -1,0 +1,254 @@
+{
+  "test": "tests/test_grupo1_compras.py::test_PruebadeCompraKOKO",
+  "phase": "call",
+  "session_id": "94f6f93ffccb71db981727e23df7ca39",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "normal",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://shop.kokogenetics.com/en-us",
+  "browser_log": [
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1790341576509
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1790341576509
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1790341576509
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1790341576510
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1790341576510
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1790341576510
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/slideshow.js?v=100003309440835740261756293245 0:1957 Uncaught TypeError: Cannot read properties of null (reading 'getAttribute')",
+      "source": "javascript",
+      "timestamp": 1790341577173
+    },
+    {
+      "level": "SEVERE",
+      "message": "security - Framing 'https://shop.app/' violates the following Content Security Policy directive: \"frame-ancestors 'self' https://shop.app https://admin.shopify.com\". The request has been blocked.\n",
+      "source": "security",
+      "timestamp": 1790341577819
+    },
+    {
+      "level": "INFO",
+      "message": "https://cdn.shopify.com/extensions/019dbe41-333e-7edd-a4ce-2128c404ca9a/bucks-currency-converter-29/assets/widgetLoader.js 14:10 \"Script loaded!\"",
+      "source": "console-api",
+      "timestamp": 1790341577944
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.kokogenetics.com/web-pixels/strict/app/web-pixel-4511531395@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] initialized [object Object]",
+      "source": "worker",
+      "timestamp": 1790341578591
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.kokogenetics.com/web-pixels/strict/app/web-pixel-2849997187@36f244aeba196ca7e2f6b8a611f4e21b.js 0 %c [↑] UpPromote WebPixel background-color: #ff4e41; color: #fff; padding: 2px 15px 2px 0",
+      "source": "worker",
+      "timestamp": 1790341578837
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.kokogenetics.com/web-pixels/strict/app/web-pixel-2849997187@36f244aeba196ca7e2f6b8a611f4e21b.js 0 Running...",
+      "source": "worker",
+      "timestamp": 1790341578840
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.kokogenetics.com/web-pixels/strict/app/web-pixel-2849997187@36f244aeba196ca7e2f6b8a611f4e21b.js 0 console.groupEnd",
+      "source": "worker",
+      "timestamp": 1790341578840
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"event queued\" Object",
+      "source": "console-api",
+      "timestamp": 1790341578932
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"event queued\" Object",
+      "source": "console-api",
+      "timestamp": 1790341578932
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.kokogenetics.com/web-pixels/strict/app/web-pixel-4511531395@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] event → page_viewed [object Object]",
+      "source": "worker",
+      "timestamp": 1790341579001
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"SDK config telemetry queued\" Object",
+      "source": "console-api",
+      "timestamp": 1790341579780
+    },
+    {
+      "level": "WARNING",
+      "message": "https://static-tracking.klaviyo.com/onsite/js/fender_analytics.afed75cbdca9e.js?cb=2 0:20721 \"Klaviyo tracking is disabled. To enable, set the cookie \\\"__kla_off\\\" to false.\" Object",
+      "source": "console-api",
+      "timestamp": 1790341579978
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"lifecycle flush requested\" Object",
+      "source": "console-api",
+      "timestamp": 1790341580365
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"queue flushed\" Object",
+      "source": "console-api",
+      "timestamp": 1790341580371
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1790341581908
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1790341581908
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1790341581908
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1790341581908
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Failed parsing 'srcset' attribute value since it has an unknown descriptor.",
+      "source": "other",
+      "timestamp": 1790341581908
+    },
+    {
+      "level": "WARNING",
+      "message": "other - Dropped srcset candidate \"Liquid\"",
+      "source": "other",
+      "timestamp": 1790341581908
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.kokogenetics.com/web-pixels/strict/app/web-pixel-2849997187@36f244aeba196ca7e2f6b8a611f4e21b.js 0 %c [↑] UpPromote WebPixel background-color: #ff4e41; color: #fff; padding: 2px 15px 2px 0",
+      "source": "worker",
+      "timestamp": 1790341581924
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.kokogenetics.com/web-pixels/strict/app/web-pixel-2849997187@36f244aeba196ca7e2f6b8a611f4e21b.js 0 Running...",
+      "source": "worker",
+      "timestamp": 1790341581924
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.kokogenetics.com/web-pixels/strict/app/web-pixel-2849997187@36f244aeba196ca7e2f6b8a611f4e21b.js 0 console.groupEnd",
+      "source": "worker",
+      "timestamp": 1790341581924
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.kokogenetics.com/web-pixels/strict/app/web-pixel-4511531395@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] initialized [object Object]",
+      "source": "worker",
+      "timestamp": 1790341581924
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://shop.kokogenetics.com/cdn/shop/t/2/assets/slideshow.js?v=100003309440835740261756293245 0:1957 Uncaught TypeError: Cannot read properties of null (reading 'getAttribute')",
+      "source": "javascript",
+      "timestamp": 1790341582056
+    },
+    {
+      "level": "INFO",
+      "message": "https://shop.kokogenetics.com/web-pixels/strict/app/web-pixel-4511531395@719bf6360484ef25fd13f722059e16f5.js 0 [Reach Pixel] event → page_viewed [object Object]",
+      "source": "worker",
+      "timestamp": 1790341582192
+    },
+    {
+      "level": "INFO",
+      "message": "https://cdn.shopify.com/extensions/019dbe41-333e-7edd-a4ce-2128c404ca9a/bucks-currency-converter-29/assets/widgetLoader.js 14:10 \"Script loaded!\"",
+      "source": "console-api",
+      "timestamp": 1790341582204
+    },
+    {
+      "level": "WARNING",
+      "message": "https://static-tracking.klaviyo.com/onsite/js/fender_analytics.afed75cbdca9e.js?cb=2 0:20721 \"Klaviyo tracking is disabled. To enable, set the cookie \\\"__kla_off\\\" to false.\" Object",
+      "source": "console-api",
+      "timestamp": 1790341582986
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"event queued\" Object",
+      "source": "console-api",
+      "timestamp": 1790341582997
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"SDK config telemetry queued\" Object",
+      "source": "console-api",
+      "timestamp": 1790341583017
+    },
+    {
+      "level": "INFO",
+      "message": "https://cdn.shopify.com/proxy/af948f38a15e26080a70cf7ecad2d3c080bf782674eb83a28633ba9ba550e20d/d1639lhkj5l89m.cloudfront.net/js/storefront/uppromote.js?shop=f7v6xi-ai.myshopify.com&sp-cache-control=cHVibGljLCBtYXgtYWdlPTkwMA 0:10795 \"%c ► UpPromote Affiliate Marketing [Application] - Running...\" \"background-color: #092C4C; color: #fff; padding: 5px;\"",
+      "source": "console-api",
+      "timestamp": 1790341583358
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"queue flush started\" Object",
+      "source": "console-api",
+      "timestamp": 1790341584383
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://bzrcdn.openai.com/sdk/oaiq.min.js 0:6222 \"[oaiq]\" \"queue flushed\" Object",
+      "source": "console-api",
+      "timestamp": 1790341584390
+    }
+  ]
+}
