@@ -1,0 +1,6 @@
+Kit HJEEDCBA2447 preparado en genportal [PROD] (owner_id = NULL).
+Kit HJEEDCBA2447 preparado en genportal [DEV] (owner_id = NULL).
+No llegó el mail dentro del tiempo
+[AVISO] Mail de activación demorado en mail.tm. Registro confirmado por UI y validado en DB.
+Owner ID en base de datos luego del registro: 146797
+Cuenta TMG pruebad517a8574e8a@uberip.com activada quirúrgicamente en DB [DEV] (1 fila).

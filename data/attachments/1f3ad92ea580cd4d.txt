@@ -1,0 +1,87 @@
+Se detectaron 86 enlaces con error en https://www.kokogenetics.com/en_sitemap.xml:
+https://www.kokogenetics.com/en/results/cat-health-test/chediak-higashi-syndrome -> 500
+https://www.kokogenetics.com/en/results/cat-health-test/spinal-muscular-atrophy -> 500
+https://www.kokogenetics.com/en/results/cat-traits-test/curly-coat-gene-liph-ural-rex -> 500
+https://www.kokogenetics.com/en/results/cat-traits-test/long-hair-gene-fgf5-maine-coon-and-ragdoll -> 500
+https://www.kokogenetics.com/en/results/cat-traits-test/polydactylism-uk2-variant -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/cat-traits-test/russet-coat-gene-mc1r-burmese -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/cat-traits-test/short-and-curled-tail-gene-hes7 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/cat-traits-test/short-tail-1 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/dna-test-breed-cat -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/dog-dna-test-breed -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/airedale-terrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/akbash -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/akita-inu -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/alaskan-husky -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/alaskan-malamute -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/alpine-dachsbracke -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/american-foxhound -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/american-hairless-terrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/american-pit-bull-terrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/american-staffordshire-terrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/american-water-spaniel -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/anatolian-shepherd -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/appenzell-cattle-dog -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/arabian-village-dog -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/ariege-pointer -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/artesian-norman-basset -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/aussiedoodle -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/australian-cattle-dog -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/australian-kelpie -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/australian-labradoodle -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/black-russian-terrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/landseer-european-continental-type -> 429
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/maltipoo -> 429
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/manchester-terrier-standard -> 429
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/maremma-abruzzes-sheepdog -> 429
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/miniature-pinscher -> 429
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/village-dog-southeast-asian-island -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/whippet -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/dog-dna-test-breed/wirehaired-slovakian-pointer -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/pet-dna-test-breed -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/pet-health-test/achromatopsia-3-german-short-haired-pointing-dog -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/en/results/pet-health-test/severe-combined-immunodeficiency-jack-rusell-terrier -> 429
+https://www.kokogenetics.com/en/results/pet-health-test/skeletal-dysplasia-2 -> 429
+https://www.kokogenetics.com/en/results/pet-health-test/spinal-dysraphism -> 429
+https://www.kokogenetics.com/en/results/pet-health-test/spinocerebellar-ataxia-myokymia-seizures -> 429
+https://www.kokogenetics.com/en/results/pet-health-test/spongy-degeneration-cerebellar-ataxia -> 429
+https://www.kokogenetics.com/en/results/pet-health-test/thrombopathia-basset-hound -> 429
+https://www.kokogenetics.com/en/results/pet-health-test/thrombopathia-landseer -> 429
+https://www.kokogenetics.com/en/results/pet-health-test/trapped-neutrophil-syndrome -> 429
+https://www.kokogenetics.com/en/results/pet-health-test/vitamin-d-dependent-rickets-type-ii -> 429
+https://www.kokogenetics.com/en/results/pet-health-test/von-gierke-disease-maltese -> 429
+https://www.kokogenetics.com/en/results/pet-health-test/von-willebrand-disease-1 -> 429
+https://www.kokogenetics.com/en/results/pet-health-test/von-willebrand-disease-2 -> 429
+https://www.kokogenetics.com/en/results/pet-health-test/von-willebrand-disease-2-pointer -> 429
+https://www.kokogenetics.com/en/results/pet-health-test/von-willebrand-disease-3-kooiker-hound -> 429
+https://www.kokogenetics.com/en/results/pet-health-test/von-willebrand-disease-3-scottish-terrier -> 429
+https://www.kokogenetics.com/en/results/pet-health-test/x-linked-ectodermal-dysplasia -> 429
+https://www.kokogenetics.com/en/results/pet-health-test/x-linked-hereditary-nephropathy -> 429
+https://www.kokogenetics.com/en/results/pet-health-test/x-linked-myotubular-myopathy -> 429
+https://www.kokogenetics.com/en/results/pet-health-test/x-linked-progressive-retinal-atrophy-1 -> 429
+https://www.kokogenetics.com/en/results/pet-health-test/x-linked-progressive-retinal-atrophy-2 -> 429
+https://www.kokogenetics.com/en/results/pet-health-test/x-linked-severe-combined-immunodeficiency-corgi -> 429
+https://www.kokogenetics.com/en/results/pet-health-test/x-linked-severe-combined-immunodeficiency-x-basset-hound -> 429
+https://www.kokogenetics.com/en/results/pet-traits-test -> 429
+https://www.kokogenetics.com/en/results/pet-traits-test/adaptation-altitude -> 429
+https://www.kokogenetics.com/en/results/pet-traits-test/body-size -> 429
+https://www.kokogenetics.com/en/results/pet-traits-test/chocolate-coat -> 429
+https://www.kokogenetics.com/en/results/pet-traits-test/coat-fire-points -> 429
+https://www.kokogenetics.com/en/results/pet-traits-test/colour-dilution -> 429
+https://www.kokogenetics.com/en/results/pet-traits-test/colour-pattern-roan -> 429
+https://www.kokogenetics.com/en/results/pet-traits-test/curly-coat -> 429
+https://www.kokogenetics.com/en/results/pet-traits-test/dark-mask -> 429
+https://www.kokogenetics.com/en/results/pet-traits-test/dominant-black-coat -> 429
+https://www.kokogenetics.com/en/results/pet-traits-test/ears-position -> 429
+https://www.kokogenetics.com/en/results/pet-traits-test/fawn-coat -> 429
+https://www.kokogenetics.com/en/results/pet-traits-test/grizzle-coat -> 429
+https://www.kokogenetics.com/en/results/pet-traits-test/harlequin-colour-pattern -> 429
+https://www.kokogenetics.com/en/results/pet-traits-test/long-hair -> 429
+https://www.kokogenetics.com/en/results/pet-traits-test/piebald-colouring-pattern -> 429
+https://www.kokogenetics.com/en/results/pet-traits-test/recessive-black-coat -> 429
+https://www.kokogenetics.com/en/results/pet-traits-test/recessive-red-coat -> 429
+https://www.kokogenetics.com/en/results/pet-traits-test/sesitivity-certain-drugs -> 429
+https://www.kokogenetics.com/en/results/pet-traits-test/short-snout -> 429
+https://www.kokogenetics.com/en/results/pet-traits-test/short-tail -> 429
+https://www.kokogenetics.com/en/technology-laboratory -> 429
+https://www.kokogenetics.com/en/who-we-are -> 429
