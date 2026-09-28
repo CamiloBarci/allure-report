@@ -1,0 +1,315 @@
+Se detectaron 314 enlaces con error en https://www.kokogenetics.com/it_sitemap.xml:
+https://www.kokogenetics.com/it/chi-siamo -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/come-funziona-test-dna-animali -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/malattie-genetiche-animale-compagnia -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/malattie-genetiche-animale-compagnia/achromatopsia-3-cane-ferma-tedesco-pelo-corto -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/malattie-genetiche-animale-compagnia/acidosi-l-2-idrossiglutarica -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/malattie-genetiche-animale-compagnia/atassia-cerebellare-esordio-precoce -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/malattie-genetiche-animale-compagnia/cheratocongiuntivite-sicca-congenita-dermatosi-ittiosiforme -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/malattie-genetiche-gatti/atrofia-muscolare-spinale -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/malattie-genetiche-gatti/posizione-delle-orecchie-e-osteocondrodisplasia -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/malattie-genetiche-gatti/rachitismo-dipendente-dalla-vitamina-d-tipo-ia -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/malattie-genetiche-gatti/sensibilita-a-determinati-farmaci -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/malattie-genetiche-gatti/sindrome-di-chediak-higashi -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/malattie-genetiche-gatti/sindrome-linfoproliferativa-autoimmune -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/affenpinscher -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/airedale-terrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/akbash -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/akita -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/akita-americano -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/alaskan-husky -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/alaskan-malamute -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/alpenlaendische-dachsbracke -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/american-eskimo-dog -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/american-hairless-terrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/american-pit-bull-terrier -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/american-staffordshire-terrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/american-water-spaniel -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/aussiedoodle -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/australian-cattle-dog -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/australian-silky-terrier -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/australian-stumpy-tail-cattle-dog -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/australian-terrier -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/azawakh -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/barbet-cane-acqua-francese -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/barbone -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/barbone-miniatura -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/barbone-toy -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/basenji -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/basset-fauve-bretagne -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/basset-hound -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/basset-normand -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/bassotto-tedesco -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/beagle -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/bearded-collie -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/beauceron -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/bedlington-terrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/bichon-havanais -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/bichon-poil-frise -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/biewer-terrier -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/black-tan-coonhound -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/bloodhound -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/bluetick-coonhound -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/boerboel -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/bolognese -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/border-collie -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/border-terrier -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/boston-terrier -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/bouledogue-francese -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/bovaro-appenzell -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/bovaro-bernese -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/bovaro-entlebuch -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/bovaro-fiandres -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/boykin-spaniel -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/bracco-ariege -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/bracco-auvergne -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/braco-italiano -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/braque-bourbonnaiss -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/braque-francais-pyrenean -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/bruno-saint-hubert-francais -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/bull-terrier -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/bulldog-americano -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/bulldog-continentale -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/bulldog-inglese -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/bullmastiff -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cacciatore-alci-svedese-bianco -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cairn-terrier -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/canaan-dog -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-acqua-spagnolo -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-canoro-nuova-guinea -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-corso-italiano -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-da-pastore-del-kangal -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-da-pastore-di-oropa -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-di-mannara -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-ferma-tedesco-pelo-corto -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-ferma-tedesco-pelo-duro -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-ferma-tedesco-pelo-ruvido -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-lupo-saarloos-saarlooswolfhond -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-montagna-pirenei-patou -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-nudo-peruviano -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-orso-carelia -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-paratore -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-presa-canario -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-serra-estrela -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-afghanistan -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-africa-nordorientale -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-africa-occidentale -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-africano -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-asia-meridionale -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-asia-occidentale -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-asia-orientale -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-asia-sudorientale -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-cinese -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-costa-rica -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-egitto -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-europa-occidentale -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-europa-orientale -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-europeo -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-fiji -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-ghana -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-giapponese-coreano -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-honduras -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-hong-kong -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-india -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-isole-salomone -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-isole-sud-est-asiatico -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-libano -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-liberia -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-medio-oriente -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-messico -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-mongolia -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-namibia -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-nepal -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-polinesia-francese -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-qatar -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-uganda -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cane-villaggio-vietnam -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cani-villaggio-arabo -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cao-agua-portugues -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cao-fila-sao-miguel -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cao-serra-aires -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/carlino-pug -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/carolina-dog -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/catahoula-leopard-dog -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/catalburun -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cavalier-king-charles-spaniel -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cavapoo -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cesky-fousek -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cesky-terrier -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/chesapeake-bay-retriever -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/chihuahua -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/chin -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/chinese-crested-dog-canina -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/chinook -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/chow-chow -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cirneco-etna -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/clumber-spaniel -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cockapoo -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cocker-americano -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/cocker-spaniel-inglese -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/collie -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/collie-a-pelo-corto -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/coton-tulear -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/coyote -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/curly-coated-retriever -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/dalmata -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/dandie-dinmont-terrier -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/dansk-svensk-gardshund -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/deutscher-boxer -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/dingo -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/dobermann -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/dogo-argentino -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/dogo-maiorchino -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/dogue-bordeaux-canina -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/donggyeongi -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/drever -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/elo -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/english-foxhound -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/english-shepherd -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/english-toy-terrier-black-tan -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/epagneul-bleu-picardie -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/epagneul-breton -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/epagneul-francais -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/epagneul-nano-continentale -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/epagneul-olandese-drent -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/epagneul-piccardo -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/estonian-hound -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/eurasier -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/field-spaniel -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/flat-coated-retriever -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/fox-terrier-pelo-liscio -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/fox-terrier-pelo-ruvido -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/foxhound-americano -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/golden-retriever -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/gondeldoodle -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/gran-danese -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/grand-anglo-francais -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/grand-basset-griffon-vendeen -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/grande-cane-montagna-svizzero -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/grande-munsterlander -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/griffone-bruxelles -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/griffone-nivernais -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/griffone-pelo-duros -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/groenlandese -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/hamiltonstovare -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/harrier -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/hokkaido -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/hovawart -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/huntaway -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/icelandic-sheepdog -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/irish-doodle -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/irish-glen-imaal-terrier -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/irish-soft-coated-wheaten-terrier -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/irish-terrier -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/irish-water-spaniel -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/irish-wolfhound -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/italian-segugio -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/jack-russell-terrier -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/jagdterrier -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/jamthund -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/jindo-coreano -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/kai -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/karakachan -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/keeshond -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/kerry-blue-terrier -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/khottosho-bankhar -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/king-charles-spaniel -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/kishu -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/komondor -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/kromfohrlander -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/kuvasz -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/labradoodle-australiano -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/labrador-retriever -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/lagotto-romagnolo -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/lakeland-terrier -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/lancashire-heeler -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/landseer-europeo-tipo-continentale -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/lapphund-finlandese -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/lapphund-svedese -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/leonberger -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/levriero-afgano -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/levriero-arabo-sloughi -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/levriero-inglese -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/levriero-italiano-meridionale -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/levriero-polacco -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/levriero-russo-borzoi -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/levriero-scozzese-deerhound -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/levriero-spagnolo -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/lupino-del-gigante -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/lupo-cecoslovacco -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/lupo-grigio -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/lupo-italiano -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/maltipoo -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/manchester-terrier -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/mastino-pirenei -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/mastino-spagnolo -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/mastino-svizzero -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/mastino-tibetano -> 429
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/redbone-coonhound -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/rottweiler -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/sapsaree -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/sealyham-terrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/setter-inglese -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/setter-irlandese -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/terrier-nero-russo -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/whippet -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/xoloitzcuintle -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/yorkiepoo -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/yorkshire-terrier -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/zerdava -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-cane-razza/zwergschnauzer-schnauzer-nano -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-gatto-razza -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-gatto-razza/abissino -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-gatto-razza/american -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-gatto-razza/american-curl -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-gatto-razza/angora -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-gatto-razza/asian -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-gatto-razza/bengala -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-gatto-razza/blu-di-russia -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-gatto-razza/bobtail-giapponese -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-gatto-razza/burmese -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-gatto-razza/cornish-rex -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-gatto-razza/gatto-orientale-a-pelo-corto -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-gatto-razza/isola-di-man -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-gatto-razza/khao-manee -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-gatto-razza/korat -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-gatto-razza/laperm -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-gatto-razza/lykoi -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-gatto-razza/maine-coon -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-gatto-razza/mau-egiziano -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-gatto-razza/munchkin -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-gatto-razza/scottish-fold -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-gatto-razza/selkirk-rex -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-gatto-razza/siamese -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/test-dna-razza-animale-compagnia -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-animale-compagnia/coda-corta -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-animale-compagnia/sensibilita-determinati-farmaci -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/coda-corta-4 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/coda-corta-e-arricciata-gene-hes7 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/colorpoint-gene-tyr-burmese-2 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/ipotricosi-2-gene-hr-lykoi -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/ipotricosi-3-gene-hr-lykoi -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/ipotricosi-6-gene-hr-lykoi -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/ipotricosi-gene-krt71-sphynx -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/motivo-colorazione-carbonio-1 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/motivo-tabby-blotched-1 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/motivo-tabby-blotched-3 -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/motivo-ticked-gene-dkk4-abyssinian -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/pelliccia-ambra-gene-mc1r-gatto-bosco-di-norvegia -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/pelliccia-cannella -> ReadTimeout: HTTPSConnectionPool(host='www.kokogenetics.com', port=443): Read timed out. (read timeout=6)
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/pelliccia-dorata -> 429
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/pelliccia-dorata-estrema -> 429
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/pelliccia-riccioluta-gene-krt71-devon-rex -> 429
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/pelliccia-riccioluta-gene-liph-ural-rex -> 429
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/pelliccia-riccioluta-gene-lpar6-cornish-rex-e-german-rex -> 429
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/pelliccia-russet-gene-mc1r-burmese -> 429
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/pelo-lungo-gene-fgf5-gatto-bosco-di-norvegia -> 429
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/pelo-lungo-gene-fgf5-maine-coon-e-ragdoll -> 500
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/pelo-lungo-gene-fgf5-varie-razze -> 429
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/piedi-bianchi-gene-kit-birmano -> 429
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/polidattilia-variante-hw -> 429
+https://www.kokogenetics.com/it/risultati/tratti-genetiche-gatto/polidattilia-variante-uk1 -> 429
+https://www.kokogenetics.com/it/suoi-risultati-evolvono-scienza -> 429
+https://www.kokogenetics.com/it/tecnologia-laboratorio -> 429
