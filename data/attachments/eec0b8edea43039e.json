@@ -1,0 +1,116 @@
+{
+  "test": "tests/test_grupo2_funcionales.py::test_registracionusuarioTMG",
+  "phase": "call",
+  "session_id": "f4d2aef4e4c13416dbc129b1a7f40968",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "normal",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://app.v1.tellmegen.com/registryaccount/welcome/",
+  "browser_log": [
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:320286 \"[Termly] Using standard GCM opt-in defaults\"",
+      "source": "console-api",
+      "timestamp": 1790589736933
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 177:13971 \"[Termly] Region %o has consent_mode set to %o\" \"virginia\" \"opt_in\"",
+      "source": "console-api",
+      "timestamp": 1790589749258
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:232783 \"[Termly] No GVL found for this website. TCFProvider is providing noop functions.\"",
+      "source": "console-api",
+      "timestamp": 1790589750479
+    },
+    {
+      "level": "SEVERE",
+      "message": "javascript 1:0 Uncaught ReferenceError: analytics is not defined",
+      "source": "javascript",
+      "timestamp": 1790589751671
+    },
+    {
+      "level": "SEVERE",
+      "message": "javascript 1:0 Uncaught ReferenceError: analytics is not defined",
+      "source": "javascript",
+      "timestamp": 1790589751686
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:320286 \"[Termly] Using standard GCM opt-in defaults\"",
+      "source": "console-api",
+      "timestamp": 1790589753699
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 177:13971 \"[Termly] Region %o has consent_mode set to %o\" \"virginia\" \"opt_in\"",
+      "source": "console-api",
+      "timestamp": 1790589754212
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:232783 \"[Termly] No GVL found for this website. TCFProvider is providing noop functions.\"",
+      "source": "console-api",
+      "timestamp": 1790589754305
+    },
+    {
+      "level": "SEVERE",
+      "message": "javascript 1:0 Uncaught ReferenceError: analytics is not defined",
+      "source": "javascript",
+      "timestamp": 1790589764029
+    },
+    {
+      "level": "SEVERE",
+      "message": "javascript 1:0 Uncaught ReferenceError: analytics is not defined",
+      "source": "javascript",
+      "timestamp": 1790589764049
+    },
+    {
+      "level": "INFO",
+      "message": "https://app.v1.tellmegen.com/js/app.3b44c630.js 0:114648 \"not changed\"",
+      "source": "console-api",
+      "timestamp": 1790589765243
+    },
+    {
+      "level": "INFO",
+      "message": "https://app.v1.tellmegen.com/js/app.3b44c630.js 0:114648 \"not changed\"",
+      "source": "console-api",
+      "timestamp": 1790589767456
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.v1.tellmegen.com/registryaccount/welcome/ - [DOM] Input elements should have autocomplete attributes (suggested: \"new-password\"): (More info: https://goo.gl/9p2vKq) %o",
+      "source": "recommendation",
+      "timestamp": 1790589771259
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.v1.tellmegen.com/registryaccount/welcome/ - [DOM] Input elements should have autocomplete attributes (suggested: \"new-password\"): (More info: https://goo.gl/9p2vKq) %o",
+      "source": "recommendation",
+      "timestamp": 1790589771259
+    },
+    {
+      "level": "INFO",
+      "message": "https://app.v1.tellmegen.com/js/app.3b44c630.js 0:7637187 \"formKitData-->\"",
+      "source": "console-api",
+      "timestamp": 1790589781617
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://core.tellmegen.com/api/v1/public/registryAccount/ - Failed to load resource: the server responded with a status of 406 ()",
+      "source": "network",
+      "timestamp": 1790589783465
+    }
+  ]
+}
