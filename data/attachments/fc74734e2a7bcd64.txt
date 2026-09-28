@@ -1,0 +1,16 @@
+
+[SITEMAP AVISO] Se detectaron 13 enlaces con error en https://www.tellmegen.com/sv_sitemap.xml:
+https://www.tellmegen.com/sv/genetisk-predisposition-test -> 404
+https://www.tellmegen.com/sv/resultat/arftliga-sjukdomar/blooms-syndrom -> 429
+https://www.tellmegen.com/sv/resultat/arftliga-sjukdomar/brist-kortkedjig-acyl-coa-dehydrogenas-scadd -> 429
+https://www.tellmegen.com/sv/resultat/arftliga-sjukdomar/brist-mycket-langkedjig-acyl-coa-dehydrogenas-vlcadd -> 429
+https://www.tellmegen.com/sv/resultat/arftliga-sjukdomar/brist-pa-3-hydroxiacyl-coa-dehydrogenas-med-lang-kedja -> 429
+https://www.tellmegen.com/sv/resultat/arftliga-sjukdomar/canavans-sjukdom -> 429
+https://www.tellmegen.com/sv/resultat/arftliga-sjukdomar/ceroid-lipofuscinosis-av-neuron-typ-10-gen-ctsd -> 429
+https://www.tellmegen.com/sv/resultat/arftliga-sjukdomar/ceroid-lipofuscinosis-av-neuron-typ-11-gen-grn -> 429
+https://www.tellmegen.com/sv/resultat/arftliga-sjukdomar/ceroid-lipofuscinosis-av-neuron-typ-13-gen-ctsf -> 429
+https://www.tellmegen.com/sv/resultat/arftliga-sjukdomar/ceroid-lipofuscinosis-av-neuron-typ-8-gen-cln8 -> 429
+https://www.tellmegen.com/sv/resultat/arftliga-sjukdomar/cystinos -> 429
+https://www.tellmegen.com/sv/resultat/farmakogenetik/amitriptylin-dosering -> TooManyRedirects: Exceeded 30 redirects.
+https://www.tellmegen.com/sv/resultat/farmakogenetik/risperidon-dosering -> TooManyRedirects: Exceeded 30 redirects.
+

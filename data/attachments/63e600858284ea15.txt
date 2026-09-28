@@ -1,0 +1,13 @@
+
+[SITEMAP AVISO] Se detectaron 10 enlaces con error en https://www.tellmegen.com/it_sitemap.xml:
+https://www.tellmegen.com/it/risultati/test-dna-malattie/ernia-inguinale -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/test-dna-malattie/esofago-barrett -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/test-dna-malattie/fibrillazione-atriale -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/test-dna-malattie/fibrosi-polmonare-idiopatica -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/test-dna-malattie/glaucoma-angolo-aperto -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/test-dna-malattie/glioblastoma -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/test-dna-malattie/glioma -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/test-dna-malattie/gotta -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/tratti-personali/statura -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/it/risultati/tratti-personali/struttura-capelli -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+

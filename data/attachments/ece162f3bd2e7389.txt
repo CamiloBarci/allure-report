@@ -1,0 +1,7 @@
+Se detectaron 6 enlaces con error en https://www.tellmegen.com/fi_sitemap.xml:
+https://www.tellmegen.com/fi/tulokset/farmakologinen-yhteensopivuus/amitriptyliini-annostus -> TooManyRedirects: Exceeded 30 redirects.
+https://www.tellmegen.com/fi/tulokset/farmakologinen-yhteensopivuus/risperidoni-annostus -> 429
+https://www.tellmegen.com/fi/tulokset/geneettinen-alttius-sairauksille/kohdun-limakalvon-syopa -> 429
+https://www.tellmegen.com/fi/tulokset/geneettinen-alttius-sairauksille/kohonnut-verenpaine -> 429
+https://www.tellmegen.com/fi/tulokset/geneettinen-alttius-sairauksille/kohtu-leiomyoma -> 429
+https://www.tellmegen.com/fi/tulokset/geneettinen-alttius-sairauksille/krooninen-munuaissairaus -> 429

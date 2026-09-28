@@ -1,0 +1,12 @@
+Se detectaron 11 enlaces con error en https://www.tellmegen.com/es_sitemap.xml:
+https://www.tellmegen.com/resultados/rasgos-personalidad-genetica/niveles-gamma-glutamil-transferasa -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/rasgos-personalidad-genetica/niveles-melanina-cutanea -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/rasgos-personalidad-genetica/niveles-proteina-c-reactiva -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/rasgos-personalidad-genetica/niveles-proteina-total-suero -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/rasgos-personalidad-genetica/niveles-resistina -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/rasgos-personalidad-genetica/niveles-selectina-e -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/rasgos-personalidad-genetica/olfato -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/rasgos-personalidad-genetica/perfil-metabolizador-cyp2c19 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/rasgos-personalidad-genetica/perfil-metabolizador-cyp2c9 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/rasgos-personalidad-genetica/perfil-metabolizador-cyp2d6 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/resultados/rasgos-personalidad-genetica/perfil-metabolizador-cyp3a5 -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)

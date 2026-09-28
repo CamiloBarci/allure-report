@@ -1,0 +1,6 @@
+
+[SITEMAP AVISO] Se detectaron 3 enlaces con error en https://www.tellmegen.com/en_sitemap.xml:
+https://www.tellmegen.com/en/results/monogenic-diseases/d-bifunctional-protein-deficiency -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/en/results/monogenic-diseases/diastrophic-dysplasia -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+https://www.tellmegen.com/en/results/monogenic-diseases/dilated-cardiomyopathy-1d-tnnt2-gene -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=10)
+
