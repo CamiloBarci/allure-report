@@ -1,0 +1,6 @@
+Kit QA2TSCBA2827 preparado en genportal [PROD] (owner_id = NULL).
+Kit QA2TSCBA2827 preparado en genportal [DEV] (owner_id = NULL).
+Aviso desvinculando kit Vivabioma QA2TSCBA2827: connection to server at "34.34.45.208", port 5432 failed: timeout expired
+
+Aviso activando cuenta Vivabioma en DB: connection to server at "34.34.45.208", port 5432 failed: timeout expired
+
