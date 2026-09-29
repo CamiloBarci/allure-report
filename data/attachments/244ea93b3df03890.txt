@@ -1,0 +1,15 @@
+Se detectaron 14 enlaces con error en https://www.tellmegen.com/sv_sitemap.xml:
+https://www.tellmegen.com/sv/genetisk-predisposition-test -> 404
+https://www.tellmegen.com/sv/resultat/farmakogenetik/amitriptylin-dosering -> TooManyRedirects: Exceeded 30 redirects.
+https://www.tellmegen.com/sv/resultat/farmakogenetik/risperidon-dosering -> 429
+https://www.tellmegen.com/sv/resultat/wellness/nivaer-av-urat -> 429
+https://www.tellmegen.com/sv/resultat/wellness/nivaer-glykerat-hemoglobin -> 429
+https://www.tellmegen.com/sv/resultat/wellness/nivaer-systoliskt-blodtryck -> 429
+https://www.tellmegen.com/sv/resultat/wellness/nivaer-vitamin-b12 -> 429
+https://www.tellmegen.com/sv/resultat/wellness/nivaer-vitamin-d -> 429
+https://www.tellmegen.com/sv/resultat/wellness/nivaer-vitamin-e -> 429
+https://www.tellmegen.com/sv/resultat/wellness/predisposition-celiaki -> 429
+https://www.tellmegen.com/sv/resultat/wellness/tendinopati-ovre-extremiteterna-armar -> 429
+https://www.tellmegen.com/sv/resultat/wellness/uppfattning-besk-smak -> 429
+https://www.tellmegen.com/sv/teknik-och-laboratorier -> 429
+https://www.tellmegen.com/sv/tellmegen-forskning -> 429
