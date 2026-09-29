@@ -1,0 +1,7 @@
+Kit HJEEDCBA2447 preparado en genportal [PROD] (owner_id = NULL).
+Kit HJEEDCBA2447 preparado en genportal [DEV] (owner_id = NULL).
+Mail recibido: Activar cuenta
+Mail recibido: Activar cuenta
+Activando cuenta con: https://app.v1.tellmegen.com/activate/pba8ks692n1tn69a2e3ufomp0p
+Mail recibido: Etiqueta para enviar la muestra de saliva
+Link del PDF encontrado: https://storage.googleapis.com/genportal-ups-return-labels/UPS_HJEEDCBA2447_1Z65V17Y0316789518.pdf?GoogleAccessId=genportal@tg-gcp-project.iam.gserviceaccount.com&Expires=1793269918&Signature=hQBohkJOlolZ3cdPzxM0rbATtiQnZDEkPlkHqxMw6AGPrm1w3d2f%2B2YLk3QIRQgNGQrGMYeOx14wXD%2FTRfMy%2FJp0%2BasGOaQ536GfMnz6KXEf1IvC0HbdEBrCu3JA6E3vuqg%2FdAllJ6IvOojmbCF6FTq5fq2xk5%2FTBgZEsE8tY7n3KeAN2cxxzmZqS%2BVxHABz%2FOHE9jd939QNNA5m1%2Bi9f8vHexQpDJc0zRPt9AtMnpXMYUMN6J4AkQbhF8CRvt5t468tsENGRygwvVLhgVFMe6XiSvlcgTnbTm6%2FXHx94dgP%2BXyJ6AZqizdYq6DiRhjAPLCSV%2BprfU13msA5HjwaAw%3D%3D
