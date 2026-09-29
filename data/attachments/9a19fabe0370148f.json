@@ -1,0 +1,19 @@
+{
+  "test": "tests/test_grupo4_precios.py::test_precios_tmg[pt-https://www.tellmegen.com/pt-https://shop.tellmegen.com/pt/]",
+  "phase": "call",
+  "session_id": "ae710c7d4a157c92195c49188acb7ca5",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "normal",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "data:,",
+  "browser_log": []
+}
