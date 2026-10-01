@@ -1,0 +1,6 @@
+Kit ULLEDCBA2329 preparado en genportal [PROD] (owner_id = NULL).
+Kit ULLEDCBA2329 preparado en genportal [DEV] (owner_id = NULL).
+No llegó el mail dentro del tiempo
+[AVISO] Mail de activación demorado en mail.tm. Registro ULTRA confirmado por UI y validado en DB.
+Owner ID en base de datos luego del registro: 146851
+Cuenta TMG prueba2653590cf451@uberip.com activada quirúrgicamente en DB [DEV] (1 fila).
