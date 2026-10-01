@@ -1,0 +1,68 @@
+{
+  "test": "tests/test_grupo5_resultados.py::test_resultados_tmg_starter",
+  "phase": "call",
+  "session_id": "ad764c54b2e8d9ab73c9eb17acd7f0ce",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "eager",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://dev-app.tellmegen.com/",
+  "browser_log": [
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:310228 \"[Termly] Using standard GCM opt-in defaults\"",
+      "source": "console-api",
+      "timestamp": 1790846361071
+    },
+    {
+      "level": "INFO",
+      "message": "webpack:///./node_modules/vue/dist/vue.runtime.esm.js? 8417:46 \"Download the Vue Devtools extension for a better development experience:\\nhttps://github.com/vuejs/vue-devtools\"",
+      "source": "console-api",
+      "timestamp": 1790846362792
+    },
+    {
+      "level": "INFO",
+      "message": "webpack:///./node_modules/vue/dist/vue.runtime.esm.js? 8427:44 \"You are running Vue in development mode.\\nMake sure to turn on production mode when deploying for production.\\nSee more tips at https://vuejs.org/guide/deployment.html\"",
+      "source": "console-api",
+      "timestamp": 1790846362792
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 177:13973 \"[Termly] Region %o has consent_mode set to %o\" \"virginia\" \"opt_in\"",
+      "source": "console-api",
+      "timestamp": 1790846362825
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://dev-app.v1.tellmegen.com/init?lang=es - [DOM] Input elements should have autocomplete attributes (suggested: \"current-password\"): (More info: https://goo.gl/9p2vKq) %o",
+      "source": "recommendation",
+      "timestamp": 1790846362895
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://app.termly.io/resource-blocker/8d21808c-c083-41e6-80c1-fc1dc45654b4 7:211652 \"[Termly] No GVL found for this website. TCFProvider is providing noop functions.\"",
+      "source": "console-api",
+      "timestamp": 1790846362908
+    },
+    {
+      "level": "SEVERE",
+      "message": "javascript 1:0 Uncaught ReferenceError: analytics is not defined",
+      "source": "javascript",
+      "timestamp": 1790846363641
+    },
+    {
+      "level": "SEVERE",
+      "message": "javascript 1:0 Uncaught ReferenceError: analytics is not defined",
+      "source": "javascript",
+      "timestamp": 1790846363677
+    }
+  ]
+}
