@@ -1,0 +1,32 @@
+{
+  "test": "tests/test_grupo4_precios.py::test_precios_koko[pl-https://www.kokogenetics.com/pl/-https://shop.kokogenetics.com/pl/]",
+  "phase": "call",
+  "session_id": "5efb499ec77b185e94601be9c124f536",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "eager",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://www.kokogenetics.com/pl/",
+  "browser_log": [
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/pl/ - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790843963086
+    },
+    {
+      "level": "SEVERE",
+      "message": "https://www.kokogenetics.com/favicon.ico - Failed to load resource: the server responded with a status of 429 ()",
+      "source": "network",
+      "timestamp": 1790843963372
+    }
+  ]
+}

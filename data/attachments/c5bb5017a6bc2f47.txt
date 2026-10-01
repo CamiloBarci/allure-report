@@ -1,0 +1,2 @@
+Kit HJEEDCBA2447 preparado en genportal [PROD] (owner_id = NULL).
+Kit HJEEDCBA2447 preparado en genportal [DEV] (owner_id = NULL).

@@ -1,0 +1,2 @@
+Kit ULLEDCBA2329 preparado en genportal [PROD] (owner_id = NULL).
+Kit ULLEDCBA2329 preparado en genportal [DEV] (owner_id = NULL).
