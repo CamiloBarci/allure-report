@@ -1,0 +1,50 @@
+{
+  "test": "tests/test_grupo5_resultados.py::test_resultados_koko_gato",
+  "phase": "call",
+  "session_id": "3a845c9c47a034a5d65161634bba453c",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "eager",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://devportal.kokogenetics.com/results/traits",
+  "browser_log": [
+    {
+      "level": "SEVERE",
+      "message": "webpack://kokogenetics-web/./node_modules/vue/dist/vue.runtime.esm.js? 4643:20 \"[Vue warn]: Error in created hook: \\\"TypeError: Cannot read properties of undefined (reading 'includes')\\\"\\n\\nfound in\\n\\n---> \\u003CLoginForm> at src/components/login/LoginForm.vue\\n       \\u003CLoginView> at src/views/login/LoginView.vue\\n         \\u003CVMain>\\n           \\u003CVApp>\\n             \\u003CLoginLayout> at src/layouts/LoginLayout.vue\\n               \\u003CApp> at src/App.vue\\n                 \\u003CRoot>\"",
+      "source": "console-api",
+      "timestamp": 1790843158823
+    },
+    {
+      "level": "SEVERE",
+      "message": "webpack://kokogenetics-web/./node_modules/vue/dist/vue.runtime.esm.js? 3089:16 TypeError: Cannot read properties of undefined (reading 'includes')\n    at VueComponent.created (webpack://kokogenetics-web/./src/components/login/LoginForm.vue?./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use%5B0%5D!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options:47:52)\n    at invokeWithErrorHandling (webpack://kokogenetics-web/./node_modules/vue/dist/vue.runtime.esm.js?:3058:61)\n    at callHook$1 (webpack://kokogenetics-web/./node_modules/vue/dist/vue.runtime.esm.js?:4072:13)\n    at Vue._init (webpack://kokogenetics-web/./node_modules/vue/dist/vue.runtime.esm.js?:5728:9)\n    at new VueComponent (webpack://kokogenetics-web/./node_modules/vue/dist/vue.runtime.esm.js?:5861:18)\n    at createComponentInstanceForVnode (webpack://kokogenetics-web/./node_modules/vue/dist/vue.runtime.esm.js?:4583:12)\n    at init (webpack://kokogenetics-web/./node_modules/vue/dist/vue.runtime.esm.js?:4445:52)\n    at createComponent (webpack://kokogenetics-web/./node_modules/vue/dist/vue.runtime.esm.js?:6602:17)\n    at createElm (webpack://kokogenetics-web/./node_modules/vue/dist/vue.runtime.esm.js?:6556:13)\n    at VueComponent.patch [as __patch__] (webpack://kokogenetics-web/./node_modules/vue/dist/vue.runtime.esm.js?:7106:13)",
+      "source": "console-api",
+      "timestamp": 1790843158827
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://devportal.kokogenetics.com/login/?lang=es - [DOM] Input elements should have autocomplete attributes (suggested: \"current-password\"): (More info: https://goo.gl/9p2vKq) %o",
+      "source": "recommendation",
+      "timestamp": 1790843159039
+    },
+    {
+      "level": "INFO",
+      "message": "webpack://kokogenetics-web/./node_modules/vue/dist/vue.runtime.esm.js? 8818:54 \"Download the Vue Devtools extension for a better development experience:\\nhttps://github.com/vuejs/vue-devtools\"",
+      "source": "console-api",
+      "timestamp": 1790843159072
+    },
+    {
+      "level": "INFO",
+      "message": "webpack://kokogenetics-web/./node_modules/vue/dist/vue.runtime.esm.js? 8818:54 \"Download the Vue Devtools extension for a better development experience:\\nhttps://github.com/vuejs/vue-devtools\"",
+      "source": "console-api",
+      "timestamp": 1790843167904
+    }
+  ]
+}
