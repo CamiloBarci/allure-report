@@ -1,0 +1,16 @@
+Se detectaron 15 enlaces con error en https://www.tellmegen.com/sv_sitemap.xml:
+https://www.tellmegen.com/sv/genetisk-predisposition-test -> 404
+https://www.tellmegen.com/sv/resultat/arftliga-sjukdomar/maple-syrup-urine-disease -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=6)
+https://www.tellmegen.com/sv/resultat/arftliga-sjukdomar/sallas-sjukdom -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=6)
+https://www.tellmegen.com/sv/resultat/farmakogenetik/amitriptylin-dosering -> TooManyRedirects: Exceeded 30 redirects.
+https://www.tellmegen.com/sv/resultat/farmakogenetik/fenitoin-dosering -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=6)
+https://www.tellmegen.com/sv/resultat/farmakogenetik/fentanyl-effektivitet -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=6)
+https://www.tellmegen.com/sv/resultat/farmakogenetik/flecainid-dosering -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=6)
+https://www.tellmegen.com/sv/resultat/farmakogenetik/flucloxacillin-biverkningar -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=6)
+https://www.tellmegen.com/sv/resultat/farmakogenetik/fluvoxamin-dosering -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=6)
+https://www.tellmegen.com/sv/resultat/farmakogenetik/gonadotropiner-agglossningsstimulerande-medel-effektivitet -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=6)
+https://www.tellmegen.com/sv/resultat/farmakogenetik/hormonella-preventivmedel-biverkningar -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=6)
+https://www.tellmegen.com/sv/resultat/farmakogenetik/klopidogrel-dosering -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=6)
+https://www.tellmegen.com/sv/resultat/farmakogenetik/nilotinib-biverkningar -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=6)
+https://www.tellmegen.com/sv/resultat/farmakogenetik/nortriptylin-dosering -> ReadTimeout: HTTPSConnectionPool(host='www.tellmegen.com', port=443): Read timed out. (read timeout=6)
+https://www.tellmegen.com/sv/resultat/farmakogenetik/risperidon-dosering -> TooManyRedirects: Exceeded 30 redirects.

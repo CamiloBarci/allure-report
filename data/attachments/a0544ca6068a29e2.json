@@ -1,0 +1,32 @@
+{
+  "test": "tests/test_grupo2_funcionales.py::test_registracionusuarioVivabioma",
+  "phase": "call",
+  "session_id": "1c3baa3259f45d69b4b7135e13e3917a",
+  "browser_version": "152.0.7977.82",
+  "chromedriver_version": "152.0.7977.82 (d04cdb24d67b081f6cf80200ffc5233f44b61109-refs/branch-heads/7977@{#2322})",
+  "page_load_strategy": "eager",
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "requested_viewport": [
+    1920,
+    1080
+  ],
+  "url": "https://dev-app.vivabioma.com/registry-account",
+  "browser_log": [
+    {
+      "level": "DEBUG",
+      "message": "https://dev-app.vivabioma.com/create-account?lang=es - [DOM] Input elements should have autocomplete attributes (suggested: \"new-password\"): (More info: https://goo.gl/9p2vKq) %o",
+      "source": "recommendation",
+      "timestamp": 1790850803985
+    },
+    {
+      "level": "DEBUG",
+      "message": "https://dev-app.vivabioma.com/create-account?lang=es - [DOM] Input elements should have autocomplete attributes (suggested: \"new-password\"): (More info: https://goo.gl/9p2vKq) %o",
+      "source": "recommendation",
+      "timestamp": 1790850803990
+    }
+  ]
+}
